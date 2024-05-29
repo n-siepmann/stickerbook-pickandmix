@@ -1,4 +1,3 @@
-//var library = JSON.parse(document.getElementById('libJSON').innerHTML)
 import library from './export.json' assert {type: 'json'}
 window.addEventListener('load', populate);
 document.getElementById('submitButton').addEventListener("click",() => {generate()})
