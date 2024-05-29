@@ -1,0 +1,63 @@
+main{
+    width: 80%;
+    padding-left: 10%;
+  }
+    .libRow {
+        vertical-align: top;
+    }
+    .stickerImg {
+        width: 6.5em;
+        clip-path: inset(2.4% 2.5% 2.4% 2.2% round 6%);
+        }
+    .stickerImgWrap {
+        filter: drop-shadow(4px 4px 2px rgba(0,0,0,0.3));
+      }
+    header {
+      background-color: rgb(10, 67, 67);
+    }
+    h1{
+      color: white;
+    }
+    h4 {
+      font-size: 1.3em;
+      margin-bottom: 0.4em
+    }
+    .scAlert {
+      color: rgb(121,35,35);
+      margin: 0;
+    }
+    div#libraryArea_SC tr:not(:first-child) > td{
+      background-color: rgb(189,222,222);
+    }
+    .libraryTable, .libraryTableMod  {
+      padding-top: 2em;
+      width: 100%;
+    }
+    .libraryTableMod td:first-child{
+      width: 3em;
+    }
+    tr:not(:first-child) td:not(:first-child){
+      border-bottom: 1px solid lightgray;
+      padding-left: 0.4em;
+    }
+    .libraryTable tr td{
+      padding: 0.4em
+    }
+    table.libraryTable tr:first-child {
+      background-color: rgb(35, 121, 120);
+    }
+
+    table.libraryTable tr:first-child > * {
+      color: white;
+      margin-bottom: 0px;
+    }
+    table.libraryTable > tbody > tr:first-child > td  {
+      vertical-align: bottom;
+    }
+    header > table {
+      width: 100%;
+      padding-left: 10%;
+    }
+    header > table > tr > td {
+      vertical-align: top;
+    }
