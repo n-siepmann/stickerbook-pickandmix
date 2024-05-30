@@ -25,6 +25,8 @@ main{
     .scAlert {
       color: rgb(121,35,35);
       margin: 0;
+      font-size: 1rem;
+      padding-top: 0.5em;
     }
     div#libraryArea_SC tr:not(:first-child) > td{
       background-color: rgb(189,222,222);
