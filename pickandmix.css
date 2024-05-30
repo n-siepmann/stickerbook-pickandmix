@@ -38,9 +38,29 @@ main{
     .libraryTableMod td:first-child{
       width: 3em;
     }
-    tr:not(:first-child) td:not(:first-child){
+    .libraryTable tr:not(:first-child) td:not(:first-child){
       border-bottom: 1px solid lightgray;
       padding-left: 0.4em;
+    }
+    .outputTable{
+      width: 100%
+    }
+    .outputTable tr td{
+      border-bottom: 1px solid lightgray;
+      padding-left: 0.4em;
+    }
+    .outputTable tr:first-child td{
+      background-color: lightslategray;
+      color: white;
+    }
+    .outputTable tr td:first-child{
+      width: 40%;
+    }
+    .outputTable tr td:nth-child(2){
+      width: 20%;
+    }
+    .outputTable tr td:nth-child(3){
+      width: 40%;
     }
     .libraryTable tr td{
       padding: 0.4em
