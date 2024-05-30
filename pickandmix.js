@@ -101,6 +101,7 @@ function generate(){
     var checkboxes = document.getElementsByClassName("stickerSelect");
     var future = [];
     var selected = [];
+    var hasSC = false;
     Array.from(checkboxes).forEach((s) => { if (s.checked == true ){
         var sticker = libObject[s.id]
         if (s.classList.contains('placeholder')){
@@ -108,10 +109,13 @@ function generate(){
         } else {
             selected.push(sticker)
             if (s.id == scCode){
-                scAchCodes.forEach(s => {selected.push(libObject[s])})
+                hasSC = true;
             }
         }}
     })
+    if (hasSC){scAchCodes.forEach(s => {selected.push(libObject[s])})
+    }
+
     document.getElementById("output").style.display = 'block'
     var libTable = document.getElementById("toAddTable")
 
