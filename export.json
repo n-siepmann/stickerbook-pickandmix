@@ -2,6 +2,7 @@
   {
     "sticker_name": "101 to neurodiversity [STICKER UNDER CONSTRUCTION]",
     "description": "What is neurodiversity? How does it apply to a workplace and what can individuals do to be more inclusive? #Ability #Social",
+    "end_description": "Remember to share this sticker with colleagues and why not collect our other DE and I stickers?",
     "active_image_url": "stickers/images/101_to_neurodiversity.jpg",
     "tags": [
       "SB Core",
@@ -23,8 +24,32 @@
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
   },
   {
+    "sticker_name": "Early Bird Collection Achievement",
+    "description": "Be among the first to collect FIVE stickers to earn this limited-time achievement!",
+    "end_description": "Well done for being so quick off the mark - and happy collecting!",
+    "active_image_url": "stickers/images/Early_Bird_XwHAeL5.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "354f3cc4-e516-4a25-931f-959b85faa98e",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "67faecb0-5565-4923-b618-c4b8cf2d3972",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
     "sticker_name": "What is Natural Capital?",
     "description": "What is 'natural capital', how do organisations measure it, and how can we apply it to our own lives and thinking? Find out more from Lauren in 3 minutes.",
+    "end_description": "Thank you for collecting!\r\n_____\r\nFor more on Natural Capital, check out the [Taskforce on Nature-Related Financial Disclosures (TNFD)](https://tnfd.global/) to learn how companies are trying to account for their impact on natural capital.\r\n____\r\nWhy not follow [Earth Overshoot day]( https://www.overshootday.org/) to keep up to date with progress (or lack thereof) as well as some good tips and tools for helping move the date backwards.",
     "active_image_url": "stickers/images/SC_What_is_Natural_Capital.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -49,6 +74,7 @@
   {
     "sticker_name": "Tackling the Global Water Crisis",
     "description": "Learn more about the importance and global challenge of water access in this hard-hitting video from the World Economic Forum.",
+    "end_description": "This video is based on ['Tackling the Global Water Crisis'](https://www.youtube.com/watch?v=r1j6stEXySo) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Tackling_the_Global_Water_Crisis.jpg",
     "tags": [
       "SB Core"
@@ -71,6 +97,7 @@
   {
     "sticker_name": "Captain Planet",
     "description": "Congratulations - this sticker means you have been recognized for going over and above in sustainability by a colleague! Great job and why not 'pay it forward' yourself!?",
+    "end_description": "",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers157.png",
     "tags": [
       "SB Core"
@@ -93,6 +120,7 @@
   {
     "sticker_name": "What is a Carbon Budget?",
     "description": "We all recognise the importance of keeping to a financial budget. But what does a carbon budget look like, how is it calculated, and what happens if we are outside of it?",
+    "end_description": "This video is based on ['Climate Cartoons #1 - What is a Carbon Budget?'](https://www.youtube.com/watch?v=B5iADT6xdn8) by The Green Majority, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/CBRE_CE_and_UK_Carbon_Budget_Wv4deJV.png",
     "tags": [
       "SB Core",
@@ -116,6 +144,7 @@
   {
     "sticker_name": "Creating a Materiality Matrix",
     "description": "Materiality assessments are truly the best place to start when it comes to developing your sustainability strategy for your business or even in your private life. Here’s an introduction to this vital tool.",
+    "end_description": "That’s another sticker collected, and a new addition to your sustainability toolkit!",
     "active_image_url": "stickers/images/SC_Creating_a_Materiality_Matrix_I7OEAHx.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -140,6 +169,7 @@
   {
     "sticker_name": "Paris Agreement",
     "description": "The 'Paris Agreement' is a phrase often used when it comes to climate change and net zero ambitions, but what exactly is it? Find out in this 90 second video.",
+    "end_description": "This video is based on ['3 Main Goals of the Paris Agreement'](https://www.youtube.com/watch?v=4WkAS8F5I7s) by simpleshow foundation, licensed under CC BY 3.0\r\n_____\r\nIf you want to follow how countries are progressing with their Paris targets, [check out Climate Action Tracker](https://climateactiontracker.org/) here.",
     "active_image_url": "stickers/images/Stickerbook_Backgrounds_CRJ_202374.png",
     "tags": [
       "SB Core",
@@ -163,6 +193,7 @@
   {
     "sticker_name": "Where do I have personal impact?",
     "description": "With so much information to take on and so many complexities to bear in mind, it can be hard to know what we can do as individuals to make a positive impact in sustainability. Here are some suggestions for where to start!",
+    "end_description": "[Click here](https://www.creds.ac.uk/challenging-consumption-to-cut-carbon-footprints/) to learn about Ivanova & Barrett’s study that analysed 7,000 studies on personal impact.\r\n\r\n[Click here](https://www.linkedin.com/pulse/what-reduces-our-personal-co2-footprint-we-have-clue-frank-bilstein/) to learn more about daily changes and where we often get confused.\r\n\r\n[Fact-check](https://fullfact.org/news/are-100-companies-causing-71-carbon-emissions/) the statistic that 100 companies produce 71% of green house gas emissions.\r\n\r\n—--\r\n\r\nIvanova, D., Barrett, J., Dominik Wiedenhofer and Creutzig, F. (2020). Quantifying the potential for climate change mitigation of consumption options. [online] ResearchGate. Available at: https://www.researchgate.net/publication/340370915_Quantifying_the_potential_for_climate_change_mitigation_of_consumption_options [Accessed 28 Mar. 2024] Licensed under CC BY 4.0",
     "active_image_url": "stickers/images/SC_Where_can_I_have_personal_impact__incl_pensions_TQ0kGxp.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -187,6 +218,7 @@
   {
     "sticker_name": "Set yourself a goal",
     "description": "It’s sometimes said that the best way to learn something is to teach it - but psychologists from the Universities of Pennsylvania and Chicago have found that giving advice to others can actually give us a significant boost in creating positive action in our own lives. So how can we put this into practice?",
+    "end_description": "You can read [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6728546/) about Eskreis-Winkler, Fishbach and Duckworth’s surprising findings about the impact of giving advice - and good luck with your goals!",
     "active_image_url": "stickers/images/SC_Set_yourself_a_Goal_Give_yourself_Sustainability_Advice_0IZ9dxv.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -211,6 +243,7 @@
   {
     "sticker_name": "Become an active investor",
     "description": "Becoming an 'active investor' means taking control of where your pension is invested. John presents a video created by the Make My Money Matter campaign for a brief introduction to 'active investing', how you can align your savings with personal values and the difference this can make.",
+    "end_description": "One more for the collection - [watch and share the Make My Money Matter video here](https://www.youtube.com/watch?v=tCfy0DZQLe0)\r\n___\r\nDid you know? According to calculations made by Nordea’s sustainable finance team, moving your pension savings to sustainable funds can be 27 times more efficient than changing key diet, travel and lifestyle choices?\r\n\r\n [Find out more here](https://aether-uk.com/News/January-2021/How-changing-your-pension-can-impact-the-planet)",
     "active_image_url": "stickers/images/SC_Become_an_Active_investor_qzfMwtz.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -236,6 +269,7 @@
   {
     "sticker_name": "Suggest an improvement",
     "description": "We'd love to hear from you - what could your organisation be doing to improve our sustainability practices?",
+    "end_description": "You obviously think about sustainability - if you haven't already, why not join the sustainability network as either a Sustainability Champion or an Ambassador.",
     "active_image_url": "stickers/images/SC_Suggest_an_Improvement_CJbpu7h.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -260,6 +294,7 @@
   {
     "sticker_name": "Become a Champion",
     "description": "Become a Sustainability Champion by collecting this sticker and opting to help promote sustainability and stickers across your team – there is nobody better than a trusted colleague to raise awareness of key issues and initiatives, and you can help drive sustainable change by collecting this sticker.",
+    "end_description": "Thank you for offering to be a sustainability Champion!\r\n____\r\nPlease look out for direct messages about key sustainability issues and initiatives throughout the year, and please keep driving the message of sustainability with your colleagues to drive change as quickly as possible!",
     "active_image_url": "stickers/images/SC_Become_a_Champion_UFw8gd0.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -284,6 +319,7 @@
   {
     "sticker_name": "Reduce your plastic",
     "description": "Plastic is a common issue with sustainability. Join Rob on his walk for 5 practical tips on reducing plastic at work or home and to learn more about [Plastic Free July](https://www.plasticfreejuly.org/).",
+    "end_description": "By 2050, [there might be more plastic in the oceans than fish](https://www.ellenmacarthurfoundation.org/publications/the-new-plastics-economy-rethinking-the-future-of-plastics-catalysing-action), so thank you for collecting and taking action!\r\n_____\r\nLearn more about [Greenpeace](https://www.greenpeace.org.uk/news/9-ways-reduce-plastic-use/?source=GA&subsource=GOFRNAOAGA014L&gclid=Cj0KCQjwgtWDBhDZARIsADEKwgOHaUUgo5cD7egfFjzE84IG-pCjm4eFPwnDHCCdc8Yqez8-4oa91SkaAhvEEALw_wcB) and the [WWF's](https://www.wwf.org.uk/updates/ten-tips-reduce-your-plastic-footprint?pc=AUT005007&gclsrc=aw.ds&&gclid=Cj0KCQjwgtWDBhDZARIsADEKwgNNYmG_fbvYNLqbzf4otINQe17eequrtuNCT14oak3sYWk-U_X1wR8aAok_EALw_wcB) plastic reduction tips here, and [Plastic Free July](https://www.plasticfreejuly.org/) \r\n____\r\nFor a deeper dive check out [Our World in Data's FAQs on Plastics](https://ourworldindata.org/faq-on-plastics), [UNEP's Plastic Pollution overview](https://www.unep.org/interactive/beat-plastic-pollution/) or the [WEForum's 10 most common types of plastic choking Europe's rivers](https://www.weforum.org/agenda/2019/04/the-10-most-common-types-of-plastic-choking-europe-s-rivers/).",
     "active_image_url": "stickers/images/SC_Reduce_your_plastic_fcOF3Vk.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -308,6 +344,7 @@
   {
     "sticker_name": "Greener email habits",
     "description": "Emails are a part of everyday life - but did you know they produce carbon? Watch the video to find out how and what actions you can take to reduce your email footprint.",
+    "end_description": "[Click here](https://www.sciencefocus.com/planet-earth/the-thought-experiment-what-is-the-carbon-footprint-of-an-email/#:~:text=In%20a%20year%2C%20an%20average,million%20cars%20on%20the%20roads.) to read Science Focus Magazine's summary of email footprints.\r\n\r\n____\r\nIf you would like to add something to your e-signature, here are examples you can use:\r\n\r\n*Did you know a standard email = 4g of carbon emissions (50g with attachments)*\r\n\r\n*620 million tons of carbon are produced every year by emails, make it count!*",
     "active_image_url": "stickers/images/SC_Greener_Email_Habits_6IhpNeF.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -333,6 +370,7 @@
   {
     "sticker_name": "Beat the Vampire - Standby Energy Use",
     "description": "Did you know that electronic devices can use electricity even when turned off? Here's some information from Dartmouth College.",
+    "end_description": "This video is based on ['Phantom Load'](https://www.youtube.com/watch?v=L4kH3G1AdsQ) by DART.ENVS.01.X, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Beat_the_Vampire_-_Standby_Energy_Use.jpg",
     "tags": [
       "SB Core"
@@ -355,6 +393,7 @@
   {
     "sticker_name": "Key COP Terms",
     "description": "Whilst COP tends to receive a lot of media coverage, some of the key phrases associated with it can feel a bit like an alphabet soup. Join Nick from Stickerbook for a simple explainer guide to these key terms.",
+    "end_description": "",
     "active_image_url": "stickers/images/COP_terms_UK_CE.png",
     "tags": [
       "COP28",
@@ -378,6 +417,7 @@
   {
     "sticker_name": "Measure my footprint",
     "description": "Watch this short video from Stickerbook’s own John Isherwood to understand more about this well-known phrase, and share your footprint with us to collect this sticker.",
+    "end_description": "Thank you for taking the time to measure and share your footprint - and check out our personal action sticker for research about where we can have the most personal impact.\r\n___\r\n[Here's a useful blog from Columbia University's Earth Institute covering tips to reduce your personal footprint](https://blogs.ei.columbia.edu/2018/12/27/35-ways-reduce-carbon-footprint/)",
     "active_image_url": "stickers/images/SC_Measure_my_Footprint_7w0LnJt.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -402,6 +442,7 @@
   {
     "sticker_name": "Film a Sticker",
     "description": "Put your name forward to volunteer and film a sticker for us in the future. It is a great opportunity to raise your profile and get more involved with sustainability at Capco.",
+    "end_description": "Thank you for volunteering to help.\r\n____\r\n\r\n-  We will be in touch in due course, once we have new stickers ready for creation or re-filming. Your 5 minutes of fame awaits!",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers64.png",
     "tags": [
       "SB Core"
@@ -424,6 +465,7 @@
   {
     "sticker_name": "Changes I’ve made in my personal life",
     "description": "In this sticker you can share changes you've made in your personal life to be more sustainable, improve physical or mental health or to set a positive example.",
+    "end_description": "Thank you for sharing!\r\n_____\r\nWe will collate the responses and share them back across the Stickerbook community.  Why not share this sticker on your social media to further increase the positive impact?",
     "active_image_url": "stickers/images/SC_Changes_Ive_made_in_my_personal_life_ql3poGV.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -448,6 +490,7 @@
   {
     "sticker_name": "Changes I’ve made at work",
     "description": "In this sticker you can share changes you've made in your actions and decisions in work to help be more sustainable, or to improve the physical or mental health of your team.",
+    "end_description": "Thank you for sharing!\r\n_____\r\nWe will collate the responses and share them back across the Stickerbook community.  Why not share this sticker on your social media to further increase the positive impact?\r\n_____\r\nAt the end of each quarter we will award the person who submits the most impactful change with a special sticker [possible a prize] prize to say thank you for leading positive change.",
     "active_image_url": "stickers/images/SC_Changes_Ive_made_at_work_set_a_goal_etc._r8G51Z3.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -472,6 +515,7 @@
   {
     "sticker_name": "Greenwash 101",
     "description": "The shadow of greenwash can feel like an ever present with sustainability - but what exactly is it, how common is it, and how can you spot/stop it? Join Lisa to find out!",
+    "end_description": "-\t[Click here to visit a dedicated greenwash NGO highlighting current issues with this topic](https://www.greenwash.earth/)\r\n-   [Visit Greenpeace's page helping people spot greenwash in their day-day lives or even make a complaint about greenwashing you have noticed](https://www.greenpeace.org.uk/news/what-is-greenwashing/).",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers70.png",
     "tags": [
       "CBRE Hotels 2",
@@ -495,6 +539,7 @@
   {
     "sticker_name": "Sustainable Design in Practice",
     "description": "Join Simon and Allie for a 3 minute introduction to sustainable design with - real life examples to bring the principles to life!",
+    "end_description": "Thanks for sharing a building(s) you admire for being sustainable and collect our Building a Net Zero Building sticker for more on this topic.",
     "active_image_url": "stickers/images/design_in_practice_gIX3LPK.png",
     "tags": [
       "SB Core"
@@ -517,6 +562,7 @@
   {
     "sticker_name": "Building a Net Zero Building",
     "description": "Learn how to build a net zero building – taking into account both the construction and operation phases in 4 minutes with Henry.",
+    "end_description": "If you would like to know more, [check out the World Green Building Council’s Advancing Net Zero research and guide]( https://www.worldgbc.org/advancing-net-zero).",
     "active_image_url": "stickers/images/NZ_Building_x7Gto32.png",
     "tags": [
       "SB Core"
@@ -539,6 +585,7 @@
   {
     "sticker_name": "How to electrify a building",
     "description": "Achieving net-zero will require us to look at how our buildings operate and reduce their reliance on fossil fuels for heating and cooling. Learn how this can be done in our homes and workplaces from an MIT Professor and Stickerbook.",
+    "end_description": "This video is based on ['Electrification of Buildings & Industry – Climate Action Simulation at MIT'](https://www.youtube.com/watch?v=F7o6Cr7603c) by Climate Interactive, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/How_to_electrify_a_building.jpg",
     "tags": [
       "SB Core"
@@ -561,6 +608,7 @@
   {
     "sticker_name": "Urban heat islands 101",
     "description": "Many of us live in towns and cities and can be effected by Urban Heat Islands, but what are they, how are they caused, and how can we reduce their effect?",
+    "end_description": "This video is based on ['What Makes Cities So Hot?'](https://www.youtube.com/watch?v=pFMVpYkQjbc) by NSF NCAR & UCAR Science Education, and ['NASA ARSET: Land Surface Temperature-Based Urban Heat Island Mapping, Part 1/3'](https://www.youtube.com/watch?v=KYV2j3kwj2A) by NASA Video, both licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Urban_heat_islands_101.jpg",
     "tags": [
       "SB Core"
@@ -583,6 +631,7 @@
   {
     "sticker_name": "What is Impact investing?",
     "description": "An introduction to impact funds; what are they and how do they bring about positive change?",
+    "end_description": "",
     "active_image_url": "stickers/images/what_is_impact_investing.png",
     "tags": [
       "SB Core"
@@ -605,6 +654,7 @@
   {
     "sticker_name": "What is TCFD? [STICKER UNDER CONSTRUCTION]",
     "description": "The Task Force on Climate-Related Financial Disclosures (TCFD) is a framework to help public companies and other organizations disclose climate-related risks and opportunities. It helps make reporting more consistent and comparable.",
+    "end_description": "- [Find out more about S&P Global's Market Intelligence on TCFD here](https://www.spglobal.com/marketintelligence/en/campaigns/i-need-to-align-with-tcfd) and their [original video here](https://www.youtube.com/watch?v=CM3AS61JEu8)",
     "active_image_url": "stickers/images/what_is_tcfd.png",
     "tags": [
       "SB Core",
@@ -628,6 +678,7 @@
   {
     "sticker_name": "Accuracy Streak - Level 3",
     "description": "The streak stickers recognise and reward accurate answers to the sticker questions - to achieve this sticker you need 15 first time correct answers in a row.\r\nHappy Collecting!",
+    "end_description": "You're doing great! How long can you keep your streak going?",
     "active_image_url": "stickers/images/Accuracy_streak_3.jpg",
     "tags": [
       "SB Core"
@@ -650,6 +701,7 @@
   {
     "sticker_name": "Accuracy Streak - Level 2",
     "description": "The streak stickers recognise and reward accurate answers to the sticker questions - to achieve this sticker you need 10 first time correct answers in a row.\r\nHappy Collecting!",
+    "end_description": "Well done! How long can you keep your streak going?",
     "active_image_url": "stickers/images/Accuracy_streak_2.jpg",
     "tags": [
       "SB Core"
@@ -672,6 +724,7 @@
   {
     "sticker_name": "Accuracy Streak - Level 4",
     "description": "The streak stickers recognise and reward accurate answers to the sticker questions - to achieve this sticker you need 20 first time correct answers in a row.\r\nGood luck and Happy Collecting!",
+    "end_description": "Amazing! How long can you keep your streak going?",
     "active_image_url": "stickers/images/Accuracy_streak_4.jpg",
     "tags": [
       "SB Core"
@@ -694,11 +747,12 @@
   {
     "sticker_name": "Accuracy Streak - Level 1",
     "description": "The streak stickers recognise and reward accurate answers to the sticker questions - to achieve this sticker you need 5 first time correct answers in a row.\r\nHappy Collecting!",
+    "end_description": "You're off to a great start! How long can you keep your streak going?",
     "active_image_url": "stickers/images/Accuracy_streak_1.jpg",
     "tags": [
       "SB Core"
     ],
-    "collectcount": "1",
+    "collectcount": null,
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "047925e8-c4b2-4b1e-ba40-71b3315e41c5",
@@ -716,6 +770,7 @@
   {
     "sticker_name": "Accuracy Streak - Level 5",
     "description": "The streak stickers recognise and reward accurate answers to the sticker questions - to achieve this sticker you need 25 first time correct answers in a row.\r\nGood luck and Happy Collecting!",
+    "end_description": "Incredible! How long can you keep your streak going?",
     "active_image_url": "stickers/images/Accuracy_streak_5.jpg",
     "tags": [
       "SB Core"
@@ -738,6 +793,7 @@
   {
     "sticker_name": "SC: Personal Actions - Gold",
     "description": "This gold achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion! \r\n\r\nOnce you've collected the Gold achievements for SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions, you will unlock the Sustainability Champion achievement - happy collecting!",
     "active_image_url": "stickers/images/SC_Personal_Gold.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -761,6 +817,7 @@
   {
     "sticker_name": "SC: Key Topics - Bronze",
     "description": "This bronze achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_Key_Topics_Bronze.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -784,6 +841,7 @@
   {
     "sticker_name": "SC: Personal Actions - Bronze",
     "description": "This bronze achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_Personal_Bronze_fUQOx3L.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -807,6 +865,7 @@
   {
     "sticker_name": "Communicating Sustainability",
     "description": "Join Mark Brownlow (Executive Producer of BBC's Blue Planet 2 and Frozen Planet 2) for a 6 minute recap of his tips for engaging people with sustainability messaging.",
+    "end_description": "To see more of Mark's work check out the BBC's Blue Planet 2 and Frozen Planet 2.",
     "active_image_url": "stickers/images/SC_Communicating_Sustainability.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -832,6 +891,7 @@
   {
     "sticker_name": "Climate Transition Plans 101",
     "description": "Setting targets is one thing but how does an organization develop plans to bring them to life? Join Kieran for a 4 minute introduction to Transition Plans, what they include and who sets best practice.",
+    "end_description": "Want to learn more? [Read and join webinars from CDP to learn more about Transition Plans in practice](https://www.cdp.net/en/guidance/guidance-for-companies/climate-transition-plans) or for deeper dives watch a 60min webinar about [how you can make transition Plans just](https://www.youtube.com/watch?v=Nb_iKBisg3U&t=2s).",
     "active_image_url": "stickers/images/CBRE_IM_Stickers37.png",
     "tags": [
       "Infrastructure",
@@ -855,6 +915,7 @@
   {
     "sticker_name": "Building Relationships",
     "description": "Join James from Stickerbook for an overview of why building relationships can be a key step to success for any sustainability initiative - no matter where you sit in the organisation.",
+    "end_description": "Having collected this sticker, have a think about what you can do to strengthen your working relationships!",
     "active_image_url": "stickers/images/SC_Building_Relationships.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -880,6 +941,7 @@
   {
     "sticker_name": "Sustainability Data 101",
     "description": "Join Chris Western (IEMA) for a key concept for anyone working in and around sustainability - data! Learn about common examples of sustainability data and how we can apply analytical thinking to make more informed and sustainable decisions within your organisation.",
+    "end_description": "For information on how to put sustainability data to use, you might want to check out our ‘Creating a Materiality Matrix’ sticker!",
     "active_image_url": "stickers/images/SC_Sustainability_Data_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -905,6 +967,7 @@
   {
     "sticker_name": "Natural Cycles and Human Impact",
     "description": "Join Saba for a brief overview of our planet’s natural cycles, how humans are impacting upon these and the effect this has on our society and environment.",
+    "end_description": "For more bite sized information on some of our natural cycles and processes, [check out the American Museum of Natural History’s overview of Earth cycles](https://www.amnh.org/exhibitions/permanent/planet-earth/why-is-the-earth-habitable/earth-cycles).",
     "active_image_url": "stickers/images/SC_Natural_Cycles_and_Human_Impact.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -930,6 +993,7 @@
   {
     "sticker_name": "Green Skills 101",
     "description": "With our planet in ecological crisis, green skills will have to be integrated into every aspect of our day-to-day lives, allowing us to protect the global ecosystem while creating new opportunities to build a sustainable future.",
+    "end_description": "You can read more about green skills and the green economy in [this report](https://www2.deloitte.com/uk/en/pages/consulting/articles/green-skills-for-green-economy.html) by Deloitte and IEMA. \r\nYou might also want to learn more about specific skills by taking a look at the [IEMA skills map](https://www.iema.net/sustainability-skills-map).",
     "active_image_url": "stickers/images/SC_Green_Skills_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -954,6 +1018,7 @@
   {
     "sticker_name": "Influencing Behaviour Change",
     "description": "How we deliver a sustainability initiative can be the difference between success and failure. Join Georgie for some simple but effective tips on framing sustainability to give it the best chance to succeed.",
+    "end_description": "For more on this topic check out the [World Economic Forum’s 7 ways to successfully communicate sustainability](https://www.weforum.org/agenda/2022/07/how-to-communicate-sustainability/) but for simplicity try to remember Georgie’s mantra of Positivity, Personalisation and Simplicity.",
     "active_image_url": "stickers/images/SC_Influencing_Behaviour_Change.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -979,6 +1044,7 @@
   {
     "sticker_name": "Building a Sustainability Strategy",
     "description": "Almost every organisation now has a sustainability strategy, but how are these built, what do these tend to cover and who are they aimed at? Join Stickerbook's own John Isherwood (Cambridge Institute for Sustainability Leadership Ambassador) to find out more!",
+    "end_description": "By collecting another sticker you’ve expanded your strategic toolkit - what’s your next step?",
     "active_image_url": "stickers/images/SC_Building_a_Sustainability_Strategy.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1004,6 +1070,7 @@
   {
     "sticker_name": "Carbon Offsetting 101",
     "description": "Collect this sticker by watching the video and learn about what carbon offsetting is, how it works and why business must be careful when using offsets.",
+    "end_description": "Check out the following links to learn more:\r\n\r\nWorld Economic Forum's introduction to [what is carbon offsetting](https://www.weforum.org/agenda/2019/06/what-is-carbon-offsetting/)\r\n\r\nGreenBiz's critique around [the quest for carbon offsets, where (almost) anything goes](https://www.greenbiz.com/article/quest-carbon-offsets-almost-anything-goes)",
     "active_image_url": "stickers/images/SC_Carbon_Offsetting_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1031,6 +1098,7 @@
   {
     "sticker_name": "Climate Legislation in Practice 101",
     "description": "For society to achieve our climate goals we will require all countries to cooperate and work together - is this even feasible? Find out about how this can work in practice in this video from NASA!",
+    "end_description": "[Learn more about what the ozone layer can teach us about climate change](https://unfccc.int/blog/what-the-ozone-layer-teaches-us-about-climate-action) from the UN.\r\n\r\nThis sticker is based on ['The Ozone Hole: Closing the Gap'](https://www.youtube.com/watch?v=6BUT16jfoKk) by NASAEarthObservatory, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/SC_Climate_Legislation_in_Practice_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1055,11 +1123,13 @@
   {
     "sticker_name": "Green Finance 101",
     "description": "Learn the basics of green finance and how to finance a more sustainable future.",
+    "end_description": "One more for the collection!\r\n____\r\nIf you would like to know more about green finance, check out the following articles:\r\n\r\n\r\nProperty Week's [Green loans take root in the real estate debt market](https://www.propertyweek.com/insight/green-loans-take-root-in-the-real-estate-debt-market/5113210.article)\r\n\r\nForsters' [Green loans and their application in the real estate sector](https://www.forsters.co.uk/sustainability/green-loans-application-real-estate-sector)\r\n\r\nMacfarlanes' [Greening finance or financing green in the real estate industry](https://blog.macfarlanes.com/post/102fzge/greening-finance-or-financing-green-in-the-real-estate-industry)\r\n___\r\n\r\nFor comprehensive deep dives, check out these reports and guidance:\r\n\r\n[Guidance on the application of the Green Loans Principles in the real estate finance (REF) investment lending context](https://www.lma.eu.com/application/files/2316/0552/7456/01_LMA_Case_Study_REF_Investments_Green_Buildings_V06.pdf)\r\n\r\nGRESB's [Green Bond Guidelines for the Real Estate Sector](https://www.icmagroup.org/assets/documents/Regulatory/Green-Bonds/Green-Bond-Guidelines-for-the-Real-Estate-Sector.pdf)",
     "active_image_url": "stickers/images/SC_Green_Finance_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Green Skills 101"
+      "SB_SC_Green Skills 101",
+      "MARK ESG Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1079,6 +1149,7 @@
   {
     "sticker_name": "Innovating in Sustainability",
     "description": "Sustainability is a constantly changing area, with many new ideas and tools being implemented to help address environmental and social issues - join Judy for a brief overview of the different types of innovations and how these work.",
+    "end_description": "Thank you for continuing to build your sticker collection! What problems might you be able to solve in your day-to-day role with some innovative thinking?",
     "active_image_url": "stickers/images/SC_Innovating_in_Sustainability.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1104,6 +1175,7 @@
   {
     "sticker_name": "Stranded Assets 101",
     "description": "What are stranded assets? How does a building become stranded and what does it mean? Learn about physical and transition risks here.",
+    "end_description": "Learn more about stranded assets through these suggested links:\r\n\r\n- [Carbon Tracker's Stranded Assets guide](https://carbontracker.org/terms/stranded-assets/)\r\n \r\n- [LSE's Grantham Institute explains stranded assets](https://www.lse.ac.uk/granthaminstitute/explainers/what-are-stranded-assets/)\r\n \r\n- [GRESB's addressing stranded asset risk in real estate](https://gresb.com/addressing-stranded-asset-risk-real-estate-investment/)",
     "active_image_url": "stickers/images/SC_Stranded_Assets_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1112,7 +1184,8 @@
       "Contracted Accounts Level 2",
       "Retail shiny",
       "Valuations",
-      "CBRE Hotels 2"
+      "CBRE Hotels 2",
+      "MARK ESG Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1132,6 +1205,7 @@
   {
     "sticker_name": "Leading Sustainable Change",
     "description": "To lead sustainable change it helps to understand the different types of change management, key barriers and ideas for overcoming them. Join Simon (Stickerbook) for a summary of the key issues that can help everyone lead sustainable change better.",
+    "end_description": "To learn more about leading sustainable change, check out our Sustainability Champion sticker and enjoy the latest thinking and ideas for getting involved in corporate sustainability.",
     "active_image_url": "stickers/images/SC_Leading_Sustainable_Change.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1157,6 +1231,7 @@
   {
     "sticker_name": "Common Tools and Practices",
     "description": "Join Lauren for an overview of the common tools and techniques that organisations use to manage and assess their sustainability policies and strategy.",
+    "end_description": "Another one for the sticker collection! Some food for thought: if you mainly work with qualitative data, is there something you can learn from the realm of qualitative data - or vice versa?",
     "active_image_url": "stickers/images/SC_Common_Tools_and_Practices.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1182,6 +1257,7 @@
   {
     "sticker_name": "Sustainability Regulation 101",
     "description": "Join James for an introduction to the important and ever-changing world of sustainability legislation. Why is it important and what are some of the key examples?",
+    "end_description": "For those interested in learning more [IEMA offer a 1-day training course on Environmental Legislation](https://www.iema.net/courses-information/environmental-legislation) and make sure to sign up to the [UK Green Building Council’s Newsletter](https://ukgbc.org/) for updates on sustainable real estate legislation.",
     "active_image_url": "stickers/images/SC_Sustainability_Regulation_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1207,6 +1283,7 @@
   {
     "sticker_name": "SC: Green Skills 101 - Bronze",
     "description": "This bronze achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_GS101_Bronze.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1230,6 +1307,7 @@
   {
     "sticker_name": "SC: Applying Sustainability - Gold",
     "description": "This gold achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion! \r\n\r\nOnce you've collected the Gold achievements for SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions, you will unlock the Sustainability Champion achievement - happy collecting!",
     "active_image_url": "stickers/images/SC_Applying_Gold.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1253,6 +1331,7 @@
   {
     "sticker_name": "SC: Key Topics - Gold",
     "description": "This gold achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion! \r\n\r\nOnce you've collected the Gold achievements for SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions, you will unlock the Sustainability Champion achievement - happy collecting!",
     "active_image_url": "stickers/images/SC_Key_Topics_Gold.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1276,6 +1355,7 @@
   {
     "sticker_name": "Sustainability Champion - certified by CPD",
     "description": "Become a Sustainability Champion - and add a new CPD Certified qualification to your CV! This 44-sticker pack is designed to address the green skills gap identified across the business world by IEMA, University College of Estate Management, Green Alliance et al.",
+    "end_description": "Congratulations! You are now a CPD-certified Sustainability Champion.\r\n\r\nYou may now add the following to your CV:\r\n\r\n**Sustainability Champion - CPD-certified learning path provided by Stickerbook**",
     "active_image_url": "stickers/images/SC_achievement.jpg",
     "tags": [
       "SB Core"
@@ -1298,6 +1378,7 @@
   {
     "sticker_name": "SC: Green Skills 101 - Silver",
     "description": "This silver achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_GS101_Silver.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1321,6 +1402,7 @@
   {
     "sticker_name": "SC: Green Skills 101 - Gold",
     "description": "This gold achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion! \r\n\r\nOnce you've collected the Gold achievements for SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions, you will unlock the Sustainability Champion achievement - happy collecting!",
     "active_image_url": "stickers/images/SC_GS101_Gold.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1344,6 +1426,7 @@
   {
     "sticker_name": "SC: Personal Actions - Silver",
     "description": "This silver achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_Personal_Silver_D8HcfSt.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1367,6 +1450,7 @@
   {
     "sticker_name": "SC: Applying Sustainability - Bronze",
     "description": "This bronze achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_Applying_Bronze.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1390,6 +1474,7 @@
   {
     "sticker_name": "SC: Key Topics - Silver",
     "description": "This silver achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_Key_Topics_Silver.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1413,6 +1498,7 @@
   {
     "sticker_name": "SC: Applying Sustainability - Silver",
     "description": "This silver achievement is part of our CPD-certified Sustainability Champion learning path. \r\n\r\nYou can become a Sustainability Champion by reaching the gold achievement in SC Key Topics, SC Green Skills 101, SC Applying Sustainability, and SC Personal Actions. \r\n\r\nGood luck!",
+    "end_description": "Congratulations - you're one step closer to becoming a CPD-certified Sustainability Champion!",
     "active_image_url": "stickers/images/SC_Applying_Silver.jpg",
     "tags": [
       "SB_SC_Achievements",
@@ -1436,6 +1522,7 @@
   {
     "sticker_name": "Introduction to Climate Risk",
     "description": "Join Sue (IEMA) as she guides us through common ways organisations will understand, measure and report their climate risks and opportunities. Learn the different types of risks and how companies can manage them.",
+    "end_description": "That’s another sticker collected! Thank you for continuing your sustainability journey with us.",
     "active_image_url": "stickers/images/SC_Introduction_to_Climate_Risk.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1461,6 +1548,7 @@
   {
     "sticker_name": "SB Thank You",
     "description": "An achievement awarded by Team Stickerbook to say thank you for taking the time to help us improve the service for others - it might be feature testing, feedback, raising a snag or providing content. This is a small token of our appreciation - thank you!",
+    "end_description": "Congratulations on being awarded this achievement sticker by Team Stickerbook.\r\n\r\nThank you for your time and effort in helping us improve - whether it was feedback, pointing out a snag, providing content or helping test a new feature we wanted to say thank you!",
     "active_image_url": "stickers/images/Thanks_sticker.png",
     "tags": [
       "SB Core"
@@ -1483,6 +1571,7 @@
   {
     "sticker_name": "Donate at a Food Bank",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -1506,6 +1595,7 @@
   {
     "sticker_name": "Fundamentals of Sustainability",
     "description": "Join Alan Darby (IEMA) for an overview of the fundamental issues and thinking driving sustainability - covering the core issues, models and frameworks for sustainable monitoring and development.",
+    "end_description": "For more on some of the concepts covered in this sticker, [click here to learn about the Sustainable Development Goals](https://sdgs.un.org/goals), [click here to learn about the planetary boundaries](https://www.stockholmresilience.org/research/planetary-boundaries/the-nine-planetary-boundaries.html), [and click here to learn about the 5 Capitals Model](https://www.forumforthefuture.org/the-five-capitals).",
     "active_image_url": "stickers/images/SC_Fundamentals_of_Sustainability.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1531,11 +1621,13 @@
   {
     "sticker_name": "Carbon Pricing 101",
     "description": "This sticker explores carbon pricing, a subject most of us may only have heard vaguely about. By collecting it you will find out what it is, its underlying principles and an introduction to the instruments involved.",
+    "end_description": "If this topic interests you why not collect the Carbon Offsetting sticker or learn about Climate Legislation in practice?",
     "active_image_url": "stickers/images/SC_Carbon_Pricing_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Green Skills 101"
+      "SB_SC_Green Skills 101",
+      "MARK ESG Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1555,6 +1647,7 @@
   {
     "sticker_name": "Sustainable Supply Chains 101",
     "description": "Here’s a quick primer on the complex and interconnected world of supply chains - and vitally, a look at what we can do to make them sustainable.",
+    "end_description": "Now that you’ve got the basics covered, you might want to look into the work that sustainability rating agency [EcoVadis](https://ecovadis.com/) is doing to build transparency in supply chains.\r\n\r\nYou might also want to read more about the aftermath of the Rana Plaza disaster in [this paper](https://www.stern.nyu.edu/sites/default/files/assets/documents/con_047408.pdf) from Sarah Labowitz and Dorothée Baumann-Pauly of the NYU Stern School of Business.",
     "active_image_url": "stickers/images/SC_Sustainable_Supply_Chains_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1579,6 +1672,7 @@
   {
     "sticker_name": "Net Zero and Science Based Targets 101",
     "description": "Net Zero and Science Based Targets are two of the most common business terms relating to climate change, but what exactly do they mean? Find out in 5 minutes.",
+    "end_description": "If you would like to know more about Net  Zero:\r\n\r\n- 3min read – [the New Scientist’s overview on ‘what are net zero emissions’](https://www.newscientist.com/question/net-zero-emissions/)\r\n\r\n- [Search which companies have signed up to Science Based Targets]( https://sciencebasedtargets.org/companies-taking-action)",
     "active_image_url": "stickers/images/SC_Net_Zero_and_Science_Based_Targets_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1608,6 +1702,7 @@
   {
     "sticker_name": "Good Governance 101",
     "description": "Join Jo Watson (Head of Corporate Partnerships at IEMA) to bring the ‘G’ in ESG to life, covering why good governance is important and providing examples of governance in practice.",
+    "end_description": "For more on this topic [check out the World Economic Forum’s guide to the G in ESG](https://www3.weforum.org/docs/WEF_Defining_the_G_in_ESG_2022.pdf) and collect all 16 IEMA stickers to join as an Affiliate - and access all their resources (including governance reports and updates).",
     "active_image_url": "stickers/images/SC_Good_Governance_101.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1633,6 +1728,7 @@
   {
     "sticker_name": "The story of plastics",
     "description": "Environmental villain, or just misunderstood?\r\n\r\nThe theme for Earth Day 2024 is 'Planet vs plastics', and so here's the story of plastics, told by Stickerbook co-founder Simon Kelly.",
+    "end_description": "",
     "active_image_url": "stickers/images/Story_of_Plastics.jpg",
     "tags": [
       "SB Core"
@@ -1655,6 +1751,7 @@
   {
     "sticker_name": "What are the Sustainable Development Goals?",
     "description": "Did you know 71% of organizations report around the Sustainable Development Goals? So what are they, and how do they work? Collect to find out more.",
+    "end_description": "Fancy learning a bit more? Check out [Sustainable Development Report's](https://dashboards.sdgindex.org/map) interactive dashboard to see how countries are performing on the SDGs.",
     "active_image_url": "stickers/images/SC_What_are_the_Sustainable_Development_Goals.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1682,6 +1779,7 @@
   {
     "sticker_name": "What is Climate Change?",
     "description": "Climate change is one of the foremost challenges that our modern society faces. But do you actually understand how it works? Beloved science communicator Hank Green from Vlogbrothers gives a quick primer on what climate change is and how it works.",
+    "end_description": "Want to know more? Why not check out:\r\n\r\nA guide from the master - [Climate Change Facts in 4 minutes by Sir David Attenborough](https://www.bbc.co.uk/programmes/p076w7g5)\r\n\r\n[A Short Guide to Climate Science](https://royalsociety.org/-/media/policy/projects/climate-evidence-causes/climate-change-q-and-a.pdf) by the Royal Society\r\n\r\n[NASA's FAQs on Climate Change](https://climate.nasa.gov/faq/)\r\n\r\nThis video is based on ['How Climate Change /Actually/ Works...in 4 Minutes'](https://www.youtube.com/watch?v=CGoNpwN0mrs) by vlogbrothers, licensed under CC BY 3.0\r\n\r\n___\r\n\r\nFancy a deep dive? Then check out:\r\n\r\nThe Royal Society's and the Natural Academy of Sciences' [Evidence and Causes of Climate Change](https://royalsociety.org/-/media/Royal_Society_Content/policy/projects/climate-evidence-causes/climate-change-evidence-causes.pdf)\r\n\r\n___\r\n\r\nThis video is based on ['How Climate Change /Actually/ Works...in 4 Minutes'](https://www.youtube.com/watch?v=CGoNpwN0mrs) by vlogbrothers, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/SC_What_is_Climate_Change.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1692,7 +1790,7 @@
       "CBRE Hotels 1",
       "SEA Induction"
     ],
-    "collectcount": "1",
+    "collectcount": null,
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "cd0c3335-392f-4e09-85f1-e567bc5f3e8d",
@@ -1710,6 +1808,7 @@
   {
     "sticker_name": "What are COP and the IPCC?",
     "description": "This sticker explains two commonly encountered acronyms - COP and the IPCC.  Collect this sticker to find out what they stand for, their purpose and how their output affects us.",
+    "end_description": "Read more about the Conference of the Parties [here](https://unfccc.int/process/bodies/supreme-bodies/conference-of-the-parties-cop).\r\nRead more about the IPCC [here](https://www.ipcc.ch/about/) and how the nature of the language of the IPCC reports have changed [here](https://time.com/6088583/ipcc-report-climate-change-language/).",
     "active_image_url": "stickers/images/SC_What_are_COP_and_the_IPCC.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1736,6 +1835,7 @@
   {
     "sticker_name": "What are our Planetary Boundaries?",
     "description": "The term ‘environment’ is a very broad one - what are the mechanisms that keep our planet’s global ecosystem functioning? And beyond that, a vital question for our current ecological crisis: how far can we afford to disrupt these systems before we destabilise that ecosystem?",
+    "end_description": "Keep up to date with how many planetary boundaries we have crossed with the help of the [Stockholm Resilience Centre](https://www.stockholmresilience.org/research/planetary-boundaries.html).\r\n\r\nYou might also want to look into Kate Raworth’s ecological bestseller, [‘Doughnut Economics’](https://www.goodreads.com/en/book/show/29214420) which builds on the framework of Planetary Boundaries.\r\n\r\n---\r\nThis video includes footage from ['The Ozone Hole: Closing the Gap'](https://www.youtube.com/watch?v=6BUT16jfoKk) by NASAEarthObservatory, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/SC_What_are_our_Planetary_Boundaries.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1760,6 +1860,7 @@
   {
     "sticker_name": "What is Social Sustainability?",
     "description": "What is the S in ESG? Join Georgie for a super simple breakdown and learn how it's a lot more common practice than you might think!",
+    "end_description": "[Learn more about the Stanford Innovation Review research mentioned in this video](https://ssir.org/articles/entry/fixing_the_s_in_esg) and [learn more about different ESG criteria from Nasdaq](https://www.nasdaq.com/articles/the-rise-of-esg-and-the-importance-of-esg-data).",
     "active_image_url": "stickers/images/SC_What_is_Social_Sustainability.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1785,6 +1886,7 @@
   {
     "sticker_name": "What is Biodiversity?",
     "description": "Join a very special guest to learn more about biodiversity and why it is so important to our planet. Spend 6 minutes with Sir David Attenborough to learn more about our planet and how it interacts with our buildings and infrastructure.",
+    "end_description": "As mentioned by Sir David, [you can learn more about biodiversity and its importance at the Royal Society](https://royalsociety.org/blog/2020/05/biodiversity-faq/).\r\n\r\nThis video is based on ['Why is biodiversity important - with Sir David Attenborough | The Royal Society'](https://www.youtube.com/watch?v=GlWNuzrqe7U) by The Royal Society, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/SC_What_is_Biodiversity.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1809,6 +1911,7 @@
   {
     "sticker_name": "What is the Circular Economy?",
     "description": "'The circular economy' is one of the most common sustainable business phrases - but what exactly does it mean, and what does it look like in practice? Find out now from the experts who developed the concept.",
+    "end_description": "[Click here](https://www.ellenmacarthurfoundation.org/) to learn more about the Circular Economy from the Ellen MacArthur Foundation\r\n\r\nThis video is based on ['Explaining the Circular Economy and How Society Can Re-think Progress | Animated Video Essay'](https://www.youtube.com/watch?v=zCRKvDyyHmI) by Ellen MacArthur Foundation, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/SC_What_is_the_Circular_Economy.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1833,6 +1936,7 @@
   {
     "sticker_name": "Waste and recycling",
     "description": "Have you ever wondered where waste goes and why different offices have different bin systems? This sticker provides an overview of waste systems and recycling, and will help explain why companies will often have different types of waste targets in their ESG/sustainability strategy.",
+    "end_description": "For more on this topic, why not look at:\r\n\r\n-  [UN Habitat's tools and resources for waste management in cities]( https://unhabitat.org/topic/waste-management)\r\n\r\n-  [World Bank's Interactive map showing waste generation per country](https://datatopics.worldbank.org/what-a-waste/)\r\n\r\n-  [The Environment Protection Agency's Guide to Managing and Reducing Wastes for Commercial Buildings](https://www.epa.gov/smm/managing-and-reducing-wastes-guide-commercial-buildings)",
     "active_image_url": "stickers/images/SC_Waste_and_recycling.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1859,7 +1963,8 @@
   {
     "sticker_name": "What are greenhouse gases?",
     "description": "Join Stickerbook's Lauren for a 4 minute overview of how companies measure greenhouse gases and what scope 1, 2 and 3 emissions are.",
-    "active_image_url": "stickers/images/SC_What_are_greenhouse_gases_scope_12_and_3_emissions.jpg",
+    "end_description": "Want to know more:\r\n\r\n[Click here to see a great visualization of scope 1, 2 and 3 emissions](https://www.visualcapitalist.com/decarbonization-101-what-carbon-emissions-are-part-of-your-footprint/).\r\n\r\n[Click here to visit the GHG Protocol](https://ghgprotocol.org/)  – for all the latest on emissions guidance and advice",
+    "active_image_url": "stickers/images/SC_What_are_greenhouse_gases_scope_12_and_3_emissions_XMwQD9t.jpg",
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
@@ -1887,6 +1992,7 @@
   {
     "sticker_name": "What is Renewable Energy?",
     "description": "Renewable energy is a truly indispensable tool in addressing the climate emergency and creating a sustainable future. Here’s a rundown of the basics!",
+    "end_description": "To learn more about the latest on the renewables market, check out:\r\n\r\n-  [The International Renewable Energy Agency](https://www.irena.org/)\r\n-  [The International Energy Agency's 2021 report into renewable energy](https://www.iea.org/reports/global-energy-review-2021/renewables)\r\n-  *TOP PICK* [Our World in Data's constantly updated renewable energy visualizations](https://ourworldindata.org/renewable-energy)",
     "active_image_url": "stickers/images/SC_What_is_Renewable_Energy.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1911,6 +2017,7 @@
   {
     "sticker_name": "Why sustainability matters to me",
     "description": "Sustainability is an incredibly broad and varied topic, and it can be a challenge to know where to put your focus. Here’s your opportunity to let us know what sustainability issues are closest to your heart!",
+    "end_description": "Thank you for helping us develop our sustainability learning resources and target the issues that matter to our users. Happy collecting!",
     "active_image_url": "stickers/images/SC_Why_Sustainability_Matters_to_me_6vGjkGz.jpg",
     "tags": [
       "SB_Sustainability Champion",
@@ -1936,6 +2043,7 @@
   {
     "sticker_name": "Become a Sustainability Ambassador",
     "description": "Become an ESG Ambassador by collecting this sticker and opting to receive key sustainability information to help share and promote with your team – there is nobody better than a trusted colleague to raise awareness of key issues and initiatives and you can help drive sustainable change by collecting this sticker.",
+    "end_description": "Thank you for offering to be a sustainability ambassador!\r\n____\r\nPlease look out for direct messages about key sustainability issues and initiatives throughout the year and please keep driving the message of sustainability with your colleagues to drive change as quickly as possible.\r\n\r\nPlease email us  at info@obliquitygroup.com should you wish to step down from this role.",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers16.png",
     "tags": [
       "SB Core"
@@ -1958,6 +2066,7 @@
   {
     "sticker_name": "Take 5 for Wellbeing",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Placeholder",
@@ -1981,6 +2090,7 @@
   {
     "sticker_name": "What is Equity v Equality",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -2004,6 +2114,7 @@
   {
     "sticker_name": "The Hidden Disabilities Sunflower",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -2027,6 +2138,7 @@
   {
     "sticker_name": "Autism 101",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Placeholder",
@@ -2050,6 +2162,7 @@
   {
     "sticker_name": "Global Sustainability Reporting 101 (ISSB)",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -2073,6 +2186,7 @@
   {
     "sticker_name": "What is Sustainable Development?",
     "description": "Here's a quick and fun explainer from the UN about the concept of Sustainable Development!",
+    "end_description": "This video is based on ['What is sustainable development?'](https://www.youtube.com/watch?v=7V8oFI4GYMY) by FN-sambandet Norge, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/What_is_Sustainable_Development_B9EfJsq.jpg",
     "tags": [
       "SB Core"
@@ -2095,6 +2209,7 @@
   {
     "sticker_name": "Team Sticker",
     "description": "Collect the team sticker by simply joining or creating a team and taking action together. And don’t forget to share this sticker with colleagues to grow your team!",
+    "end_description": "Share this sticker with colleagues to grow your team! And keep an eye out for team competitions throughout the year and track progress of your team in the leaderboard.",
     "active_image_url": "stickers/images/Copy_of_Basic_Sticker_Template_CRJ_1.jpg",
     "tags": [
       "SB Core"
@@ -2117,6 +2232,7 @@
   {
     "sticker_name": "Thank you Sticker",
     "description": "Collect this sticker by recognising or thanking a colleague for going above and beyond in sustainability - from helping on a project, to sharing information or giving time - simply send a quick thank you to collect, and they will receive your note and the Captain Planet sticker in return!",
+    "end_description": "Thank you for paying it forward - recognising someone for their efforts can change someone's day.",
     "active_image_url": "stickers/images/Copy_of_Basic_Sticker_Template_CRJ.jpg",
     "tags": [
       "SB Core"
@@ -2139,6 +2255,7 @@
   {
     "sticker_name": "Onsite Renewables",
     "description": "Collect this sticker for a 4 minute overview of what on-site renewables are and how they can save both emissions and money for occupiers, landlords and investors.",
+    "end_description": "If you would like to know more, check out the [Chartered Institution of Building Services Engineers' simple guide to Onsite Renewables](https://www.cibsecertification.co.uk/About-us/About-Energy-Certificates/Energy-Performance-Certificates/Preparing-for-an-EPC/Onsite-Energy-Generation.asp)",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers3_3wfaTFl.jpg",
     "tags": [
       "SB Core"
@@ -2161,6 +2278,7 @@
   {
     "sticker_name": "What is Carbon Capture?",
     "description": "To reach net zero, we will need not only to reduce emissions, but also to reduce carbon already in the atmosphere. Here's Stanford University's Professor Sally Benson with a quick introduction to the topic.",
+    "end_description": "This video is based on ['Capturing Carbon | Sally Benson | The Future of Energy'](https://www.youtube.com/watch?v=7HlypMpyNPU) by Stanford ENERGY, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/What_is_Carbon_Capture.jpg",
     "tags": [
       "SB Core"
@@ -2183,6 +2301,7 @@
   {
     "sticker_name": "Conducting an EIA",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -2206,6 +2325,7 @@
   {
     "sticker_name": "The next 100 years if we don't act",
     "description": "Join the World Economic Forum (WEF) for a short video that captures the latest environmental science to highlight the future we can look forward to if we don't act on the climate emergency today.",
+    "end_description": "This video is based on ['This is Earth in the next 100 years if we don't act on climate change | Ways to Change the World'](https://www.youtube.com/watch?v=o-KyEYa3vuM) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/The_next_100_years_if_we_dont_act.jpg",
     "tags": [
       "SB Core"
@@ -2228,7 +2348,8 @@
   {
     "sticker_name": "The future of energy",
     "description": "Take a look forward into the energy transition that our world must make to create a sustainable future, in this video from the World Economic Forum.",
-    "active_image_url": "stickers/images/The_future_of_Energy.jpg",
+    "end_description": "This video is based on ['The Future of Energy: An Overview'](https://www.youtube.com/watch?v=zwsAf0do-yo) by World Economic Forum, licensed under CC BY 3.0",
+    "active_image_url": "stickers/images/The_future_of_Energy_1bANvR2.jpg",
     "tags": [
       "SB Core"
     ],
@@ -2250,6 +2371,7 @@
   {
     "sticker_name": "Plastic free tips",
     "description": "Here's some plastic reduction tips from Anita Vandyke, author of 'A Zero Waste Life in Thirty Days'. What changes might you make?",
+    "end_description": "This video is based on ['How To Realistically Do Zero Waste with Anita Vandyke || SugarMamma.TV'](https://www.youtube.com/watch?v=Lbangp4nF0c) by Sugar Mamma, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Plastic_Free_Tips.jpg",
     "tags": [
       "SB Core"
@@ -2272,6 +2394,7 @@
   {
     "sticker_name": "101 to Eco Anxiety",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -2295,6 +2418,7 @@
   {
     "sticker_name": "Applying Sustainability Case Study (Patagonia)",
     "description": "Sticker in development",
+    "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
@@ -2318,6 +2442,7 @@
   {
     "sticker_name": "Sustainable Diet Importance and Tips",
     "description": "Here's a bitesize explainer from the World Economic Forum about the impact of a sustainable diet.",
+    "end_description": "This video is based on ['Changing what we eat could offset years of carbon emissions | Ways to Change the World'](https://www.youtube.com/watch?v=WCb8QkUOYvg) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/The_importance_of_Sustainable_Diet.jpg",
     "tags": [
       "SB Core"
@@ -2340,6 +2465,7 @@
   {
     "sticker_name": "Wellbeing in Buildings",
     "description": "We spend 90% of our time indoors, so it’s little surprise health and wellbeing building standards are on the rise. Find out more about the standards in just 4 minutes.",
+    "end_description": "Please share with colleagues!\r\n_____\r\n[Click here](https://www.usgbc.org/articles/what-well) to learn more about WELL and [click here](https://interiorarchitects.com/what-is-fitwel-and-why-should-we-care/) for an overview of Fitwel.",
     "active_image_url": "stickers/images/wellbeing_buildings_xRLxdKd.png",
     "tags": [
       "SB Core"
@@ -2360,11 +2486,11 @@
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878"
   },
   {
-    "sticker_name": "Biodiversity Net Gain",
-    "description": "Sticker in development",
-    "active_image_url": "",
+    "sticker_name": "Biodiversity and the Built Environment",
+    "description": "Did you know that the built environment sector is responsible for nearly 30% of global biodiversity loss? CBRE Denmark's Stefani Papadaki talks us through the problems and some possible solutions to this vital issue.",
+    "end_description": "If you are a developer in England, you might want to take a look at the [UK Government's biodiversity unit calculator](https://www.gov.uk/guidance/biodiversity-metric-calculate-the-biodiversity-net-gain-of-a-project-or-development) released as part of the Biodiversity Net Gain scheme.\r\n\r\nBut measuring biodiversity isn't just for property developers - learn more about how to do a [biodiversity audit of your own garden](https://www.gardensillustrated.com/garden-advice/biodiversity-audit-how-to)!",
+    "active_image_url": "stickers/images/Biodiversity_and_the_Built_Environment.jpg",
     "tags": [
-      "SB Placeholder",
       "SB Core"
     ],
     "collectcount": null,
@@ -2383,33 +2509,13 @@
     "sdg_id": "462ba9f1-44fb-40a3-9920-21d8bc13b7d3"
   },
   {
-    "sticker_name": "Welcome to Stickerbook!",
-    "description": "This platform allows you to explore our library, and get a feel for the functionality of the platform.",
-    "active_image_url": "stickers/images/welcome_acme_W8kMMLg.jpg",
-    "tags": [
-      null
-    ],
-    "collectcount": "1",
-    "album": "Sustainability",
-    "chapter": "Personal Actions",
-    "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
-    "sdgnumber": null,
-    "sdgname": null,
-    "achievement_id": null,
-    "active": true,
-    "display": true,
-    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
-    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
-    "sticker_id": "b9ecd981-52e6-47fb-84cd-bab8f8dd2219",
-    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
-    "sdg_id": null
-  },
-  {
     "sticker_name": "Green Leases 101",
     "description": "Join Julie Townsend (VP ESG EMEA at PGIM) for a 3 minute introduction to green leases, how they work and links for green lease tool kits.",
+    "end_description": "If you want more of a deep dive, check out the [Better Building Partnership's green lease toolkit](https://www.betterbuildingspartnership.co.uk/sites/default/files/media/attachment/bbp-gltk-2013_0.pdf).",
     "active_image_url": "stickers/images/green_lease_9u7fhLU.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "MARK ESG Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2429,6 +2535,7 @@
   {
     "sticker_name": "GRESB 101",
     "description": "GRESB has become the number 1 sustainability benchmark for real assets. Complete this sticker for an 5-minute overview of what it is, how it works and why it is used by so many investors and portfolio managers.",
+    "end_description": "Please share and rate the video\r\n_____\r\nIf you want to learn more, why not check out the following links:\r\n\r\n[2 minutes on GRESB](https://www.youtube.com/watch?v=Tmps7ADKl10)\r\n\r\n[GRESB's own 'What is GRESB?'](https://gresb.com/ufaqs/what-is-gresb/)\r\n\r\nFor a deeper dive [dowload deepki's webinar on GRESB](https://content.deepki.com/en_deepki_support_webinar_gresb)",
     "active_image_url": "stickers/images/gresb_0wkQHQW.png",
     "tags": [
       "SB Core"
@@ -2451,6 +2558,7 @@
   {
     "sticker_name": "Retrofit in a Heritage Building [STICKER UNDER CONSTRUCTION]",
     "description": "Sticker in development",
+    "end_description": "TBC",
     "active_image_url": "stickers/images/retrofit_in_a_heritage_building_3nLUHvs.jpg",
     "tags": [
       "SB Placeholder",
@@ -2474,6 +2582,7 @@
   {
     "sticker_name": "Real Estate and Climate Change",
     "description": "Sticker under construction",
+    "end_description": "Sticker under construction",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers126_sHd0gJD.png",
     "tags": [
       "SB Placeholder",
@@ -2493,5 +2602,51 @@
     "sticker_id": "1a1b31f5-308f-4ded-8671-26f0c11983d5",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72"
+  },
+  {
+    "sticker_name": "What are we missing?",
+    "description": "Sticker in development",
+    "end_description": "",
+    "active_image_url": "stickers/images/What_are_we_missing.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Personal Actions",
+    "compstickerid": "eeb02f95-3721-4cf5-b53b-e423f43d542c",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "0df87ce5-9132-4ce3-9bbe-261ec7f25cc3",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Welcome to Stickerbook! COMING SOON",
+    "description": "Welcome to this new Stickerbook platform! This welcome sticker will be the first thing new users see on joining, and we will work with you to create your own bespoke version.",
+    "end_description": "Thank you for starting your sustainability journey with Stickerbook!",
+    "active_image_url": "stickers/images/welcome_acme_04l0icB.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Personal Actions",
+    "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "da864fa3-7d90-4405-bc44-de7c3287df91",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
   }
 ]
