@@ -31,13 +31,11 @@ scSelect.addEventListener("click", () => {
 })
 
 regSubmit.addEventListener("click", () => {
-//    if (document.getElementById('regForm').valid == true){
-        email = document.getElementById("email").value
-        company = document.getElementById("company").value
-        console.log(company)
-        document.getElementById('regInfo').style.display = 'none';
-        document.getElementById('selectionArea').style.display = 'block';    
-//    }
+    email = document.getElementById("email").value
+    company = document.getElementById("company").value
+    console.log(company)
+    document.getElementById('regInfo').style.display = 'none';
+    document.getElementById('selectionArea').style.display = 'block';
 })
 
 function populate(){
@@ -160,11 +158,10 @@ function generate(){
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
     })}
 
-    var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '%0A','')
-    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '%0A','')
+    var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '\n',encodeURI('Please set up our ' + company + ' library with the following stickers: \n'))
+    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n',encodeURI('We would also like to register our interest for the following upcoming stickers: \n'))
 
-    //use encodeURIComponent for sanitising company input
-    submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('ADDSTICKERS', addList).replace('FUTURESTICKERS', futureList)
+    submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('BODYCONTENT', encodeURIComponent(addList + '\n' + futureList + '\n'))
     document.getElementById("refreshButton").scrollIntoView(false);
 }
 
