@@ -11,7 +11,11 @@ var scSelect = document.getElementById(scCode);
 var scSection = document.getElementById('libraryArea_SC');
 var libSection = document.getElementById('libraryArea');
 var outputSection = document.getElementById('output');
+var regSubmit = document.getElementById('regSubmit');
+var email = ''
+var company = ''
 
+document.getElementById('selectionArea').style.display = 'none';
 document.getElementById('scAlert').style.display = 'none';
 document.getElementById('output').style.display = 'none';
 document.getElementById("futureAdd").style.display = 'none'
@@ -24,6 +28,16 @@ scSelect.addEventListener("click", () => {
         document.getElementById('scAlert').style.display = 'block';
         Array.from(scSection.getElementsByTagName("input")).forEach((s) => {s.disabled = false; s.checked = false})
     }
+})
+
+regSubmit.addEventListener("click", () => {
+//    if (document.getElementById('regForm').valid == true){
+        email = document.getElementById("email").value
+        company = document.getElementById("company").value
+        console.log(company)
+        document.getElementById('regInfo').style.display = 'none';
+        document.getElementById('selectionArea').style.display = 'block';    
+//    }
 })
 
 function populate(){
@@ -99,6 +113,8 @@ function populate(){
 
 function generate(){
     var checkboxes = document.getElementsByClassName("stickerSelect");
+    var submitLink = document.getElementById('sendRequest');
+
     var future = [];
     var selected = [];
     var hasSC = false;
@@ -143,7 +159,12 @@ function generate(){
         newRow.appendChild(document.createElement('td')).innerText = s.chapter
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
     })}
-    //libOutput.innerText = "Library:\n\n" + selected.map(s => s.sticker_name).toString() + "\n\nFuture:\n\n" + future.map(s => s.sticker_name).toString()
+
+    var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '%0A','')
+    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '%0A','')
+
+    //use encodeURIComponent for sanitising company input
+    submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('ADDSTICKERS', addList).replace('FUTURESTICKERS', futureList)
     document.getElementById("refreshButton").scrollIntoView(false);
 }
 

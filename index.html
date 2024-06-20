@@ -7,6 +7,17 @@
       
       <header><table><tr><td><h1>Build your Stickerbook Library</h1></td><td><img src="https://cbreltd.stickerbook.tech/assets/stickerbook%20logo-01bfee37.svg"></td></tr></table></header>
       <main>
+        <div id="regInfo">
+          <h3>Please enter your details</h3>
+          <form id="regForm" onsubmit="return false">
+          <table>
+            <tr><td><label for="email">Enter your email address:</label></td><td><input required type="email" id="email"></td></tr>
+            <tr><td><label for="company">Enter your company name:</label></td><td><input required type="text" id="company"></td></tr> 
+          </table>
+          <button id="regSubmit">Build your library</button>
+        </form>
+        </div>
+      <div id="selectionArea">
       <table id="scPackSelector" class="libraryTableMod">
             <tr>
                 <td><div class="stickerImgWrap"><img src="https://assets.stickerbook.tech/media/stickers/images/SC_achievement.jpg" class="stickerImg"></div></td>
@@ -14,11 +25,13 @@
                 <td><input class="stickerSelect" type=checkbox id="7be585f7-f51b-41b7-80ac-a37d0763e26c"checked></td>
             </tr>
         </table>
+
         <div id="libraryArea">
           <div id="libraryArea_SC"><p id="scAlert" class="scAlert">Please select the specific launch stickers from our packs below, or simply check the box above to launch with our CPD-certified Sustainability Champion stickers.</p></div>
           <div id="libraryArea_Main"></div>
           <button id="submitButton">Create inventory</button>
         </div>
+      </div>
         <div id="output">
           <h2>You have requested:</h2>
           <div id="toAdd">
@@ -30,7 +43,10 @@
             <table id="futureTable" class="outputTable"><tr><td>Title</td><td>Chapter</td><td>ID code</td></tr></table>
           </div>
           <button id="refreshButton" onClick="window.location.href=window.location.href;">Reset selection</button>
+          <h3>Happy with your selection? Click here to email us with your library request.</h3><p>You will be able to review the message and add any comments before sending.</p>
+          <a href="mailto:nick@obliquitygroup.com?cc=USEREMAIL&subject=Stickerbook%20library%20request%20for%20USERCOMPANY&body=Please%20add%20these%20stickers%20to%20my%20library%3A%0A%0AADDSTICKERS%0A%0AI%20am%20also%20registering%20my%20interest%20for%20the%20following%20stickers%3A%0A%0AFUTURESTICKERS" id="sendRequest"><button role="link" style="height:40px;width:200px">Send library request</button></a>
         </div>
+
       </main>
 
 <script src="./pickandmix.js" type="module"></script>
