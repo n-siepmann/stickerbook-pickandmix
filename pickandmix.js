@@ -158,10 +158,10 @@ function generate(){
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
     })}
 
-    var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '\n',encodeURI('Please set up our ' + company + ' library with the following stickers: \n'))
-    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n',encodeURI('We would also like to register our interest for the following upcoming stickers: \n'))
+    var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '\n','Please set up our ' + company + ' library with the following stickers: \n')
+    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n','We would also like to register our interest for the following upcoming stickers: \n')
 
-    submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('BODYCONTENT', encodeURIComponent(addList + '\n' + futureList + '\n'))
+    submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('BODYCONTENT', encodeURI(addList + '\n' + futureList + '\n'))
     document.getElementById("refreshButton").scrollIntoView(false);
 }
 
