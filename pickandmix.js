@@ -1,5 +1,7 @@
 //import library from './export.json' assert {type: 'json'}
-const { default: library } = await import("./export.json", { assert: { type: "json" } })
+//const { default: library } = await import("./export.json", { assert: { type: "json" } })
+const response = await fetch('./export.json');
+const library = await response.json();
 var libObject = {};
 library.map(s => libObject[s.sticker_id] = s);
 console.log('loading')
