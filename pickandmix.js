@@ -1,11 +1,12 @@
-import library from './export.json' assert {type: 'json'}
+//import library from './export.json' assert {type: 'json'}
+const { default: library } = await import("./export.json", { assert: { type: "json" } })
 var libObject = {};
 library.map(s => libObject[s.sticker_id] = s);
-
+console.log('loading')
 var scCode = '7be585f7-f51b-41b7-80ac-a37d0763e26c'
 var scAchCodes = ['b6c4b676-7d93-4c17-b26e-0ca94d4a1d85','6f93a3a0-9739-4c20-92e3-ed53bc7e54ff','fa03ff53-1f5f-4e48-9f4d-663c67ce69c8','667421ff-2156-4305-9e75-e948de51cf34','9dfb07a1-6645-4b22-898f-4c7a3f3a2d97','80ccc9e7-f12f-43d6-83dd-5b4e8a0fbf7a','467e59a3-b1bd-470c-801b-8114c1671dc8','797ec3cc-423f-4697-8503-3a8d2902fced','cabb5354-ef67-492f-8709-86f84c7b3d4f','54ce1807-46d8-4666-b148-188e592d0d87','35cfcc09-7c0d-46a3-847f-efd859ef77bc','a928186c-c186-4ae2-b79d-dd3604eb9001']
 
-window.addEventListener('load', populate);
+//window.addEventListener('load', populate);
 document.getElementById('submitButton').addEventListener("click",() => {generate()})
 var scSelect = document.getElementById(scCode);
 var scSection = document.getElementById('libraryArea_SC');
@@ -33,13 +34,14 @@ scSelect.addEventListener("click", () => {
 regSubmit.addEventListener("click", () => {
     email = document.getElementById("email").value
     company = document.getElementById("company").value
-    console.log(company)
     document.getElementById('regInfo').style.display = 'none';
     document.getElementById('selectionArea').style.display = 'block';
 })
+populate();
+
+console.log('loaded')
 
 function populate(){
-
     var scLibrary = [[],[],[],[],[]]
     var achLibrary = []
     var placeholderLibrary = []
@@ -83,7 +85,6 @@ function populate(){
             placeholderLibrary.sort((a, b) => a.sticker_name.localeCompare(b.sticker_name)).sort((a, b) => a.chapter.localeCompare(b.chapter));
             achLibrary.sort((a, b) => a.sticker_name.localeCompare(b.sticker_name));
 
-
     const libraryArea = document.getElementById("libraryArea_Main")
     const libraryAreaSC = document.getElementById("libraryArea_SC")
 
@@ -107,7 +108,8 @@ function populate(){
     const achTable = libraryArea.appendChild(document.createElement("TABLE"));
     buildTable(achTable, achLibrary, "achievement", "Achievements", "The gamified framework that makes Stickerbook tick. These stickers are automatically included in your library.");
     Array.from(achTable.getElementsByTagName("input")).forEach((s) => {s.checked = true; s.disabled = true})
-    }
+        console.log('populated')
+}
 
 function generate(){
     var checkboxes = document.getElementsByClassName("stickerSelect");
@@ -163,6 +165,8 @@ function generate(){
 
     submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('BODYCONTENT', encodeURI(addList + '\n' + futureList + '\n'))
     document.getElementById("regSubmit").scrollIntoView(false);
+    console.log('generated')
+
 }
 
 function buildTable(table, library, tag, label, subtitle){
@@ -191,4 +195,5 @@ function buildTable(table, library, tag, label, subtitle){
                 if (checkbox.checked == false){
         document.getElementById(tag + "Master").checked = false}})
     })
+    console.log('built table ' + tag)
 }
