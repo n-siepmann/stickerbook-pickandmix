@@ -6,7 +6,8 @@
     "active_image_url": "stickers/images/101_to_neurodiversity.jpg",
     "tags": [
       "SB Core",
-      "SB Placeholder"
+      "SB Placeholder",
+      "CORE_Social Value & Inclusion"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -31,7 +32,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "354f3cc4-e516-4a25-931f-959b85faa98e",
@@ -54,7 +55,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Key Topics"
+      "SB_SC_Key Topics",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -77,7 +79,8 @@
     "end_description": "This video is based on ['Tackling the Global Water Crisis'](https://www.youtube.com/watch?v=r1j6stEXySo) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Tackling_the_Global_Water_Crisis.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -124,7 +127,8 @@
     "active_image_url": "stickers/images/CBRE_CE_and_UK_Carbon_Budget_Wv4deJV.png",
     "tags": [
       "SB Core",
-      "P&M Carbon Basics"
+      "P&M Carbon Basics",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -149,7 +153,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Applying Sustainability"
+      "SB_SC_Applying Sustainability",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -173,7 +178,8 @@
     "active_image_url": "stickers/images/Stickerbook_Backgrounds_CRJ_202374.png",
     "tags": [
       "SB Core",
-      "P&M Carbon Basics"
+      "P&M Carbon Basics",
+      "CORE_Global Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -193,14 +199,16 @@
   {
     "sticker_name": "Where do I have personal impact?",
     "description": "With so much information to take on and so many complexities to bear in mind, it can be hard to know what we can do as individuals to make a positive impact in sustainability. Here are some suggestions for where to start!",
-    "end_description": "[Click here](https://www.creds.ac.uk/challenging-consumption-to-cut-carbon-footprints/) to learn about Ivanova & Barrett’s study that analysed 7,000 studies on personal impact.\r\n\r\n[Click here](https://www.linkedin.com/pulse/what-reduces-our-personal-co2-footprint-we-have-clue-frank-bilstein/) to learn more about daily changes and where we often get confused.\r\n\r\n[Fact-check](https://fullfact.org/news/are-100-companies-causing-71-carbon-emissions/) the statistic that 100 companies produce 71% of green house gas emissions.\r\n\r\n—--\r\n\r\nIvanova, D., Barrett, J., Dominik Wiedenhofer and Creutzig, F. (2020). Quantifying the potential for climate change mitigation of consumption options. [online] ResearchGate. Available at: https://www.researchgate.net/publication/340370915_Quantifying_the_potential_for_climate_change_mitigation_of_consumption_options [Accessed 28 Mar. 2024] Licensed under CC BY 4.0",
+    "end_description": "[Click here](https://www.creds.ac.uk/challenging-consumption-to-cut-carbon-footprints/) to learn about Ivanova & Barrett’s study that analysed 7,000 studies on personal impact.\r\n\r\n[Click here](https://www.linkedin.com/pulse/what-reduces-our-personal-co2-footprint-we-have-clue-frank-bilstein/) to learn more about daily changes and where we often get confused.\r\n\r\n[Fact-check](https://fullfact.org/news/are-100-companies-causing-71-carbon-emissions/) the statistic that 100 companies produce 71% of green house gas emissions.\r\n\r\n—--\r\n\r\nIvanova, D., Barrett, J., Dominik Wiedenhofer and Creutzig, F. (2020). [Quantifying the potential for climate change mitigation of consumption options](https://www.researchgate.net/publication/340370915_Quantifying_the_potential_for_climate_change_mitigation_of_consumption_options). Online at ResearchGate.  Accessed 28 Mar. 2024. Licensed under CC BY 4.0",
     "active_image_url": "stickers/images/SC_Where_can_I_have_personal_impact__incl_pensions_TQ0kGxp.jpg",
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "SB_Sustainable Business Essentials",
+      "CORE_Individual Action & Influence"
     ],
-    "collectcount": null,
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "b0d89c4b-83df-47aa-8b7f-9bb0bacffcb0",
@@ -223,7 +231,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -249,7 +258,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Personal Actions",
-      "Green Week 22"
+      "Green Week 22",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -274,7 +284,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -299,7 +310,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -324,7 +336,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -350,7 +363,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Personal Actions",
-      "SEA Induction"
+      "SEA Induction",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -373,7 +387,8 @@
     "end_description": "This video is based on ['Phantom Load'](https://www.youtube.com/watch?v=L4kH3G1AdsQ) by DART.ENVS.01.X, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Beat_the_Vampire_-_Standby_Energy_Use.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -397,7 +412,8 @@
     "active_image_url": "stickers/images/COP_terms_UK_CE.png",
     "tags": [
       "COP28",
-      "SB Core"
+      "SB Core",
+      "CORE_Global Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -422,7 +438,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -445,7 +462,8 @@
     "end_description": "Thank you for volunteering to help.\r\n____\r\n\r\n-  We will be in touch in due course, once we have new stickers ready for creation or re-filming. Your 5 minutes of fame awaits!",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers64.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -470,7 +488,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -495,7 +514,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Personal Actions"
+      "SB_SC_Personal Actions",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -519,7 +539,8 @@
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers70.png",
     "tags": [
       "CBRE Hotels 2",
-      "SB Core"
+      "SB Core",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -683,7 +704,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "19db636c-b540-4f24-9e19-954e8aab89f3",
@@ -706,7 +727,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "a9b0fd65-29f7-48a2-8ca0-02fff58954c3",
@@ -752,7 +773,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "047925e8-c4b2-4b1e-ba40-71b3315e41c5",
@@ -871,7 +892,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "World Cup"
+      "World Cup",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -889,30 +911,6 @@
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83"
   },
   {
-    "sticker_name": "Climate Transition Plans 101",
-    "description": "Setting targets is one thing but how does an organization develop plans to bring them to life? Join Kieran for a 4 minute introduction to Transition Plans, what they include and who sets best practice.",
-    "end_description": "Want to learn more? [Read and join webinars from CDP to learn more about Transition Plans in practice](https://www.cdp.net/en/guidance/guidance-for-companies/climate-transition-plans) or for deeper dives watch a 60min webinar about [how you can make transition Plans just](https://www.youtube.com/watch?v=Nb_iKBisg3U&t=2s).",
-    "active_image_url": "stickers/images/CBRE_IM_Stickers37.png",
-    "tags": [
-      "Infrastructure",
-      "SB Core"
-    ],
-    "collectcount": null,
-    "album": "Sustainability",
-    "chapter": "Real Estate & Finance",
-    "compstickerid": "985cadab-9f07-4aea-803e-eb0624ea26c9",
-    "sdgnumber": 13,
-    "sdgname": "Climate Action",
-    "achievement_id": null,
-    "active": true,
-    "display": true,
-    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
-    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
-    "sticker_id": "17316136-c63f-4c96-a5fc-19d8fcad7d6b",
-    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
-    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
-  },
-  {
     "sticker_name": "Building Relationships",
     "description": "Join James from Stickerbook for an overview of why building relationships can be a key step to success for any sustainability initiative - no matter where you sit in the organisation.",
     "end_description": "Having collected this sticker, have a think about what you can do to strengthen your working relationships!",
@@ -921,7 +919,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -947,7 +946,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Green Skills 101",
-      "IEMA"
+      "IEMA",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -973,7 +973,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -998,7 +999,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Green Skills 101"
+      "SB_SC_Green Skills 101",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1024,7 +1026,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1050,7 +1053,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1078,7 +1082,8 @@
       "SB_SC_Green Skills 101",
       "Contracted Accounts Level 2",
       "CBRE Hotels 1",
-      "P&M Carbon Basics"
+      "P&M Carbon Basics",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1103,7 +1108,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Green Skills 101"
+      "SB_SC_Green Skills 101",
+      "CORE_Global Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1129,7 +1135,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Green Skills 101",
-      "MARK ESG Essentials"
+      "MARK ESG Essentials",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1155,7 +1162,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1185,7 +1193,8 @@
       "Retail shiny",
       "Valuations",
       "CBRE Hotels 2",
-      "MARK ESG Essentials"
+      "MARK ESG Essentials",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1211,7 +1220,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1237,7 +1247,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1263,7 +1274,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Green Skills 101",
-      "IEMA"
+      "IEMA",
+      "CORE_Global Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1355,7 +1367,7 @@
   {
     "sticker_name": "Sustainability Champion - certified by CPD",
     "description": "Become a Sustainability Champion - and add a new CPD Certified qualification to your CV! This 44-sticker pack is designed to address the green skills gap identified across the business world by IEMA, University College of Estate Management, Green Alliance et al.",
-    "end_description": "Congratulations! You are now a CPD-certified Sustainability Champion.\r\n\r\nYou may now add the following to your CV:\r\n\r\n**Sustainability Champion - CPD-certified learning path provided by Stickerbook**",
+    "end_description": "Congratulations! You are now a CPD-certified Sustainability Champion. \r\n\r\nThis course comprises 3 hours and 24 minutes of learning (including estimated time for answering the sticker questions).\r\n\r\nYou may now add the following to your CV:\r\n\r\n**Sustainability Champion - CPD-certified learning path provided by Stickerbook**",
     "active_image_url": "stickers/images/SC_achievement.jpg",
     "tags": [
       "SB Core"
@@ -1528,7 +1540,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1551,7 +1564,8 @@
     "end_description": "Congratulations on being awarded this achievement sticker by Team Stickerbook.\r\n\r\nThank you for your time and effort in helping us improve - whether it was feedback, pointing out a snag, providing content or helping test a new feature we wanted to say thank you!",
     "active_image_url": "stickers/images/Thanks_sticker.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1575,7 +1589,8 @@
     "active_image_url": "",
     "tags": [
       "SB Core",
-      "SB Placeholder"
+      "SB Placeholder",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1601,7 +1616,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Applying Sustainability",
-      "IEMA"
+      "IEMA",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1627,7 +1643,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Green Skills 101",
-      "MARK ESG Essentials"
+      "MARK ESG Essentials",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1652,9 +1669,11 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Green Skills 101"
+      "SB_SC_Green Skills 101",
+      "SB_Sustainable Business Essentials",
+      "CORE_Role of Business"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Green Skills",
     "compstickerid": "1a3e7cb6-c26b-4bec-8b79-a4ead3c7a66d",
@@ -1682,7 +1701,8 @@
       "COP26",
       "CBRE Hotels 2",
       "Pacific Induction",
-      "P&M Carbon Basics"
+      "P&M Carbon Basics",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1708,7 +1728,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Green Skills 101",
-      "IEMA"
+      "IEMA",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1731,9 +1752,11 @@
     "end_description": "",
     "active_image_url": "stickers/images/Story_of_Plastics.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "SB_Sustainable Business Essentials",
+      "CORE_Planetary Boundaries"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "4caa638e-6fdf-4a43-a860-f79b1c0e06e8",
@@ -1759,7 +1782,8 @@
       "SB_SC_Key Topics",
       "SEA Induction",
       "IA&R Shiny",
-      "CBRE Hotels 1"
+      "CBRE Hotels 1",
+      "CORE_Global Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1788,7 +1812,8 @@
       "Contracted Accounts Level 1",
       "Pacific Induction",
       "CBRE Hotels 1",
-      "SEA Induction"
+      "SEA Induction",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1815,7 +1840,8 @@
       "SB_SC_Key Topics",
       "SB Core",
       "CBRE Hotels 1",
-      "Vals Level 2"
+      "Vals Level 2",
+      "CORE_Global Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1840,7 +1866,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Key Topics"
+      "SB_SC_Key Topics",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1866,7 +1893,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Key Topics",
-      "Contracted Accounts Level 1"
+      "Contracted Accounts Level 1",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1891,7 +1919,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Key Topics"
+      "SB_SC_Key Topics",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1916,7 +1945,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Key Topics"
+      "SB_SC_Key Topics",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1943,7 +1973,8 @@
       "SB Core",
       "SB_SC_Key Topics",
       "Pacific Induction",
-      "Green Week 22"
+      "Green Week 22",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1972,7 +2003,8 @@
       "Contracted Accounts Level 1",
       "COP26",
       "CBRE Hotels 1",
-      "P&M Carbon Basics"
+      "P&M Carbon Basics",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1997,7 +2029,8 @@
     "tags": [
       "SB_Sustainability Champion",
       "SB Core",
-      "SB_SC_Key Topics"
+      "SB_SC_Key Topics",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2023,9 +2056,11 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Personal Actions",
-      "SEA Induction"
+      "SEA Induction",
+      "SB_Sustainable Business Essentials",
+      "CORE_Individual Action & Influence"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "0d79f5c3-7041-4b5a-9af1-c88ae1fd1a7d",
@@ -2046,7 +2081,8 @@
     "end_description": "Thank you for offering to be a sustainability ambassador!\r\n____\r\nPlease look out for direct messages about key sustainability issues and initiatives throughout the year and please keep driving the message of sustainability with your colleagues to drive change as quickly as possible.\r\n\r\nPlease email us  at info@obliquitygroup.com should you wish to step down from this role.",
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers16.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2070,7 +2106,8 @@
     "active_image_url": "",
     "tags": [
       "SB Placeholder",
-      "SB Core"
+      "SB Core",
+      "CORE_Health & Wellbeing"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2088,37 +2125,14 @@
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878"
   },
   {
-    "sticker_name": "What is Equity v Equality",
-    "description": "Sticker in development",
-    "end_description": "",
-    "active_image_url": "",
-    "tags": [
-      "SB Core",
-      "SB Placeholder"
-    ],
-    "collectcount": null,
-    "album": "Sustainability",
-    "chapter": "Social Sustainability",
-    "compstickerid": "e531b07c-7b6b-4449-87ce-4b5aa5466660",
-    "sdgnumber": 10,
-    "sdgname": "Reduced Inequalities",
-    "achievement_id": null,
-    "active": true,
-    "display": true,
-    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
-    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
-    "sticker_id": "dcabe95b-5517-44bf-abb0-a97778597a80",
-    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
-    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
-  },
-  {
     "sticker_name": "The Hidden Disabilities Sunflower",
     "description": "Sticker in development",
     "end_description": "",
     "active_image_url": "",
     "tags": [
       "SB Core",
-      "SB Placeholder"
+      "SB Placeholder",
+      "CORE_Social Value & Inclusion"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2142,7 +2156,8 @@
     "active_image_url": "",
     "tags": [
       "SB Placeholder",
-      "SB Core"
+      "SB Core",
+      "CORE_Social Value & Inclusion"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2160,36 +2175,13 @@
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
   },
   {
-    "sticker_name": "Global Sustainability Reporting 101 (ISSB)",
-    "description": "Sticker in development",
-    "end_description": "",
-    "active_image_url": "",
-    "tags": [
-      "SB Core",
-      "SB Placeholder"
-    ],
-    "collectcount": null,
-    "album": "Sustainability",
-    "chapter": "Key Topics",
-    "compstickerid": "aadfe756-f253-4949-b128-cee152f31547",
-    "sdgnumber": 16,
-    "sdgname": "Peace, Justice and Strong Institutions",
-    "achievement_id": null,
-    "active": true,
-    "display": true,
-    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
-    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
-    "sticker_id": "d9e5d480-3e64-4890-b6e7-b5565bc29bd6",
-    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
-    "sdg_id": "52111aac-d10d-48e7-b3ad-a9360996d536"
-  },
-  {
     "sticker_name": "What is Sustainable Development?",
     "description": "Here's a quick and fun explainer from the UN about the concept of Sustainable Development!",
     "end_description": "This video is based on ['What is sustainable development?'](https://www.youtube.com/watch?v=7V8oFI4GYMY) by FN-sambandet Norge, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/What_is_Sustainable_Development_B9EfJsq.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2212,7 +2204,8 @@
     "end_description": "Share this sticker with colleagues to grow your team! And keep an eye out for team competitions throughout the year and track progress of your team in the leaderboard.",
     "active_image_url": "stickers/images/Copy_of_Basic_Sticker_Template_CRJ_1.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2235,7 +2228,8 @@
     "end_description": "Thank you for paying it forward - recognising someone for their efforts can change someone's day.",
     "active_image_url": "stickers/images/Copy_of_Basic_Sticker_Template_CRJ.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2281,7 +2275,8 @@
     "end_description": "This video is based on ['Capturing Carbon | Sally Benson | The Future of Energy'](https://www.youtube.com/watch?v=7HlypMpyNPU) by Stanford ENERGY, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/What_is_Carbon_Capture.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2305,7 +2300,8 @@
     "active_image_url": "",
     "tags": [
       "SB Core",
-      "SB Placeholder"
+      "SB Placeholder",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2328,7 +2324,8 @@
     "end_description": "This video is based on ['This is Earth in the next 100 years if we don't act on climate change | Ways to Change the World'](https://www.youtube.com/watch?v=o-KyEYa3vuM) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/The_next_100_years_if_we_dont_act.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2351,7 +2348,8 @@
     "end_description": "This video is based on ['The Future of Energy: An Overview'](https://www.youtube.com/watch?v=zwsAf0do-yo) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/The_future_of_Energy_1bANvR2.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Climate Change"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2374,7 +2372,8 @@
     "end_description": "This video is based on ['How To Realistically Do Zero Waste with Anita Vandyke || SugarMamma.TV'](https://www.youtube.com/watch?v=Lbangp4nF0c) by Sugar Mamma, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Plastic_Free_Tips.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Individual Action & Influence"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2398,7 +2397,8 @@
     "active_image_url": "",
     "tags": [
       "SB Core",
-      "SB Placeholder"
+      "SB Placeholder",
+      "CORE_Health & Wellbeing"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2422,7 +2422,8 @@
     "active_image_url": "",
     "tags": [
       "SB Core",
-      "SB Placeholder"
+      "SB Placeholder",
+      "CORE_Role of Business"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2445,7 +2446,8 @@
     "end_description": "This video is based on ['Changing what we eat could offset years of carbon emissions | Ways to Change the World'](https://www.youtube.com/watch?v=WCb8QkUOYvg) by World Economic Forum, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/The_importance_of_Sustainable_Diet.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Planetary Boundaries"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2605,11 +2607,12 @@
   },
   {
     "sticker_name": "What are we missing?",
-    "description": "Sticker in development",
+    "description": "We want to make sure Stickerbook is giving YOU the information you need. So we want to hear from you about what you're interested in!\r\n\r\nAnd if you're feeling especially passionate, maybe you'd like to create a sticker yourself - now's your chance to let us know.",
     "end_description": "",
     "active_image_url": "stickers/images/What_are_we_missing.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "CORE_Tools for Action"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2627,6 +2630,81 @@
     "sdg_id": null
   },
   {
+    "sticker_name": "The limits of our planet",
+    "description": "Our world is rich in many resources - but they are not infinite. Collect this sticker to learn about why we need to conserve and respect our planet’s natural resources.",
+    "end_description": "Space shuttle and meteor graphics from Vecteezy.com",
+    "active_image_url": "stickers/images/The_limits_of_our_planet.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Planetary Boundaries",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "07c25dd7-8e99-4f32-adb2-7a8b7cdb7f55",
+    "sdgnumber": 12,
+    "sdgname": "Responsible Consumption & Production",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "4c1baa08-f9c8-4399-bf38-c797e4d0e096",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223"
+  },
+  {
+    "sticker_name": "Benefits of being a sustainable business",
+    "description": "We’ve got to admit - sustainability isn’t always easy. Here’s why it’s not just a matter of doing the right thing - it’s the smart thing for your business!",
+    "end_description": "",
+    "active_image_url": "stickers/images/Benefits_of_being_a_sustainable_business_5QhG3Ks.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Role of Business",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "d1a6e475-40b1-4bb9-8248-5ea62bc50e63",
+    "sdgnumber": 12,
+    "sdgname": "Responsible Consumption & Production",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "3e547b39-b692-4cbc-9f6e-a2f7fd11e47e",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223"
+  },
+  {
+    "sticker_name": "What is pollution and where does it occur?",
+    "description": "It’s fair to say, nobody likes pollution. But there’s a lot more to it than just smog, litter and dirty water - watch this sticker to learn more!",
+    "end_description": "If you want to learn more, we have more stickers on waste and recycling, including one from Stickerbook cofounder Simon Kelly all about the complicated story of plastics!",
+    "active_image_url": "stickers/images/What_is_pollution_and_where_does_it_occur_wYEmmBp.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Planetary Boundaries",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "c81e50aa-2315-4f07-8554-05738ae17092",
+    "sdgnumber": 6,
+    "sdgname": "Clean Water and Sanitation",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "fa414afe-82aa-431a-b8e8-c4d780d697ac",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "4afa5cb5-1a9f-4d3f-94cb-15706d2e47d9"
+  },
+  {
     "sticker_name": "Welcome to Stickerbook! COMING SOON",
     "description": "Welcome to this new Stickerbook platform! This welcome sticker will be the first thing new users see on joining, and we will work with you to create your own bespoke version.",
     "end_description": "Thank you for starting your sustainability journey with Stickerbook!",
@@ -2634,7 +2712,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": null,
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
@@ -2648,5 +2726,418 @@
     "sticker_id": "da864fa3-7d90-4405-bc44-de7c3287df91",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null
+  },
+  {
+    "sticker_name": "Benefits of an inclusive workforce",
+    "description": "Here’s your crash course in understanding diversity, equity and inclusion - what it is, and why it matters to all of us!",
+    "end_description": "",
+    "active_image_url": "stickers/images/Benefits_of_an_inclusive_workforce.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Social Value & Inclusion",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "da83ef80-6067-401b-8c80-9189cfe1a391",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "e870a562-ce36-4017-8e36-81795f9fe4e9",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
+  },
+  {
+    "sticker_name": "Climate Transition Plans",
+    "description": "Setting targets is one thing but how does an organization develop plans to bring them to life? Join Kieran for a 4 minute introduction to Transition Plans, what they include and who sets best practice. #Client Conversations #Reporting",
+    "end_description": "Want to learn more? [Read and join webinars from CDP to learn more about Transition Plans in practice](https://www.cdp.net/en/guidance/guidance-for-companies/climate-transition-plans) or for deeper dives watch a 60min webinar about [how you can make transition Plans just](https://www.youtube.com/watch?v=Nb_iKBisg3U&t=2s).",
+    "active_image_url": "stickers/images/CBRE_UK__CE_Stickers72.png",
+    "tags": [
+      "Contracted Accounts Level 1",
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Real Estate & Finance",
+    "compstickerid": "985cadab-9f07-4aea-803e-eb0624ea26c9",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "768c0c5e-2abe-485c-a969-5697e1f1397f",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
+  },
+  {
+    "sticker_name": "Climate change in 60 seconds",
+    "description": "Climate change is a huge topic - can we cover the absolute basics in one minute?",
+    "end_description": "If you want to learn more, we have more stickers on climate change, greenhouse gas emissions, and the political and practical challenges of Net Zero.",
+    "active_image_url": "stickers/images/Climate_change_in_60_seconds.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Climate Change",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "079b0685-f194-40a7-8e2d-f126b2539869",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "5ad771dd-bab3-4eac-ae77-b015cb38060a",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
+  },
+  {
+    "sticker_name": "What is modern slavery?",
+    "description": "Even in the 21st Century, slavery continues to be one of the most pressing human rights issues in our world. Collect this sticker to learn more.",
+    "end_description": "",
+    "active_image_url": "stickers/images/What_is_modern_slavery.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Social Value & Inclusion",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "720b9790-fbb9-4238-9640-8abd0b6b8cfb",
+    "sdgnumber": 8,
+    "sdgname": "Decent Work and Economic Growth",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "365a0782-e34d-41a4-8b17-1b54024a8b36",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "4000743a-440d-4873-a35a-65e66a893b3a"
+  },
+  {
+    "sticker_name": "Wellbeing and why it matters",
+    "description": "The word ‘wellbeing’ gets used a lot both in the business world and elsewhere - but what does it mean? And does it really matter to businesses? \r\n\r\n(Here’s a hint: it does!)",
+    "end_description": "",
+    "active_image_url": "stickers/images/Wellbeing_and_why_it_matters.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Health & Wellbeing",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "65de352e-5e41-4d99-8822-025ff1eb9c17",
+    "sdgnumber": 3,
+    "sdgname": "Good Health & Wellbeing",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "7ed60167-4c0b-4698-95c2-b44c47668291",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878"
+  },
+  {
+    "sticker_name": "Why do we track emissions?",
+    "description": "There’s a lot of talk in the media about emissions, emissions regulation, and so on. But what does it all mean? And why does it matter to a business?",
+    "end_description": "",
+    "active_image_url": "stickers/images/Why_do_we_track_emissions.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Climate Change",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "faae8f97-7ede-42ae-9028-4a71d8f573e6",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "251c5d8c-1f8c-4bc6-98ae-5b980e6b6341",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
+  },
+  {
+    "sticker_name": "Group action and the Tragedy of the Commons",
+    "description": "You may have heard the phrase ‘The Tragedy of the Commons’ - but what does it mean? And what relevance does it have today?",
+    "end_description": "For more on the complicated legacy of Hardin’s idea, you might want to read Ian Angus’s [The Myth of the Tragedy of the Commons](https://mronline.org/2008/08/25/the-myth-of-the-tragedy-of-the-commons/).\r\nYou might also be interested to try these [economic simulations](https://economics-games.com/games) from Economic Games.",
+    "active_image_url": "stickers/images/Group_action_and_the_Tragedy_of_the_Commons.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Global Action",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "bd206a1e-9470-4476-a5f8-47ac6fc424dc",
+    "sdgnumber": 17,
+    "sdgname": "Partnerships for the Goals",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "f1aa4126-cb40-49b4-b6a5-18523b16c5f3",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83"
+  },
+  {
+    "sticker_name": "The inequality of climate change",
+    "description": "It is true that climate change will affect us all. But the severity of its impact will be felt far worse by some nations than others. Here’s why.",
+    "end_description": "",
+    "active_image_url": "stickers/images/The_inequality_of_Climate_Change.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Social Value & Inclusion",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "131a52f2-0964-408c-8ca7-b2586c5d3c0b",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "29b4c721-4d94-4b27-953c-b939ab3ffc32",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
+  },
+  {
+    "sticker_name": "How climate change affects us all",
+    "description": "It can be all too easy to dismiss climate change as something abstract and distant that doesn’t directly affect us. But the effects of climate change are already being felt across the planet, and will reach every one of us. Collect this sticker to learn more.",
+    "end_description": "",
+    "active_image_url": "stickers/images/How_climate_change_affects_us_all.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Climate Change",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "74d5d28b-18c4-4a81-a2c6-46427861666b",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "29fae1f1-f208-4852-98c0-39f52e10f3d1",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
+  },
+  {
+    "sticker_name": "What is a sustainable business?",
+    "description": "We want more sustainable businesses - but what does that actually mean in practice? And how do we know a sustainable business from an unsustainable one?",
+    "end_description": "[Cotton](https://www.flaticon.com/free-icons/cotton), [Transport](https://www.flaticon.com/free-icons/transport) icons created by Freepik - Flaticon.",
+    "active_image_url": "stickers/images/What_is_a_sustainable_business.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Role of Business",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "8a92e054-0b75-4027-a2a3-30cd78aecf99",
+    "sdgnumber": 12,
+    "sdgname": "Responsible Consumption & Production",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "4d73790a-d1a1-4be1-b436-7aa2004b78ea",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223"
+  },
+  {
+    "sticker_name": "What does 'sustainability' even mean?",
+    "description": "You’ve definitely heard the word before, but if someone asked you right now to define it, what would you say? Here’s the basics on what ‘sustainability’ actually means.",
+    "end_description": "",
+    "active_image_url": "stickers/images/What_does_sustainability_even_mean.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Tools for Action",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "7a21e940-ef89-4adc-8a21-8bee190b43f0",
+    "sdgnumber": 17,
+    "sdgname": "Partnerships for the Goals",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "d32d6581-2f92-434a-add8-f8e071f5e151",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83"
+  },
+  {
+    "sticker_name": "Sustainable Business Essentials - certified by CPD",
+    "description": "Our Sustainable Business Essentials achievement is the ideal starting point for anyone interested in sustainability training, green skills, and corporate sustainability. Discover the key issues for organizations and understand why sustainability is crucial to strategy.\r\n\r\nCollect, share and add to your CV!",
+    "end_description": "You may now add the following to your CV:\r\n\r\n**Sustainable Business Essentials - CPD-certified learning path provided by Stickerbook**",
+    "active_image_url": "stickers/images/SBE_achievement_NYXJPhP.jpg",
+    "tags": [
+      null
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "2c351aa5-dc07-4dbe-8ce1-3dc9d63682b3",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": "e6d3308e-a92c-49a8-a033-4099a0812238",
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "9a69d207-7514-450b-b7e9-61178fce6010",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Summer 2024 Challenge - Bronze",
+    "description": "On your marks... Get set... Collect!\r\n\r\nGet into the summer games spirit with our latest CPD Certified sticker pack - Sustainable Business Essentials. \r\n\r\nCollect any 3 of the stickers to get the Bronze achievement - good luck!",
+    "end_description": "Congratulations! You've got the Bronze achievement, and you're well on your way to collecting Silver!",
+    "active_image_url": "stickers/images/Summer_Challenge_2024_bronze.jpg",
+    "tags": [
+      null
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "c0c3e065-c38f-464e-a649-d5c4e9e1c2e3",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": "ad026c8c-f231-48cc-a683-3466a2441dab",
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "4918ca92-426e-443f-9de8-c3d5105ed5a2",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Summer 2024 Challenge - Silver",
+    "description": "On your marks... Get set... Collect!\r\n\r\nGet into the summer games spirit with our latest CPD Certified sticker pack - Sustainable Business Essentials. \r\n\r\nCollect any 6 of the stickers to get the Silver achievement - good luck!",
+    "end_description": "Congratulations! You've got the Silver achievement - time to go for Gold!",
+    "active_image_url": "stickers/images/Summer_Challenge_2024_silver.jpg",
+    "tags": [
+      null
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "dfcc5657-89c5-4611-b53d-5f6bf1e3fa06",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": "c301c2d4-9c6e-426e-9d58-1eebce20150a",
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "e45790e6-d881-423e-b27f-bafb620d17c2",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Summer 2024 Challenge - Gold",
+    "description": "On your marks... Get set... Collect!\r\n\r\nGet into the summer games spirit with our latest CPD Certified sticker pack - Sustainable Business Essentials. \r\n\r\nCollect any 9 of the stickers to get the Gold achievement - good luck!",
+    "end_description": "Congratulations - you've made it to Gold! Just a few more stickers to go, and you can collect the Sustainable Business Essentials achievement and add a CPD-certified course to your CV...",
+    "active_image_url": "stickers/images/Summer_Challenge_2024_Gold.jpg",
+    "tags": [
+      null
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "9a462514-4b5a-43d5-ab36-daafd588e66a",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": "7700b3b8-cf28-4c78-933d-53c96c502f41",
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "800cd4f3-2dd6-4e55-bce6-0dc6b07a48b6",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Financial Inclusion 101",
+    "description": "Financial Inclusion is an important issue in addressing global wealth inequality and a key issue for the banking sector and financial services, Collect this sticker to learn more.",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "FINANCE_Customer data",
+      " privacy and inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Real Estate & Finance",
+    "compstickerid": "b8c1ef10-41eb-46d8-a51c-b64414ccaff7",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "5280f5fa-105f-4b6e-9003-a73046e89cea",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
+  },
+  {
+    "sticker_name": "Sustainability Reporting 101",
+    "description": "Reporting is a key part of the business sustainability landscape - but what is it, and why is it needed?",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "FINANCE_Sustainability Reporting"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Real Estate & Finance",
+    "compstickerid": "cae9e845-6061-4b88-8813-3cbaf7c09af2",
+    "sdgnumber": 9,
+    "sdgname": "Industry, innovation and infrastructure",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "6525117e-9021-4828-a8e8-140e75ce8ca9",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26"
   }
 ]

@@ -31,6 +31,9 @@ main{
     div#libraryArea_SC tr:not(:first-child) > td{
       background-color: rgb(189,222,222);
     }
+    div#libraryArea_SBE tr:not(:first-child) > td{
+      background-color: rgb(189,222,222);
+    }
     .libraryTable, .libraryTableMod  {
       padding-top: 2em;
       width: 100%;

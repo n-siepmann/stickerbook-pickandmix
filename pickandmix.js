@@ -5,12 +5,15 @@ const library = await response.json();
 var libObject = {};
 library.map(s => libObject[s.sticker_id] = s);
 console.log('loading')
+var sbeCode = '9a69d207-7514-450b-b7e9-61178fce6010'
 var scCode = '7be585f7-f51b-41b7-80ac-a37d0763e26c'
 var scAchCodes = ['b6c4b676-7d93-4c17-b26e-0ca94d4a1d85','6f93a3a0-9739-4c20-92e3-ed53bc7e54ff','fa03ff53-1f5f-4e48-9f4d-663c67ce69c8','667421ff-2156-4305-9e75-e948de51cf34','9dfb07a1-6645-4b22-898f-4c7a3f3a2d97','80ccc9e7-f12f-43d6-83dd-5b4e8a0fbf7a','467e59a3-b1bd-470c-801b-8114c1671dc8','797ec3cc-423f-4697-8503-3a8d2902fced','cabb5354-ef67-492f-8709-86f84c7b3d4f','54ce1807-46d8-4666-b148-188e592d0d87','35cfcc09-7c0d-46a3-847f-efd859ef77bc','a928186c-c186-4ae2-b79d-dd3604eb9001']
 
 //window.addEventListener('load', populate);
 document.getElementById('submitButton').addEventListener("click",() => {generate()})
+var sbeSelect = document.getElementById(sbeCode);
 var scSelect = document.getElementById(scCode);
+var sbeSection = document.getElementById('libraryArea_SBE');
 var scSection = document.getElementById('libraryArea_SC');
 var libSection = document.getElementById('libraryArea');
 var outputSection = document.getElementById('output');
@@ -19,9 +22,20 @@ var email = ''
 var company = ''
 
 document.getElementById('selectionArea').style.display = 'none';
+document.getElementById('sbeAlert').style.display = 'none';
 document.getElementById('scAlert').style.display = 'none';
 document.getElementById('output').style.display = 'none';
 document.getElementById("futureAdd").style.display = 'none'
+
+sbeSelect.addEventListener("click", () => {
+    if (sbeSelect.checked == true){
+        document.getElementById('sbeAlert').style.display = 'none';
+        Array.from(sbeSection.getElementsByTagName("input")).forEach((s) => {s.disabled = true; s.checked = true})
+    } else {
+        document.getElementById('sbeAlert').style.display = 'block';
+        Array.from(sbeSection.getElementsByTagName("input")).forEach((s) => {s.disabled = false; s.checked = false})
+    }
+})
 
 scSelect.addEventListener("click", () => {
     if (scSelect.checked == true){
@@ -44,6 +58,7 @@ populate();
 console.log('loaded')
 
 function populate(){
+    var sbeLibrary = []
     var scLibrary = [[],[],[],[],[]]
     var achLibrary = []
     var placeholderLibrary = []
@@ -52,6 +67,9 @@ function populate(){
     Object.keys(libObject).forEach(p => {
         var s = libObject[p];
         switch (true){
+            case s.tags.includes("SB_Sustainable Business Essentials"):
+                sbeLibrary.push(s);
+                //break; <!-- DO NOT REINSTATE BREAK - by flowing through to the next case this allows for the duplication of stickers between SBE and SC packs -->
             case s.tags.includes("SB_Sustainability Champion"):
                 switch (true){
                     case s.tags.includes("SB_SC_Key Topics"):
@@ -67,11 +85,14 @@ function populate(){
                         scLibrary[3].push(s);
                     break;
                 }    
-
                 break;
             case (s.achievement_id != null || s.chapter == "Achievements"):
             if (!(s.sticker_name.includes("CPD") || s.tags.includes("SB_SC_Achievements"))){
-                achLibrary.push(s);}
+                if (!s.sticker_name.includes("Summer 2024")){
+                achLibrary.push(s);}}
+                break;
+            case s.sticker_id == 'da864fa3-7d90-4405-bc44-de7c3287df91': //Welcome sticker
+                achLibrary.push(s);
                 break;
             case s.tags.includes("SB Placeholder"):
                 placeholderLibrary.push(s);
@@ -81,6 +102,7 @@ function populate(){
                 break;
             }});
 
+            //sbeLibrary.sort((a, b) => a.sticker_name.localeCompare(b.sticker_name));
             scLibrary.forEach(s => s.sort((a, b) => a.sticker_name.localeCompare(b.sticker_name)));
             //scLibrary = scLibrary.flat();
             mainLibrary.sort((a, b) => a.sticker_name.localeCompare(b.sticker_name)).sort((a, b) => a.chapter.localeCompare(b.chapter));
@@ -88,7 +110,12 @@ function populate(){
             achLibrary.sort((a, b) => a.sticker_name.localeCompare(b.sticker_name));
 
     const libraryArea = document.getElementById("libraryArea_Main")
+    const libraryAreaSBE = document.getElementById("libraryArea_SBE")
     const libraryAreaSC = document.getElementById("libraryArea_SC")
+
+    const sbeTable = libraryAreaSBE.appendChild(document.createElement("TABLE"));
+    buildTable(sbeTable, sbeLibrary, "SBE_Pack", "Sustainable Business Essentials", "Get up to speed on the core topics of sustainability in one hour of high quality learning");
+    Array.from(sbeTable.getElementsByTagName("input")).forEach((s) => {s.checked = true; s.disabled = true})
 
 
     const sc_keytopics = libraryAreaSC.appendChild(document.createElement("TABLE"));
@@ -133,6 +160,7 @@ function generate(){
     })
     if (hasSC){scAchCodes.forEach(s => {selected.push(libObject[s])})
     }
+    selected = [... new Set(selected)] //removes duplicates in ONE LINE!!!
 
     document.getElementById("output").style.display = 'block'
     var libTable = document.getElementById("toAddTable")
