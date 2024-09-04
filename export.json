@@ -2705,14 +2705,14 @@
     "sdg_id": "4afa5cb5-1a9f-4d3f-94cb-15706d2e47d9"
   },
   {
-    "sticker_name": "Welcome to Stickerbook! COMING SOON",
-    "description": "Welcome to this new Stickerbook platform! This welcome sticker will be the first thing new users see on joining, and we will work with you to create your own bespoke version.",
-    "end_description": "Thank you for starting your sustainability journey with Stickerbook!",
+    "sticker_name": "Welcome to Stickerbook!",
+    "description": "Thank you for joining Stickerbook and taking the next step on your sustainability journey!",
+    "end_description": "Welcome - and happy collecting!",
     "active_image_url": "stickers/images/welcome_acme_04l0icB.jpg",
     "tags": [
       "SB Core"
     ],
-    "collectcount": "2",
+    "collectcount": "5",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
@@ -3139,5 +3139,51 @@
     "sticker_id": "6525117e-9021-4828-a8e8-140e75ce8ca9",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26"
+  },
+  {
+    "sticker_name": "What did you think of Stickerbook?",
+    "description": "Thank you for taking part in our trial of the Stickerbook platform! What did you think?",
+    "end_description": "",
+    "active_image_url": "stickers/images/What_do_you_think_of_Stickerbook.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Personal Actions",
+    "compstickerid": "f0782166-3420-45ac-a6f4-7112baf398be",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "cd9cc463-27c0-4413-97c8-c11f3e2ea3e6",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Back to School with Stickerbook",
+    "description": "Thank you for joining Stickerbook and taking the next step on your sustainability journey! \r\n\r\nAs part of our 'Back To School' programme, we're here to help you get up to speed on green skills.",
+    "end_description": "Welcome to Stickerbook, and happy collecting!",
+    "active_image_url": "stickers/images/welcome_acme_aowBPLd.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Personal Actions",
+    "compstickerid": "de7eb954-9002-4c1c-a6f6-7fed72835369",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "c4b21ae3-7267-4459-a93f-8482165ae4db",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
   }
 ]

@@ -8,7 +8,7 @@ console.log('loading')
 var sbeCode = '9a69d207-7514-450b-b7e9-61178fce6010'
 var scCode = '7be585f7-f51b-41b7-80ac-a37d0763e26c'
 var scAchCodes = ['b6c4b676-7d93-4c17-b26e-0ca94d4a1d85','6f93a3a0-9739-4c20-92e3-ed53bc7e54ff','fa03ff53-1f5f-4e48-9f4d-663c67ce69c8','667421ff-2156-4305-9e75-e948de51cf34','9dfb07a1-6645-4b22-898f-4c7a3f3a2d97','80ccc9e7-f12f-43d6-83dd-5b4e8a0fbf7a','467e59a3-b1bd-470c-801b-8114c1671dc8','797ec3cc-423f-4697-8503-3a8d2902fced','cabb5354-ef67-492f-8709-86f84c7b3d4f','54ce1807-46d8-4666-b148-188e592d0d87','35cfcc09-7c0d-46a3-847f-efd859ef77bc','a928186c-c186-4ae2-b79d-dd3604eb9001']
-
+var ignoreCodes = ['4918ca92-426e-443f-9de8-c3d5105ed5a2','e45790e6-d881-423e-b27f-bafb620d17c2','800cd4f3-2dd6-4e55-bce6-0dc6b07a48b6','c4b21ae3-7267-4459-a93f-8482165ae4db'] //Summer challenge achievements and Back To School welcome variant
 //window.addEventListener('load', populate);
 document.getElementById('submitButton').addEventListener("click",() => {generate()})
 var sbeSelect = document.getElementById(sbeCode);
@@ -67,6 +67,8 @@ function populate(){
     Object.keys(libObject).forEach(p => {
         var s = libObject[p];
         switch (true){
+            case ignoreCodes.includes(s.sticker_id):
+                break;
             case s.tags.includes("SB_Sustainable Business Essentials"):
                 sbeLibrary.push(s);
                 //break; <!-- DO NOT REINSTATE BREAK - by flowing through to the next case this allows for the duplication of stickers between SBE and SC packs -->
