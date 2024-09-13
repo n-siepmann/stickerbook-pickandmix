@@ -2712,7 +2712,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": "5",
+    "collectcount": "8",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
@@ -3164,7 +3164,7 @@
     "sdg_id": null
   },
   {
-    "sticker_name": "Back to School with Stickerbook",
+    "sticker_name": "Welcome to Stickerbook: Back To School",
     "description": "Thank you for joining Stickerbook and taking the next step on your sustainability journey! \r\n\r\nAs part of our 'Back To School' programme, we're here to help you get up to speed on green skills.",
     "end_description": "Welcome to Stickerbook, and happy collecting!",
     "active_image_url": "stickers/images/welcome_acme_aowBPLd.jpg",
@@ -3185,5 +3185,77 @@
     "sticker_id": "c4b21ae3-7267-4459-a93f-8482165ae4db",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null
+  },
+  {
+    "sticker_name": "Start making a change today",
+    "description": "At the heart of any big change is the human element - behaviour change. Here’s Rowan Gard with some tips for moving from intention into action!",
+    "end_description": "",
+    "active_image_url": "stickers/images/Start_making_a_change_today_Rowan_Gard.jpg",
+    "tags": [
+      "CORE_Individual Action & Influence",
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Personal Actions",
+    "compstickerid": "d01138ba-d7d2-495b-a2d7-f97c9a223bfb",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "dd401998-6719-412a-866a-b7bb2b9442e0",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
+  },
+  {
+    "sticker_name": "The Inaction Trap",
+    "description": "There’s a big difference between intention and action - but why? Here’s Rowan Gard to explain a bit about why it can be so hard to act in line with our values.",
+    "end_description": "",
+    "active_image_url": "stickers/images/The_Inaction_Trap_Rowan_Gard.jpg",
+    "tags": [
+      "SB Core",
+      "CORE_Individual Action & Influence"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Personal Actions",
+    "compstickerid": "621cd9e7-bc72-4768-bb85-fcb441ceac75",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "7f203a97-b0ac-493b-8a93-a6d1db051806",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "e599eead-dd22-476a-afaa-b4c8d4d9193d",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
+  },
+  {
+    "sticker_name": "The Hidden Costs of Business",
+    "description": "Understanding the hidden costs of business is an important part of understating the difference between businesses that are, or are not, sustainable. This understanding can arm us to ask better questions and make better decisions in our work and personal lives.\r\n\r\nCollect this sticker to learn more.",
+    "end_description": "",
+    "active_image_url": "stickers/images/The_Hidden_Costs_of_Business.jpg",
+    "tags": [
+      "SB Core",
+      "CORE_Role of Business"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "ca80b0b9-d995-4cd0-a9f6-4d72f7dbba6a",
+    "sdgnumber": 12,
+    "sdgname": "Responsible Consumption & Production",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "ce31153e-fd4c-4a47-8728-3a6801818d13",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223"
   }
 ]
