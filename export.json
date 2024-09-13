@@ -563,7 +563,8 @@
     "end_description": "Thanks for sharing a building(s) you admire for being sustainable and collect our Building a Net Zero Building sticker for more on this topic.",
     "active_image_url": "stickers/images/design_in_practice_gIX3LPK.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_NZ Construction and refurbs"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -586,7 +587,8 @@
     "end_description": "If you would like to know more, [check out the World Green Building Council’s Advancing Net Zero research and guide]( https://www.worldgbc.org/advancing-net-zero).",
     "active_image_url": "stickers/images/NZ_Building_x7Gto32.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_NZ Construction and refurbs"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -609,7 +611,8 @@
     "end_description": "This video is based on ['Electrification of Buildings & Industry – Climate Action Simulation at MIT'](https://www.youtube.com/watch?v=F7o6Cr7603c) by Climate Interactive, licensed under CC BY 3.0",
     "active_image_url": "stickers/images/How_to_electrify_a_building.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_NZ Construction and refurbs"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -632,7 +635,8 @@
     "end_description": "This video is based on ['What Makes Cities So Hot?'](https://www.youtube.com/watch?v=pFMVpYkQjbc) by NSF NCAR & UCAR Science Education, and ['NASA ARSET: Land Surface Temperature-Based Urban Heat Island Mapping, Part 1/3'](https://www.youtube.com/watch?v=KYV2j3kwj2A) by NASA Video, both licensed under CC BY 3.0",
     "active_image_url": "stickers/images/Urban_heat_islands_101.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_NZ Construction and refurbs"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -655,7 +659,8 @@
     "end_description": "",
     "active_image_url": "stickers/images/what_is_impact_investing.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "FINANCE_Types and drivers of sustainable finance"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2470,7 +2475,8 @@
     "end_description": "Please share with colleagues!\r\n_____\r\n[Click here](https://www.usgbc.org/articles/what-well) to learn more about WELL and [click here](https://interiorarchitects.com/what-is-fitwel-and-why-should-we-care/) for an overview of Fitwel.",
     "active_image_url": "stickers/images/wellbeing_buildings_xRLxdKd.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_Wellbeing and social value"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2493,7 +2499,8 @@
     "end_description": "If you are a developer in England, you might want to take a look at the [UK Government's biodiversity unit calculator](https://www.gov.uk/guidance/biodiversity-metric-calculate-the-biodiversity-net-gain-of-a-project-or-development) released as part of the Biodiversity Net Gain scheme.\r\n\r\nBut measuring biodiversity isn't just for property developers - learn more about how to do a [biodiversity audit of your own garden](https://www.gardensillustrated.com/garden-advice/biodiversity-audit-how-to)!",
     "active_image_url": "stickers/images/Biodiversity_and_the_Built_Environment.jpg",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_Sustainable property management"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2540,7 +2547,8 @@
     "end_description": "Please share and rate the video\r\n_____\r\nIf you want to learn more, why not check out the following links:\r\n\r\n[2 minutes on GRESB](https://www.youtube.com/watch?v=Tmps7ADKl10)\r\n\r\n[GRESB's own 'What is GRESB?'](https://gresb.com/ufaqs/what-is-gresb/)\r\n\r\nFor a deeper dive [dowload deepki's webinar on GRESB](https://content.deepki.com/en_deepki_support_webinar_gresb)",
     "active_image_url": "stickers/images/gresb_0wkQHQW.png",
     "tags": [
-      "SB Core"
+      "SB Core",
+      "REALESTATE_Wellbeing and social value"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -3094,10 +3102,10 @@
     "sdg_id": null
   },
   {
-    "sticker_name": "Financial Inclusion 101",
+    "sticker_name": "Financial Inclusion",
     "description": "Financial Inclusion is an important issue in addressing global wealth inequality and a key issue for the banking sector and financial services, Collect this sticker to learn more.",
     "end_description": "",
-    "active_image_url": "",
+    "active_image_url": "stickers/images/Financial_Inclusion_TEMP.jpg",
     "tags": [
       "FINANCE_Customer data",
       " privacy and inclusion"
@@ -3118,10 +3126,10 @@
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
   },
   {
-    "sticker_name": "Sustainability Reporting 101",
+    "sticker_name": "What is sustainability reporting?",
     "description": "Reporting is a key part of the business sustainability landscape - but what is it, and why is it needed?",
     "end_description": "",
-    "active_image_url": "",
+    "active_image_url": "stickers/images/What_is_sustainability_reporting_TEMP.jpg",
     "tags": [
       "FINANCE_Sustainability Reporting"
     ],
