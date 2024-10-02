@@ -52,6 +52,7 @@ regSubmit.addEventListener("click", () => {
     company = document.getElementById("company").value
     document.getElementById('regInfo').style.display = 'none';
     document.getElementById('selectionArea').style.display = 'block';
+
 })
 populate();
 
@@ -140,6 +141,7 @@ function populate(){
     buildTable(achTable, achLibrary, "achievement", "Achievements", "The gamified framework that makes Stickerbook tick. These stickers are automatically included in your library.");
     Array.from(achTable.getElementsByTagName("input")).forEach((s) => {s.checked = true; s.disabled = true})
         console.log('populated')
+
 }
 
 function generate(){
@@ -178,8 +180,8 @@ function generate(){
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
     })
 
-
-    if (future.length > 0){
+    document.getElementById("futureAdd").remove() //REMOVE THIS ONCE COMING SOON SECTION IS AUTHORITATIVE
+    /*if (future.length > 0){
         var futureTable = document.getElementById("futureTable")
         while (futureTable.rows.length > 1){
             futureTable.deleteRow(1)
@@ -190,10 +192,10 @@ function generate(){
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_name
         newRow.appendChild(document.createElement('td')).innerText = s.chapter
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
-    })}
+    })}*/
 
     var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '\n','Please set up our ' + company + ' library with the following stickers: \n')
-    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n','We would also like to register our interest for the following upcoming stickers: \n')
+    //var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n','We would also like to register our interest for the following upcoming stickers: \n')
 
     submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('BODYCONTENT', encodeURI(addList + '\n' + futureList + '\n'))
     document.getElementById("regSubmit").scrollIntoView(false);
