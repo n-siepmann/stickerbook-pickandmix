@@ -135,7 +135,7 @@ function populate(){
     buildTable(mainTable, mainLibrary, "main", "Our content", "Alongside our CPD offering, we have a range of content covering some more specialised topics");
 
     const placeholderTable = libraryArea.appendChild(document.createElement("TABLE"));
-    buildTable(placeholderTable, placeholderLibrary, "placeholder", "Coming soon", "Register your interest now and we will add these stickers to your library upon their release");
+    //buildTable(placeholderTable, placeholderLibrary, "placeholder", "Coming soon", "Register your interest now and we will add these stickers to your library upon their release");
 
     const achTable = libraryArea.appendChild(document.createElement("TABLE"));
     buildTable(achTable, achLibrary, "achievement", "Achievements", "The gamified framework that makes Stickerbook tick. These stickers are automatically included in your library.");
@@ -181,7 +181,7 @@ function generate(){
     })
 
     document.getElementById("futureAdd").remove() //REMOVE THIS ONCE COMING SOON SECTION IS AUTHORITATIVE
-    /*if (future.length > 0){
+    if (future.length > 0){
         var futureTable = document.getElementById("futureTable")
         while (futureTable.rows.length > 1){
             futureTable.deleteRow(1)
@@ -192,10 +192,10 @@ function generate(){
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_name
         newRow.appendChild(document.createElement('td')).innerText = s.chapter
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
-    })}*/
+    })}
 
     var addList =  selected.reduce((acc, curr) => acc + curr.sticker_id + '\n','Please set up our ' + company + ' library with the following stickers: \n')
-    //var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n','We would also like to register our interest for the following upcoming stickers: \n')
+    var futureList = future.reduce((acc, curr) => acc + curr.sticker_id + '\n','We would also like to register our interest for the following upcoming stickers: \n')
 
     submitLink.href = submitLink.href.replace('USEREMAIL',email).replace('USERCOMPANY',encodeURIComponent(company)).replace('BODYCONTENT', encodeURI(addList + '\n' + futureList + '\n'))
     document.getElementById("regSubmit").scrollIntoView(false);
