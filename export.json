@@ -32,7 +32,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": "1",
+    "collectcount": null,
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "354f3cc4-e516-4a25-931f-959b85faa98e",
@@ -128,7 +128,8 @@
     "tags": [
       "SB Core",
       "P&M Carbon Basics",
-      "CORE_Tools for Action"
+      "CORE_Tools for Action",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -208,7 +209,7 @@
       "SB_Sustainable Business Essentials",
       "CORE_Individual Action & Influence"
     ],
-    "collectcount": "2",
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "b0d89c4b-83df-47aa-8b7f-9bb0bacffcb0",
@@ -439,7 +440,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Personal Actions",
-      "CORE_Individual Action & Influence"
+      "CORE_Individual Action & Influence",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -540,7 +542,8 @@
     "tags": [
       "CBRE Hotels 2",
       "SB Core",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -979,7 +982,8 @@
       "SB Core",
       "SB_SC_Applying Sustainability",
       "IEMA",
-      "CORE_Planetary Boundaries"
+      "CORE_Planetary Boundaries",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1088,7 +1092,9 @@
       "Contracted Accounts Level 2",
       "CBRE Hotels 1",
       "P&M Carbon Basics",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "Sustainable Management Essentials",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1114,7 +1120,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Green Skills 101",
-      "CORE_Global Action"
+      "CORE_Global Action",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1168,7 +1175,8 @@
       "SB Core",
       "SB_SC_Applying Sustainability",
       "IEMA",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1226,9 +1234,10 @@
       "SB Core",
       "SB_SC_Applying Sustainability",
       "IEMA",
-      "CORE_Tools for Action"
+      "CORE_Tools for Action",
+      "Sustainable Management Essentials"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Green Skills",
     "compstickerid": "152192f7-8ae4-42dc-a46e-6a28fc1c1d03",
@@ -1372,7 +1381,7 @@
   {
     "sticker_name": "Sustainability Champion - certified by CPD",
     "description": "Become a Sustainability Champion - and add a new CPD Certified qualification to your CV! This 44-sticker pack is designed to address the green skills gap identified across the business world by IEMA, University College of Estate Management, Green Alliance et al.",
-    "end_description": "Congratulations! You are now a CPD-certified Sustainability Champion. \r\n\r\nThis course comprises 3 hours and 24 minutes of learning (including estimated time for answering the sticker questions).\r\n\r\nYou may now add the following to your CV:\r\n\r\n**Sustainability Champion - CPD-certified learning path provided by Stickerbook**",
+    "end_description": "Congratulations! You are now a CPD-certified Sustainability Champion. \r\n\r\nThis course comprises 3 hours and 24 minutes of learning (including estimated time for answering the sticker questions).\r\n\r\nTo add this achievement as a credential on your LinkedIn, just click [here](https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Sustainability%20Champion%20-%20CPD-certified%20learning%20path&organizationId=17916183) and click Save.\r\n\r\nYou may now add the following to your CV:\r\n\r\n**Sustainability Champion - CPD-certified learning path provided by Stickerbook**",
     "active_image_url": "stickers/images/SC_achievement.jpg",
     "tags": [
       "SB Core"
@@ -1546,7 +1555,8 @@
       "SB Core",
       "SB_SC_Applying Sustainability",
       "IEMA",
-      "CORE_Tools for Action"
+      "CORE_Tools for Action",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1649,7 +1659,8 @@
       "SB Core",
       "SB_SC_Green Skills 101",
       "MARK ESG Essentials",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1676,7 +1687,8 @@
       "SB Core",
       "SB_SC_Green Skills 101",
       "SB_Sustainable Business Essentials",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "Sustainable Management Essentials"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -1707,7 +1719,8 @@
       "CBRE Hotels 2",
       "Pacific Induction",
       "P&M Carbon Basics",
-      "CORE_Climate Change"
+      "CORE_Climate Change",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1734,7 +1747,8 @@
       "SB Core",
       "SB_SC_Green Skills 101",
       "IEMA",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1872,7 +1886,8 @@
       "SB_Sustainability Champion",
       "SB Core",
       "SB_SC_Key Topics",
-      "CORE_Planetary Boundaries"
+      "CORE_Planetary Boundaries",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -1899,7 +1914,8 @@
       "SB Core",
       "SB_SC_Key Topics",
       "Contracted Accounts Level 1",
-      "CORE_Role of Business"
+      "CORE_Role of Business",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2009,7 +2025,8 @@
       "COP26",
       "CBRE Hotels 1",
       "P&M Carbon Basics",
-      "CORE_Climate Change"
+      "CORE_Climate Change",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2281,7 +2298,8 @@
     "active_image_url": "stickers/images/What_is_Carbon_Capture.jpg",
     "tags": [
       "SB Core",
-      "CORE_Climate Change"
+      "CORE_Climate Change",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2500,7 +2518,8 @@
     "active_image_url": "stickers/images/Biodiversity_and_the_Built_Environment.jpg",
     "tags": [
       "SB Core",
-      "REALESTATE_Sustainable property management"
+      "REALESTATE_Sustainable property management",
+      "Sustainable Management Essentials"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2645,7 +2664,9 @@
     "tags": [
       "SB_Sustainable Business Essentials",
       "CORE_Planetary Boundaries",
-      "SB Core"
+      "SB Core",
+      "Sustainable Management Essentials",
+      "SB_Carbon Confident"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -2720,7 +2741,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": "8",
+    "collectcount": "7",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
@@ -2743,7 +2764,8 @@
     "tags": [
       "SB_Sustainable Business Essentials",
       "CORE_Social Value & Inclusion",
-      "SB Core"
+      "SB Core",
+      "Sustainable Management Essentials"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -2767,7 +2789,8 @@
     "active_image_url": "stickers/images/CBRE_UK__CE_Stickers72.png",
     "tags": [
       "Contracted Accounts Level 1",
-      "SB Core"
+      "SB Core",
+      "SB_Carbon Confident"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -2792,7 +2815,8 @@
     "tags": [
       "SB_Sustainable Business Essentials",
       "CORE_Climate Change",
-      "SB Core"
+      "SB Core",
+      "SB_Carbon Confident"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -2867,7 +2891,8 @@
     "tags": [
       "SB_Sustainable Business Essentials",
       "CORE_Climate Change",
-      "SB Core"
+      "SB Core",
+      "SB_Carbon Confident"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -2917,7 +2942,8 @@
     "tags": [
       "SB_Sustainable Business Essentials",
       "CORE_Social Value & Inclusion",
-      "SB Core"
+      "SB Core",
+      "SB_Carbon Confident"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -2942,7 +2968,8 @@
     "tags": [
       "SB_Sustainable Business Essentials",
       "CORE_Climate Change",
-      "SB Core"
+      "SB Core",
+      "SB_Carbon Confident"
     ],
     "collectcount": "1",
     "album": "Sustainability",
@@ -3012,7 +3039,7 @@
   {
     "sticker_name": "Sustainable Business Essentials - certified by CPD",
     "description": "Our Sustainable Business Essentials achievement is the ideal starting point for anyone interested in sustainability training, green skills, and corporate sustainability. Discover the key issues for organizations and understand why sustainability is crucial to strategy.\r\n\r\nCollect, share and add to your CV!",
-    "end_description": "You may now add the following to your CV:\r\n\r\n**Sustainable Business Essentials - CPD-certified learning path provided by Stickerbook**",
+    "end_description": "To add this achievement as a credential on your LinkedIn, just click [here](https://www.linkedin.com/profile/add?startTask=CERTIFICATION_NAME&name=Sustainable%20Business%20Essentials%20-%20CPD-certified%20learning%20path&organizationId=17916183) and click Save.\r\n\r\nYou may also now add the following to your CV:\r\n\r\n**Sustainable Business Essentials - CPD-certified learning path provided by Stickerbook**",
     "active_image_url": "stickers/images/SBE_achievement_NYXJPhP.jpg",
     "tags": [
       null
@@ -3108,7 +3135,8 @@
     "active_image_url": "stickers/images/Financial_Inclusion_TEMP.jpg",
     "tags": [
       "FINANCE_Customer data",
-      " privacy and inclusion"
+      " privacy and inclusion",
+      "SB Core"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -3131,7 +3159,8 @@
     "end_description": "",
     "active_image_url": "stickers/images/What_is_sustainability_reporting_TEMP.jpg",
     "tags": [
-      "FINANCE_Sustainability Reporting"
+      "FINANCE_Sustainability Reporting",
+      "SB Core"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -3149,7 +3178,7 @@
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26"
   },
   {
-    "sticker_name": "What did you think of Stickerbook?",
+    "sticker_name": "What do you think of Stickerbook?",
     "description": "Thank you for taking part in our trial of the Stickerbook platform! What did you think?",
     "end_description": "",
     "active_image_url": "stickers/images/What_do_you_think_of_Stickerbook.jpg",
@@ -3251,7 +3280,7 @@
       "SB Core",
       "CORE_Role of Business"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "ca80b0b9-d995-4cd0-a9f6-4d72f7dbba6a",
@@ -3265,5 +3294,101 @@
     "sticker_id": "ce31153e-fd4c-4a47-8728-3a6801818d13",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223"
+  },
+  {
+    "sticker_name": "Digital financial inclusion",
+    "description": "Digital Financial Inclusion is an important issue part of the strategy to address global wealth inequality and a key issue and opportunity for the banking sector and financial services.  The growth of Digital Financial Services has been significant and is likely to continue.\r\n\r\nCollect this sticker to learn more.",
+    "end_description": "",
+    "active_image_url": "stickers/images/Digital_Financial_Inclusion.jpg",
+    "tags": [
+      "FINANCE_Customer data",
+      " privacy and inclusion",
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Real Estate & Finance",
+    "compstickerid": "29c5cf14-fb99-4fed-8d15-b4bc8280cabc",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "0b0d0c15-8161-4ad3-aefc-1181caf450cc",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db"
+  },
+  {
+    "sticker_name": "Sustainable Reporting Standards",
+    "description": "Knowledge is power - but how do you get that knowledge? When it comes to understanding companies’ sustainability impact, it can be very complicated comparing one to another. That’s where sustainability reporting standards come in!",
+    "end_description": "[Bank](https://www.flaticon.com/free-icons/bank) icons created by Freepik - Flaticon.",
+    "active_image_url": "stickers/images/Sustainable_Reporting_Standards_TEMP.jpg",
+    "tags": [
+      "FINANCE_Sustainability Reporting",
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Real Estate & Finance",
+    "compstickerid": "6b2827fd-1695-4869-ad09-afb7ad10a4cf",
+    "sdgnumber": 9,
+    "sdgname": "Industry, innovation and infrastructure",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "2163a28e-24da-45ee-9439-306748e05d52",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26"
+  },
+  {
+    "sticker_name": "Sustainable finance",
+    "description": "Sustainable finance and green finance: two terms that are often mistaken for each other! Collect this sticker to learn about the role of ESG in the investment landscape.",
+    "end_description": "",
+    "active_image_url": "stickers/images/Sustainable_finance.jpg",
+    "tags": [
+      "FINANCE_Types and drivers of sustainable finance",
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Real Estate & Finance",
+    "compstickerid": "d93a37e7-4d9b-4717-af5d-7c22acb6db4a",
+    "sdgnumber": 9,
+    "sdgname": "Industry, innovation and infrastructure",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "e0a63da0-b7f3-4bf9-9c4b-17a76ed7275b",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "7f3bed80-bc46-4cea-89e6-b2b418cfbcab",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26"
+  },
+  {
+    "sticker_name": "Carbon Confident",
+    "description": "We haven't got time to spare in tackling the climate crisis. So what if you could get up to speed on the vital issues over your lunch break?\r\n\r\n'Carbon Confident' is our bitesize learning pack on climate change and the tools we're using to fight it. Whether you're making decisions for your business, or talking to customers about their sustainability concerns, get the knowledge you need to make a difference in under 60 minutes!\r\n\r\nCPD certification pending",
+    "end_description": "Congratulations! You've collected the Carbon Confident achievement.\r\n\r\nOnce this learning path has been granted CPD certification, we notify you that you can add this to your CV as a CPD course.",
+    "active_image_url": "stickers/images/Carbon_Confident.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "df57d86f-8736-484f-adf8-3c685f39ced1",
+    "sdgnumber": 13,
+    "sdgname": "Climate Action",
+    "achievement_id": "5d838de2-9cb1-4025-9829-4be229b176e4",
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "ab16ac03-da1f-496d-af8c-842e894f4928",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2"
   }
 ]
