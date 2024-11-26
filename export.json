@@ -2439,13 +2439,12 @@
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878"
   },
   {
-    "sticker_name": "Applying Sustainability Case Study (Patagonia)",
-    "description": "Sticker in development",
+    "sticker_name": "Case Study: Patagonia",
+    "description": "In 1994, the Patagonia clothing company made a momentous decision - but how were they going to make it happen? Time to step into their shoes and find a solution…\r\n\r\nThis sticker is your chance to put your sustainability thinking to the test (as a team or on your own) in this real-world case study exercise!",
     "end_description": "",
-    "active_image_url": "",
+    "active_image_url": "stickers/images/Patagonia.jpg",
     "tags": [
       "SB Core",
-      "SB Placeholder",
       "CORE_Role of Business"
     ],
     "collectcount": null,
@@ -2741,7 +2740,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": "7",
+    "collectcount": "8",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
@@ -3035,6 +3034,52 @@
     "sticker_id": "d32d6581-2f92-434a-add8-f8e071f5e151",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83"
+  },
+  {
+    "sticker_name": "Refer a friend",
+    "description": "Boost your impact and stand out from the crowd by inviting a friend to Stickerbook! You will earn a Referral achievement for every new user who joins the platform using your unique referral code.",
+    "end_description": "",
+    "active_image_url": "stickers/images/Refer_a_friend_9TxqDw3.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "129201c4-83cc-4d62-9a06-ccd5d56af261",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "ff172108-f4bc-489f-93f6-7ac086dd3cbf",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
+  },
+  {
+    "sticker_name": "Refer a colleague",
+    "description": "Boost your impact and stand out from the crowd by inviting a colleague to Stickerbook! You will earn a Referral achievement for every new user who joins the platform using your unique referral code. Please note that you can only refer colleagues from your organisation.",
+    "end_description": "",
+    "active_image_url": "stickers/images/Refer_a_colleague.jpg",
+    "tags": [
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Achievements",
+    "compstickerid": "76562ec5-59ac-43ab-9a44-e03ff0163cd9",
+    "sdgnumber": null,
+    "sdgname": null,
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "81fc7793-016c-4b8c-baaa-fba5ecea7724",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "ff0c8529-d353-430c-b2a1-7b993c57aaa2",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": null
   },
   {
     "sticker_name": "Sustainable Business Essentials - certified by CPD",
