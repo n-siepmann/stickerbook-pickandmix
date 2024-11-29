@@ -207,12 +207,14 @@ function populate(){
                 const openModalButton = players[i].childNodes[0];
                 const modal = players[i].childNodes[1];
                 const video = modal.childNodes[1];
-
+                const track = video.childNodes[video.childNodes.length - 1];
+                                
                 openModalButton.addEventListener("click", function onOpen() {
                 // .showModal() is part of the HTMLDialogElement API
                 modal.showModal();
                 // .play() is part of the HTMLMediaElement API
                 video.load();
+                track.mode = "showing"
                 video.play();
                 });
 
@@ -258,7 +260,7 @@ function generate(){
     selected.forEach(s => {
         var newRow = libTable.appendChild(document.createElement('tr'))
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_name
-        newRow.appendChild(document.createElement('td')).innerText = s.chapter
+        if(pageVersion=="pickandmix"){newRow.appendChild(document.createElement('td')).innerText = s.chapter}
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
     })
 
@@ -272,7 +274,7 @@ function generate(){
     future.forEach(s => {
         var newRow = futureTable.appendChild(document.createElement('tr'))
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_name
-        newRow.appendChild(document.createElement('td')).innerText = s.chapter
+        if(pageVersion=="pickandmix"){newRow.appendChild(document.createElement('td')).innerText = s.chapter}
         newRow.appendChild(document.createElement('td')).innerText = s.sticker_id
     })}
 
@@ -288,7 +290,13 @@ function generate(){
 function buildTable(table, library, tag, label, subtitle){
     table.id = tag;
     table.classList.add('libraryTable');
-    table.innerHTML = "<tr><td colspan=2><h2>" + label + "</h2>" + subtitle + "</td><td>Chapter</td><td><input type=checkbox id=\""+ tag + "Master\" class=\"stickerMasterSelect\"></td></tr>";
+
+    if (pageVersion == "pickandmix"){
+        table.innerHTML = "<tr><td colspan=2><h2>" + label + "</h2>" + subtitle + "</td><td>Chapter</td><td><input type=checkbox id=\""+ tag + "Master\" class=\"stickerMasterSelect\"></td></tr>";}
+    else if (pageVersion == "scorm"){
+        table.innerHTML = "<tr><td colspan=2><h2>" + label + "</h2>" + subtitle + "</td><td>Description</td><td><input type=checkbox id=\""+ tag + "Master\" class=\"stickerMasterSelect\"></td></tr>";
+    }
+
     var masterCheck = document.getElementById(tag + 'Master').addEventListener("change", () => {
         var boxes = Array.from(document.getElementById(tag).getElementsByClassName("stickerSelect"))
         if (document.getElementById(tag + 'Master').checked == true){
@@ -306,7 +314,7 @@ function buildTable(table, library, tag, label, subtitle){
                 newRow.insertCell(-1).innerHTML = "<h4>" + s.sticker_name + "</h4>" + s.description;
                 newRow.insertCell(-1).innerText = s.chapter;
             } else if (pageVersion == "scorm"){
-                newRow.insertCell(-1).innerHTML = "<h4>" + s.sticker_name + "</h4><div class=\"videoplayer\"><button class=\"open-modal\">Play Video</button><dialog class=\"video-modal\"><form method=\"dialog\"><button class=\"video-modal-close\">Close</button>  </form><video controls preload=none width=\"720\">    <source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/mp4\" /><source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/webm\" /><track src=\"https://assets.stickerbook.tech/media/" + s.subtitle_file + "\ kind=subtitles srclang=en label=English></video></dialog></div>";
+                newRow.insertCell(-1).innerHTML = "<h4>" + s.sticker_name + "</h4><div class=\"videoplayer\"><button class=\"open-modal\">Play Video</button><dialog class=\"video-modal\"><form method=\"dialog\"><button class=\"video-modal-close\">Close</button>  </form><video controls preload=none width=\"720\">    <source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/mp4\" /><source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/webm\" /><track src=\"https://assets.stickerbook.tech/media/" + s.subtitle_file + "\" kind=\"subtitles\" srclang=\"en\" label=\"English\"></video></dialog></div>";
                 newRow.insertCell(-1).innerText = s.description;
             }
             
