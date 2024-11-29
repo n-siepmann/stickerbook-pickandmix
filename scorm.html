@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+    <head>
+      <link rel="stylesheet" href="https://cbreltd.stickerbook.tech/assets/index-c5877ab9.css">
+      <link rel="stylesheet" href="./pickandmix.css">
+    </head>
+    <body>
+      
+      <header><table><tr><td><h1>Build your Stickerbook SCORM package</h1></td><td><img src="https://cbreltd.stickerbook.tech/assets/stickerbook%20logo-01bfee37.svg"></td></tr></table></header>
+      <main>
+        <div id="regInfo">
+          <h3>Please enter your details</h3>
+          <form id="regForm" onsubmit="return false">
+          <table>
+            <tr><td><label for="email">Enter your email address:</label></td><td><input required type="email" id="email"></td></tr>
+            <tr><td><label for="company">Enter your company name:</label></td><td><input required type="text" id="company"></td></tr> 
+          </table>
+          <button id="regSubmit">Build your SCORM package</button>
+        </form>
+        </div>
+      <div id="selectionArea">
+          <div id="libraryArea_Main"></div>
+          <button id="submitButton">Create inventory</button>
+        </div>
+        <div id="output">
+          <h2>You have requested:</h2>
+          <div id="toAdd">
+            <h3>Your starting library</h3>
+            <table id="toAddTable" class="outputTable"><tr><td>Title</td><td>Chapter</td><td>ID code</td></tr></table>
+          </div>
+          <div id="futureAdd">
+            <h3>Coming soon</h3>
+            <table id="futureTable" class="outputTable"><tr><td>Title</td><td>Chapter</td><td>ID code</td></tr></table>
+          </div>
+          <button id="refreshButton" onClick="window.location.href=window.location.href;">Reset selection</button>
+          <h3>Happy with your selection? Click here to email us with your library request.</h3><p>You will be able to review the message and add any comments before sending.</p>
+          <a href="mailto:nick@obliquitygroup.com?cc=USEREMAIL&subject=Stickerbook%20library%20request%20for%20USERCOMPANY&body=BODYCONTENT" id="sendRequest"><button role="link" style="height:40px;width:200px">Send library request</button></a>
+        </div>
+
+      </main>
+
+    <script src="./pickandmix.js" type="module" calledby="scorm" id="jsCall"></script>
+    </body>
+    
+</html>
