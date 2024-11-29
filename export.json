@@ -23,7 +23,8 @@
     "sticker_id": "8b647e68-f57e-4213-abda-ce18f806adc8",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Early Bird Collection Achievement",
@@ -47,7 +48,8 @@
     "sticker_id": "67faecb0-5565-4923-b618-c4b8cf2d3972",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "What is Natural Capital?",
@@ -74,7 +76,8 @@
     "sticker_id": "6e3f3000-92aa-4ca0-9acb-cc0ebfaa2e6a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "462ba9f1-44fb-40a3-9920-21d8bc13b7d3",
-    "video": "stickers/videos/What_is_Natural_Capital_yVrTZL6.mp4"
+    "video": "stickers/videos/What_is_Natural_Capital_yVrTZL6.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Natural_Capital_modified.vtt"
   },
   {
     "sticker_name": "Tackling the Global Water Crisis",
@@ -99,7 +102,8 @@
     "sticker_id": "ebd80cf2-32f0-4e5e-8c86-a4b14331670c",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4afa5cb5-1a9f-4d3f-94cb-15706d2e47d9",
-    "video": "stickers/videos/Tackling_the_Global_Water_Crisis_World_Economic_Forum.mp4"
+    "video": "stickers/videos/Tackling_the_Global_Water_Crisis_World_Economic_Forum.mp4",
+    "subtitle_file": "stickers/subtitle/Tackling_the_Global_Water_Crisis_World_Economic_Forum.vtt"
   },
   {
     "sticker_name": "Captain Planet",
@@ -123,7 +127,8 @@
     "sticker_id": "0965a247-7844-4583-80d3-62237d66c592",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/sticker_question_image_DZVHM"
+    "video": "stickers/videos/sticker_question_image_DZVHM",
+    "subtitle_file": null
   },
   {
     "sticker_name": "What is a Carbon Budget?",
@@ -150,7 +155,8 @@
     "sticker_id": "feb00db7-f1e0-4fe9-86ab-3e525b79bca2",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/What_is_a_Carbon_Budget_jXPwnar.mp4"
+    "video": "stickers/videos/What_is_a_Carbon_Budget_jXPwnar.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_a_Carbon_Budget_tpLMcOV.vtt"
   },
   {
     "sticker_name": "Creating a Materiality Matrix",
@@ -177,7 +183,8 @@
     "sticker_id": "3aba0cd0-9816-41dd-b0ef-6811e72975d9",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4000743a-440d-4873-a35a-65e66a893b3a",
-    "video": "stickers/videos/Creating_a_Materiality_Matrix_Beth_Knight.mp4"
+    "video": "stickers/videos/Creating_a_Materiality_Matrix_Beth_Knight.mp4",
+    "subtitle_file": "stickers/subtitle/Creating_a_materiality_matrix_Beth_Knight.vtt"
   },
   {
     "sticker_name": "Paris Agreement",
@@ -203,7 +210,8 @@
     "sticker_id": "e542349b-f921-4d65-9171-d45efb263d03",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Paris_Agreement.mp4"
+    "video": "stickers/videos/Paris_Agreement.mp4",
+    "subtitle_file": "stickers/subtitle/Paris_Agreement_simpleshow.vtt"
   },
   {
     "sticker_name": "Where do I have personal impact?",
@@ -231,7 +239,8 @@
     "sticker_id": "92bc271d-9e8c-4718-885e-b2ba3e2b0e1a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Where_do_I_have_personal_impact_Dave_Caygill_wun1P74.mp4"
+    "video": "stickers/videos/Where_do_I_have_personal_impact_Dave_Caygill_wun1P74.mp4",
+    "subtitle_file": "stickers/subtitle/Where_do_I_have_personal_impact_Dave_Caygill.vtt"
   },
   {
     "sticker_name": "Set yourself a goal",
@@ -258,7 +267,8 @@
     "sticker_id": "c0d77a4e-ef1c-400a-8c2a-c573f5fe79dd",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Set_yourself_a_Goal_Simon_Kelly.mp4"
+    "video": "stickers/videos/Set_yourself_a_Goal_Simon_Kelly.mp4",
+    "subtitle_file": "stickers/subtitle/Set_yourself_a_Goal_Simon_Kelly.vtt"
   },
   {
     "sticker_name": "Become an active investor",
@@ -286,7 +296,8 @@
     "sticker_id": "a2e49b51-1cf3-470d-ba3a-9f50e3ab243a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Become_an_Active_Investor_N98q8tL.mp4"
+    "video": "stickers/videos/Become_an_Active_Investor_N98q8tL.mp4",
+    "subtitle_file": "stickers/subtitle/Become_an_Active_Investor_fixed_yASg2hd.vtt"
   },
   {
     "sticker_name": "Suggest an improvement",
@@ -313,7 +324,8 @@
     "sticker_id": "0f699fa3-4e5e-409c-a564-4d64d751cdb0",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Suggest_an_improvement_Dave_Caygill_FEmOCYw.mp4"
+    "video": "stickers/videos/Suggest_an_improvement_Dave_Caygill_FEmOCYw.mp4",
+    "subtitle_file": "stickers/subtitle/Suggest_an_improvement_Dave_Caygill.mp4.vtt"
   },
   {
     "sticker_name": "Become a Champion",
@@ -340,7 +352,8 @@
     "sticker_id": "01aa135f-a413-450c-b802-e8e4789dc978",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Become_a_Champion_Anna_Hyde.mp4"
+    "video": "stickers/videos/Become_a_Champion_Anna_Hyde.mp4",
+    "subtitle_file": "stickers/subtitle/Become_a_Champion_Anna_Hyde.vtt"
   },
   {
     "sticker_name": "Reduce your plastic",
@@ -367,7 +380,8 @@
     "sticker_id": "41df86dd-0ae1-49c9-9cad-d78800c8b0bc",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Reduce_your_plastic_Rob_Wilkinson_afRWhkB.mp4"
+    "video": "stickers/videos/Reduce_your_plastic_Rob_Wilkinson_afRWhkB.mp4",
+    "subtitle_file": "stickers/subtitle/Reduce_your_plastic_Rob_Wilkinson_s8B2J3G.vtt"
   },
   {
     "sticker_name": "Greener email habits",
@@ -395,7 +409,8 @@
     "sticker_id": "52ba2cf8-0ca1-4c0c-89d0-6c4f9f498282",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Greener_Email_Habits_GHAGkFx.mp4"
+    "video": "stickers/videos/Greener_Email_Habits_GHAGkFx.mp4",
+    "subtitle_file": "stickers/subtitle/Greener_Email_Habits_modified.vtt"
   },
   {
     "sticker_name": "Beat the Vampire - Standby Energy Use",
@@ -420,7 +435,8 @@
     "sticker_id": "697b9da1-01f2-487c-8327-53792e38f960",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "a4bdaa85-3e13-4e79-989d-137ec62302c1",
-    "video": "stickers/videos/Beat_the_Vampire_-_Standby_Energy_Use_Dartmouth_University.mp4"
+    "video": "stickers/videos/Beat_the_Vampire_-_Standby_Energy_Use_Dartmouth_University.mp4",
+    "subtitle_file": "stickers/subtitle/Beat_the_Vampire_-_Standby_Energy_Use_Dartmouth_University.vtt"
   },
   {
     "sticker_name": "Key COP Terms",
@@ -446,7 +462,8 @@
     "sticker_id": "69991f96-8994-42be-b75e-7e95b06ed2d0",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Key_COP_terms_explained_Nick_Siepmann.mp4"
+    "video": "stickers/videos/Key_COP_terms_explained_Nick_Siepmann.mp4",
+    "subtitle_file": "stickers/subtitle/Key_COP_Terms_explained_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "Measure my footprint",
@@ -474,7 +491,8 @@
     "sticker_id": "2a7629db-9327-4e51-8fc3-61fa9149c863",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Measure_my_footprint_John_Isherwood_CmujsuH.mp4"
+    "video": "stickers/videos/Measure_my_footprint_John_Isherwood_CmujsuH.mp4",
+    "subtitle_file": "stickers/subtitle/Measure_my_footprint_John_Isherwood_fixed.vtt"
   },
   {
     "sticker_name": "Film a Sticker",
@@ -499,7 +517,8 @@
     "sticker_id": "305b3475-3cac-46f0-a74c-4a0fc5680e03",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/sticker_question_image_5N19S"
+    "video": "stickers/videos/sticker_question_image_5N19S",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Changes I’ve made in my personal life",
@@ -526,7 +545,8 @@
     "sticker_id": "4a89064c-fd81-46cb-98e6-6b5efb418caa",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Changes_Ive_made_in_my_personal_life_Anna_Hyde.mp4"
+    "video": "stickers/videos/Changes_Ive_made_in_my_personal_life_Anna_Hyde.mp4",
+    "subtitle_file": "stickers/subtitle/Changes_Ive_made_in_my_personal_life_Anna_Hyde.vtt"
   },
   {
     "sticker_name": "Changes I’ve made at work",
@@ -553,7 +573,8 @@
     "sticker_id": "4e10f77a-137e-4235-a268-1e7aab2d3bdf",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Changes_Ive_made_at_work_Dave_Caygill_6CXPWJE.mp4"
+    "video": "stickers/videos/Changes_Ive_made_at_work_Dave_Caygill_6CXPWJE.mp4",
+    "subtitle_file": "stickers/subtitle/Changes_Ive_made_at_work_Dave_Caygill_yyXpKQL.vtt"
   },
   {
     "sticker_name": "Greenwash 101",
@@ -580,7 +601,8 @@
     "sticker_id": "e0044518-d65b-4697-a41c-709e92d2ab28",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Greenwashing_Lisa_Steffen.mp4"
+    "video": "stickers/videos/Greenwashing_Lisa_Steffen.mp4",
+    "subtitle_file": "stickers/subtitle/Greenwashing_Lisa_Steffen.vtt"
   },
   {
     "sticker_name": "Sustainable Design in Practice",
@@ -605,7 +627,8 @@
     "sticker_id": "bc66d58f-cc47-4648-8a0c-1a34d34c608c",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/Sustainable_Design_in_Practice_Allie_Maddison__Simon_Kelly.mp4"
+    "video": "stickers/videos/Sustainable_Design_in_Practice_Allie_Maddison__Simon_Kelly.mp4",
+    "subtitle_file": "stickers/subtitle/Sustainable_Design_in_Practice_Allie_Maddison__Simon_Kelly.vtt"
   },
   {
     "sticker_name": "Building a Net Zero Building",
@@ -630,7 +653,8 @@
     "sticker_id": "f5ddb80f-b356-4282-ac95-0ee61dd810a9",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/Building_a_Net_Zero_Building_Henry_Hsu.mp4"
+    "video": "stickers/videos/Building_a_Net_Zero_Building_Henry_Hsu.mp4",
+    "subtitle_file": "stickers/subtitle/Building_a_Net_Zero_Building_Henry_Hsu.vtt"
   },
   {
     "sticker_name": "How to electrify a building",
@@ -655,7 +679,8 @@
     "sticker_id": "4293e66f-3bb8-4763-9e63-572f3b342c53",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/How_to_Electrify_a_Building_Alex_Roberts.mp4"
+    "video": "stickers/videos/How_to_Electrify_a_Building_Alex_Roberts.mp4",
+    "subtitle_file": "stickers/subtitle/How_to_Electrify_a_Building_Alex_Roberts.vtt"
   },
   {
     "sticker_name": "Urban heat islands 101",
@@ -680,7 +705,8 @@
     "sticker_id": "d4f4e639-de55-49b5-8983-a7b9fc2c444e",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/Urban_Heat_Islands_101_Alex_Roberts.mp4"
+    "video": "stickers/videos/Urban_Heat_Islands_101_Alex_Roberts.mp4",
+    "subtitle_file": "stickers/subtitle/Urban_Heat_Islands_101_Alex_Roberts.vtt"
   },
   {
     "sticker_name": "What is Impact investing?",
@@ -705,7 +731,8 @@
     "sticker_id": "3a4d54dd-4765-4e26-88ca-e33590180e07",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/What_is_Impact_Investing_John_Isherwood.mp4"
+    "video": "stickers/videos/What_is_Impact_Investing_John_Isherwood.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Impact_Investing_John_Isherwood.vtt"
   },
   {
     "sticker_name": "What is TCFD? [STICKER UNDER CONSTRUCTION]",
@@ -730,7 +757,8 @@
     "sticker_id": "b73a83ff-49d0-4a99-a9cf-145ca65b0b10",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Accuracy Streak - Level 3",
@@ -754,7 +782,8 @@
     "sticker_id": "4640a77a-107e-4a41-900a-afc6d79aeb49",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Accuracy Streak - Level 2",
@@ -778,7 +807,8 @@
     "sticker_id": "78c49f90-8af0-4253-bc18-686be4f5bdcb",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Accuracy Streak - Level 4",
@@ -802,7 +832,8 @@
     "sticker_id": "7b638d19-81ff-4a78-99cc-d3f0db6d7801",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Accuracy Streak - Level 1",
@@ -826,7 +857,8 @@
     "sticker_id": "81d13dd6-cacc-4f52-8eda-e680d029e24d",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Accuracy Streak - Level 5",
@@ -850,7 +882,8 @@
     "sticker_id": "a396a930-b9f8-4c52-9611-a916cc947716",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Personal Actions - Gold",
@@ -875,7 +908,8 @@
     "sticker_id": "35cfcc09-7c0d-46a3-847f-efd859ef77bc",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Key Topics - Bronze",
@@ -900,7 +934,8 @@
     "sticker_id": "467e59a3-b1bd-470c-801b-8114c1671dc8",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Personal Actions - Bronze",
@@ -925,7 +960,8 @@
     "sticker_id": "54ce1807-46d8-4666-b148-188e592d0d87",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Communicating Sustainability",
@@ -953,7 +989,8 @@
     "sticker_id": "818e1007-f10b-4965-a89e-892f06d16302",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Communicating_Sustainability_2kM6Qv8.mp4"
+    "video": "stickers/videos/Communicating_Sustainability_2kM6Qv8.mp4",
+    "subtitle_file": "stickers/subtitle/Communicating_Sustainability_modified.vtt"
   },
   {
     "sticker_name": "Building Relationships",
@@ -981,7 +1018,8 @@
     "sticker_id": "54c47549-6444-45fe-90d3-b3f4e3759ac7",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Building_Relationships_GIJ2Cxe.mp4"
+    "video": "stickers/videos/Building_Relationships_GIJ2Cxe.mp4",
+    "subtitle_file": "stickers/subtitle/Building_Relationships_modified.vtt"
   },
   {
     "sticker_name": "Sustainability Data 101",
@@ -1009,7 +1047,8 @@
     "sticker_id": "a08e8c6c-488e-4161-b67d-de9be4e8c59a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/Sustainability_Data_101.mp4"
+    "video": "stickers/videos/Sustainability_Data_101.mp4",
+    "subtitle_file": "stickers/subtitle/Sustainability_Data_101.vtt"
   },
   {
     "sticker_name": "Natural Cycles and Human Impact",
@@ -1038,7 +1077,8 @@
     "sticker_id": "6ae65d23-5793-4a3d-a8b4-224c04f7593b",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Natural_Cycles_and_Human_Impact_lLp0rt7.mp4"
+    "video": "stickers/videos/Natural_Cycles_and_Human_Impact_lLp0rt7.mp4",
+    "subtitle_file": "stickers/subtitle/Natural_Cycles_and_Human_Impact_modified.vtt"
   },
   {
     "sticker_name": "Green Skills 101",
@@ -1065,7 +1105,8 @@
     "sticker_id": "81360e8b-8917-40be-a31b-189cbbd1b9fe",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Green_Skills_101_Jo_Watson_o30HIhk.mp4"
+    "video": "stickers/videos/Green_Skills_101_Jo_Watson_o30HIhk.mp4",
+    "subtitle_file": "stickers/subtitle/Green_Skills_101_Jo_Watson_8RHVjse.vtt"
   },
   {
     "sticker_name": "Influencing Behaviour Change",
@@ -1093,7 +1134,8 @@
     "sticker_id": "d5ff9d5f-6e74-4cfb-b362-db6cc0266d0c",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Influencing_Behaviour_Change_zduDNPT.mp4"
+    "video": "stickers/videos/Influencing_Behaviour_Change_zduDNPT.mp4",
+    "subtitle_file": "stickers/subtitle/Influencing_Behaviour_Change_modified.vtt"
   },
   {
     "sticker_name": "Building a Sustainability Strategy",
@@ -1121,7 +1163,8 @@
     "sticker_id": "ad8c63b2-8a9b-435e-b5ea-9e11ec8cd24b",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Building_a_Sustainability_Strategy_j4JeLV2.mp4"
+    "video": "stickers/videos/Building_a_Sustainability_Strategy_j4JeLV2.mp4",
+    "subtitle_file": "stickers/subtitle/Building_a_Sustainability_Strategy.vtt"
   },
   {
     "sticker_name": "Carbon Offsetting 101",
@@ -1153,7 +1196,8 @@
     "sticker_id": "cf7aad37-ba47-4c7c-b0c2-a4480eb090fc",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Carbon_Offsetting_101_8fzRKny.mp4"
+    "video": "stickers/videos/Carbon_Offsetting_101_8fzRKny.mp4",
+    "subtitle_file": "stickers/subtitle/Carbon_Offsetting_101_modified.vtt"
   },
   {
     "sticker_name": "Climate Legislation in Practice 101",
@@ -1181,7 +1225,8 @@
     "sticker_id": "a773da2a-a7c1-4985-a852-cf35fab2a0ab",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "52111aac-d10d-48e7-b3ad-a9360996d536",
-    "video": "stickers/videos/Climate_Legislation_in_Practice_-_Ozone_Layer_4JgJW7g.mp4"
+    "video": "stickers/videos/Climate_Legislation_in_Practice_-_Ozone_Layer_4JgJW7g.mp4",
+    "subtitle_file": "stickers/subtitle/Climate_Legislation_in_Practice_-_Ozone_Layer_modified.vtt"
   },
   {
     "sticker_name": "Green Finance 101",
@@ -1209,7 +1254,8 @@
     "sticker_id": "c99e5f6b-b81d-4ff8-8c56-590f82bc129a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Green_Finance_101_Kaisie_Rayner_m8DStMu.mp4"
+    "video": "stickers/videos/Green_Finance_101_Kaisie_Rayner_m8DStMu.mp4",
+    "subtitle_file": "stickers/subtitle/Green_Finance_101_Kaisie_Rayner_6p1VIIP.vtt"
   },
   {
     "sticker_name": "Innovating in Sustainability",
@@ -1238,7 +1284,8 @@
     "sticker_id": "2821f639-926b-4b2c-9ec8-ef4f19a6efaf",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Innovating_in_Sustainability_b1VBbC7.mp4"
+    "video": "stickers/videos/Innovating_in_Sustainability_b1VBbC7.mp4",
+    "subtitle_file": "stickers/subtitle/Innovating_in_Sustainability_modified.vtt"
   },
   {
     "sticker_name": "Stranded Assets 101",
@@ -1270,7 +1317,8 @@
     "sticker_id": "68459bf2-c2f8-4843-991b-9be6b9755cc1",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Stranded_Assets_101.mp4"
+    "video": "stickers/videos/Stranded_Assets_101.mp4",
+    "subtitle_file": "stickers/subtitle/Stranded_Assets_101_FIXED.vtt"
   },
   {
     "sticker_name": "Leading Sustainable Change",
@@ -1299,7 +1347,8 @@
     "sticker_id": "2b06466a-4571-4ee0-9e6b-51562f045c54",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Leading_Sustainable_Change_chYUcfm.mp4"
+    "video": "stickers/videos/Leading_Sustainable_Change_chYUcfm.mp4",
+    "subtitle_file": "stickers/subtitle/Leading_Sustainable_Change_DYhHxN3.vtt"
   },
   {
     "sticker_name": "Common Tools and Practices",
@@ -1327,7 +1376,8 @@
     "sticker_id": "22c3867a-97de-49d2-ba4e-2cfd2d33d4ee",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4000743a-440d-4873-a35a-65e66a893b3a",
-    "video": "stickers/videos/Common_Tools_and_Practices_iNVG0hi.mp4"
+    "video": "stickers/videos/Common_Tools_and_Practices_iNVG0hi.mp4",
+    "subtitle_file": "stickers/subtitle/Common_Tools_and_Practices.vtt"
   },
   {
     "sticker_name": "Sustainability Regulation 101",
@@ -1355,7 +1405,8 @@
     "sticker_id": "45d1f8a3-5fec-4b7e-a22d-e3a2ba8c5127",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "52111aac-d10d-48e7-b3ad-a9360996d536",
-    "video": "stickers/videos/Sustainability_Regulation_101_B9vOL67.mp4"
+    "video": "stickers/videos/Sustainability_Regulation_101_B9vOL67.mp4",
+    "subtitle_file": "stickers/subtitle/Sustainability_Regulation_101_modified.vtt"
   },
   {
     "sticker_name": "SC: Green Skills 101 - Bronze",
@@ -1380,7 +1431,8 @@
     "sticker_id": "667421ff-2156-4305-9e75-e948de51cf34",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Applying Sustainability - Gold",
@@ -1405,7 +1457,8 @@
     "sticker_id": "6f93a3a0-9739-4c20-92e3-ed53bc7e54ff",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Key Topics - Gold",
@@ -1430,7 +1483,8 @@
     "sticker_id": "797ec3cc-423f-4697-8503-3a8d2902fced",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Sustainability Champion - certified by CPD",
@@ -1454,7 +1508,8 @@
     "sticker_id": "7be585f7-f51b-41b7-80ac-a37d0763e26c",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Green Skills 101 - Silver",
@@ -1479,7 +1534,8 @@
     "sticker_id": "80ccc9e7-f12f-43d6-83dd-5b4e8a0fbf7a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Green Skills 101 - Gold",
@@ -1504,7 +1560,8 @@
     "sticker_id": "9dfb07a1-6645-4b22-898f-4c7a3f3a2d97",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Personal Actions - Silver",
@@ -1529,7 +1586,8 @@
     "sticker_id": "a928186c-c186-4ae2-b79d-dd3604eb9001",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Applying Sustainability - Bronze",
@@ -1554,7 +1612,8 @@
     "sticker_id": "b6c4b676-7d93-4c17-b26e-0ca94d4a1d85",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Key Topics - Silver",
@@ -1579,7 +1638,8 @@
     "sticker_id": "cabb5354-ef67-492f-8709-86f84c7b3d4f",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "SC: Applying Sustainability - Silver",
@@ -1604,7 +1664,8 @@
     "sticker_id": "fa03ff53-1f5f-4e48-9f4d-663c67ce69c8",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Introduction to Climate Risk",
@@ -1633,7 +1694,8 @@
     "sticker_id": "2affde9e-f9a5-43d9-86ea-cdc106945478",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/Introduction_to_Climate_Risk_low.mp4"
+    "video": "stickers/videos/Introduction_to_Climate_Risk_low.mp4",
+    "subtitle_file": "stickers/subtitle/Understanding_and_Measuring_Climate_Risk_modified.vtt"
   },
   {
     "sticker_name": "SB Thank You",
@@ -1658,7 +1720,8 @@
     "sticker_id": "8c15f2c2-2441-4074-a039-64ba6d6132f6",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Donate at a Food Bank",
@@ -1684,7 +1747,8 @@
     "sticker_id": "c8c2b5e4-50e2-4748-bc1a-df7da09f2ba3",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Fundamentals of Sustainability",
@@ -1712,7 +1776,8 @@
     "sticker_id": "121e9230-225a-4924-bcbd-9d60ea5f7425",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Fundamentals_of_Sustainability_mcA285n.mp4"
+    "video": "stickers/videos/Fundamentals_of_Sustainability_mcA285n.mp4",
+    "subtitle_file": "stickers/subtitle/Fundamentals_of_Sustainability_modified.vtt"
   },
   {
     "sticker_name": "Carbon Pricing 101",
@@ -1741,7 +1806,8 @@
     "sticker_id": "96b2212a-7244-47b2-bdbb-acbfbbe846ba",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Carbon_Pricing_101_Kaisie_Rayner.mp4"
+    "video": "stickers/videos/Carbon_Pricing_101_Kaisie_Rayner.mp4",
+    "subtitle_file": "stickers/subtitle/Carbon_Pricing_101_Kaisie_Rayner.vtt"
   },
   {
     "sticker_name": "Sustainable Supply Chains 101",
@@ -1770,7 +1836,8 @@
     "sticker_id": "35753f4a-a560-4d65-bcf4-ed9449f5c887",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Sustainable_Supply_Chains_101_Louise_Nicholls_ZI9mnPO.mp4"
+    "video": "stickers/videos/Sustainable_Supply_Chains_101_Louise_Nicholls_ZI9mnPO.mp4",
+    "subtitle_file": "stickers/subtitle/Sustainable_Supply_Chains_101_Louise_Nicholls_f64wsNO.vtt"
   },
   {
     "sticker_name": "Net Zero and Science Based Targets 101",
@@ -1803,7 +1870,8 @@
     "sticker_id": "a28ab09e-3f3e-4b28-9a2f-3a5bad94ae97",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Net_Zero_and_Science_Based_Targets_101_updated_2024.mp4"
+    "video": "stickers/videos/Net_Zero_and_Science_Based_Targets_101_updated_2024.mp4",
+    "subtitle_file": "stickers/subtitle/Net_Zero_and_Science_Based_Targets_101_updated_2024_uv74uOw.vtt"
   },
   {
     "sticker_name": "Good Governance 101",
@@ -1832,7 +1900,8 @@
     "sticker_id": "00399788-9560-4ca8-b8ff-634d60fb3906",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "52111aac-d10d-48e7-b3ad-a9360996d536",
-    "video": "stickers/videos/Good_Governance_101_Tsykn1e.mp4"
+    "video": "stickers/videos/Good_Governance_101_Tsykn1e.mp4",
+    "subtitle_file": "stickers/subtitle/Good_Governance_101_modified.vtt"
   },
   {
     "sticker_name": "The story of plastics",
@@ -1858,7 +1927,8 @@
     "sticker_id": "0f56e394-7401-455f-a2d4-d6d1750dd40b",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Plastics_In_Practice_Simon_Kelly_low_PTLmvjC.mp4"
+    "video": "stickers/videos/Plastics_In_Practice_Simon_Kelly_low_PTLmvjC.mp4",
+    "subtitle_file": "stickers/subtitle/Plastics_In_Practice_Simon_Kelly.vtt"
   },
   {
     "sticker_name": "What are the Sustainable Development Goals?",
@@ -1888,7 +1958,8 @@
     "sticker_id": "21771e00-014b-460e-83a9-c994a5d81147",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/What_are_the_Sustainable_Development_Goals.mp4"
+    "video": "stickers/videos/What_are_the_Sustainable_Development_Goals.mp4",
+    "subtitle_file": "stickers/subtitle/What_are_the_Sustainable_Development_Goals_modified_obpcTrh.vtt"
   },
   {
     "sticker_name": "What is Climate Change?",
@@ -1919,7 +1990,8 @@
     "sticker_id": "e4188973-7347-4ce6-9dce-307825483605",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/What_is_Climate_Change.mp4"
+    "video": "stickers/videos/What_is_Climate_Change.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Climate_Change_7blO4LJ.vtt"
   },
   {
     "sticker_name": "What are COP and the IPCC?",
@@ -1948,7 +2020,8 @@
     "sticker_id": "674c68ed-a38e-48c4-a08c-be3eb7ce5cd5",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/What_are_COP__the_IPCC_Anjuli_Parker_bFpHo6s.mp4"
+    "video": "stickers/videos/What_are_COP__the_IPCC_Anjuli_Parker_bFpHo6s.mp4",
+    "subtitle_file": "stickers/subtitle/What_are_COP__the_IPCC_Anjuli_Parker.vtt"
   },
   {
     "sticker_name": "What are our Planetary Boundaries?",
@@ -1976,7 +2049,8 @@
     "sticker_id": "a2ae3f68-a117-40d4-b47c-957c0010811f",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/What_are_our_Planetary_Boundaries_Wayne_Visser.mp4"
+    "video": "stickers/videos/What_are_our_Planetary_Boundaries_Wayne_Visser.mp4",
+    "subtitle_file": "stickers/subtitle/What_are_our_Planetary_Boundaries_Wayne_Visser_Y1uLrd3.vtt"
   },
   {
     "sticker_name": "What is Social Sustainability?",
@@ -2005,7 +2079,8 @@
     "sticker_id": "721e7abe-c828-4b8d-a7a9-a5e1d1301ad6",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": "stickers/videos/What_is_Social_Sustainability_low.mp4"
+    "video": "stickers/videos/What_is_Social_Sustainability_low.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Social_Sustainability_modified.vtt"
   },
   {
     "sticker_name": "What is Biodiversity?",
@@ -2032,7 +2107,8 @@
     "sticker_id": "748fe59c-ba47-48de-8cf9-1865bdb0ae2a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "462ba9f1-44fb-40a3-9920-21d8bc13b7d3",
-    "video": "stickers/videos/What_is_Biodiversity.mp4"
+    "video": "stickers/videos/What_is_Biodiversity.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Biodiversity_modified.vtt"
   },
   {
     "sticker_name": "What is the Circular Economy?",
@@ -2059,7 +2135,8 @@
     "sticker_id": "14803373-628e-46ec-bfa5-3e76b86cd335",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/What_is_the_Circular_Economy.mp4"
+    "video": "stickers/videos/What_is_the_Circular_Economy.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_the_Circular_Economy_modified_2LrWBhG.vtt"
   },
   {
     "sticker_name": "Waste and recycling",
@@ -2088,7 +2165,8 @@
     "sticker_id": "7f05b897-7ed3-4328-94a6-74b89f48f961",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/Waste_and_Recycling_Nick_Siepmann_low.mp4"
+    "video": "stickers/videos/Waste_and_Recycling_Nick_Siepmann_low.mp4",
+    "subtitle_file": "stickers/subtitle/Waste_and_Recycling_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "What are greenhouse gases?",
@@ -2120,7 +2198,8 @@
     "sticker_id": "e866a5aa-aaae-4e85-8b5a-84bcc49e6965",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/What_are_greenhouse_gases_Lauren_Blackwell.mp4"
+    "video": "stickers/videos/What_are_greenhouse_gases_Lauren_Blackwell.mp4",
+    "subtitle_file": "stickers/subtitle/What_are_greenhouse_gases_Lauren_Blackwell_modified.vtt"
   },
   {
     "sticker_name": "What is Renewable Energy?",
@@ -2147,7 +2226,8 @@
     "sticker_id": "fcdc529b-b0aa-4713-8ac9-8a1e1fb3ceea",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "a4bdaa85-3e13-4e79-989d-137ec62302c1",
-    "video": "stickers/videos/What_is_Renewable_Energy_Penelope_Hope.mp4"
+    "video": "stickers/videos/What_is_Renewable_Energy_Penelope_Hope.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Renewable_Energy_Penelope_Hope.vtt"
   },
   {
     "sticker_name": "Why sustainability matters to me",
@@ -2176,7 +2256,8 @@
     "sticker_id": "11768449-5f94-46be-9d2d-d5e84d89e383",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Why_Sustainability_Matters_to_me_Wayne_Visser_hjUuSQh.mp4"
+    "video": "stickers/videos/Why_Sustainability_Matters_to_me_Wayne_Visser_hjUuSQh.mp4",
+    "subtitle_file": "stickers/subtitle/Why_Sustainability_Matters_to_me_Wayne_Visser.vtt"
   },
   {
     "sticker_name": "Become a Sustainability Ambassador",
@@ -2201,7 +2282,8 @@
     "sticker_id": "750434d9-7e17-4e85-84a7-cbad5cd105e7",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/sticker_question_image_G5DN8"
+    "video": "stickers/videos/sticker_question_image_G5DN8",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Take 5 for Wellbeing",
@@ -2227,7 +2309,8 @@
     "sticker_id": "e8874cc5-8497-42f4-8e4f-2a140d3bbb37",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "The Hidden Disabilities Sunflower",
@@ -2253,7 +2336,8 @@
     "sticker_id": "67cbd618-282f-4fc9-b3b6-ee4cef541f74",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Autism 101",
@@ -2279,7 +2363,8 @@
     "sticker_id": "8fd73660-e8d9-4585-8a36-08ca5e5baedc",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "What is Sustainable Development?",
@@ -2304,7 +2389,8 @@
     "sticker_id": "c694ec5c-f840-4148-af47-6445a72f02bc",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/What_is_Sustainable_Development_United_Nations.mp4"
+    "video": "stickers/videos/What_is_Sustainable_Development_United_Nations.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Sustainable_Development_United_Nations.vtt"
   },
   {
     "sticker_name": "Team Sticker",
@@ -2329,7 +2415,8 @@
     "sticker_id": "7e5e061a-8d8c-419a-bbae-941abf51e263",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Join_or_create_a_team_seat8r.mp4"
+    "video": "stickers/videos/Join_or_create_a_team_seat8r.mp4",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Thank you Sticker",
@@ -2354,7 +2441,8 @@
     "sticker_id": "18d0a4e9-779b-42ac-90b7-672ca6f3567a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Onsite Renewables",
@@ -2378,7 +2466,8 @@
     "sticker_id": "d4e2dfe6-6696-411a-8864-28c0356fc4db",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "a4bdaa85-3e13-4e79-989d-137ec62302c1",
-    "video": "stickers/videos/On_Site_Renewables_Rebekah_Needham_z4op4Lp.mp4"
+    "video": "stickers/videos/On_Site_Renewables_Rebekah_Needham_z4op4Lp.mp4",
+    "subtitle_file": "stickers/subtitle/On_Site_Renewables_Rebekah_Needham_Quh7WKu.vtt"
   },
   {
     "sticker_name": "What is Carbon Capture?",
@@ -2404,7 +2493,8 @@
     "sticker_id": "9dfe22b8-4427-4147-a5e2-9eeba8711f19",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/What_is_Carbon_Capture_Stanford_University.mp4"
+    "video": "stickers/videos/What_is_Carbon_Capture_Stanford_University.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_Carbon_Capture_Stanford_University.vtt"
   },
   {
     "sticker_name": "Conducting an EIA",
@@ -2430,7 +2520,8 @@
     "sticker_id": "ec4fa335-52d4-412e-9b75-917fb1b5ab17",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "The next 100 years if we don't act",
@@ -2455,7 +2546,8 @@
     "sticker_id": "c5fafe94-5a0b-4175-abf0-18d3e9a791ca",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/The_next_100_years_if_we_dont_act.mp4"
+    "video": "stickers/videos/The_next_100_years_if_we_dont_act.mp4",
+    "subtitle_file": null
   },
   {
     "sticker_name": "The future of energy",
@@ -2480,7 +2572,8 @@
     "sticker_id": "e06f7843-084d-4e22-8f97-9a662ef68cd3",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "a4bdaa85-3e13-4e79-989d-137ec62302c1",
-    "video": "stickers/videos/The_future_of_energy.mp4"
+    "video": "stickers/videos/The_future_of_energy.mp4",
+    "subtitle_file": "stickers/subtitle/The_future_of_energy_WEF.vtt"
   },
   {
     "sticker_name": "Plastic free tips",
@@ -2505,7 +2598,8 @@
     "sticker_id": "46926aac-b2b6-46c0-ad9c-b567d2aafc6d",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Plastic_Free_Tips_Anita_Vandyke.mp4"
+    "video": "stickers/videos/Plastic_Free_Tips_Anita_Vandyke.mp4",
+    "subtitle_file": "stickers/subtitle/Plastic_Free_Tips_Anita_Vandyke.vtt"
   },
   {
     "sticker_name": "101 to Eco Anxiety",
@@ -2531,7 +2625,8 @@
     "sticker_id": "e0638790-ab31-4989-b1cd-3bc8c73b61fb",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Case Study: Patagonia",
@@ -2556,7 +2651,8 @@
     "sticker_id": "6b521d80-2406-43bc-a158-7daad13025db",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Patagonia_Case_Study_Simon_Kelly.mp4"
+    "video": "stickers/videos/Patagonia_Case_Study_Simon_Kelly.mp4",
+    "subtitle_file": "stickers/subtitle/Patagonia_Case_Study_Simon_Kelly_Subtitle_1.vtt"
   },
   {
     "sticker_name": "Sustainable Diet Importance and Tips",
@@ -2581,7 +2677,8 @@
     "sticker_id": "1b6545ef-5e29-4c1b-8ece-15050e3892b3",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878",
-    "video": "stickers/videos/Sustainable_Diet_Importance_and_Tips_World_Economic_Forum.mp4"
+    "video": "stickers/videos/Sustainable_Diet_Importance_and_Tips_World_Economic_Forum.mp4",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Wellbeing in Buildings",
@@ -2606,7 +2703,8 @@
     "sticker_id": "a7b87fa7-4060-43bd-aca7-0998390863d6",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878",
-    "video": "stickers/videos/Wellbeing_in_Buildings_Lauren_Blackwell.mp4"
+    "video": "stickers/videos/Wellbeing_in_Buildings_Lauren_Blackwell.mp4",
+    "subtitle_file": "stickers/subtitle/Wellbeing_in_Buildings_Lauren_Blackwell.vtt"
   },
   {
     "sticker_name": "Biodiversity and the Built Environment",
@@ -2632,7 +2730,8 @@
     "sticker_id": "4465f84b-8e87-421e-839d-6520bffb2bca",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "462ba9f1-44fb-40a3-9920-21d8bc13b7d3",
-    "video": "stickers/videos/Biodiversity_and_the_Built_Environment_Stefani_Papadaki.mp4"
+    "video": "stickers/videos/Biodiversity_and_the_Built_Environment_Stefani_Papadaki.mp4",
+    "subtitle_file": "stickers/subtitle/Biodiversity_and_the_Built_Environment_Stefani_Papadaki.vtt"
   },
   {
     "sticker_name": "Green Leases 101",
@@ -2657,7 +2756,8 @@
     "sticker_id": "6c2be3d7-315c-49d2-94c7-3194d95d8eff",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": ""
+    "video": "",
+    "subtitle_file": "stickers/subtitle/Green_Leases_Julie_Townsend_DZCi9Mo.vtt"
   },
   {
     "sticker_name": "GRESB 101",
@@ -2682,7 +2782,8 @@
     "sticker_id": "6e7e06bb-34bb-4bc6-85ff-9785d7aa317b",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/GRESB_101_Su-Fern_Tan.mp4"
+    "video": "stickers/videos/GRESB_101_Su-Fern_Tan.mp4",
+    "subtitle_file": "stickers/subtitle/GRESB_101_Su-Fern_Tan_GRESB_101_Su-Fern_Tan.vtt"
   },
   {
     "sticker_name": "Retrofit in a Heritage Building [STICKER UNDER CONSTRUCTION]",
@@ -2707,7 +2808,8 @@
     "sticker_id": "27c562e0-8615-4807-b8c3-4ef26257717b",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": "stickers/videos/sticker_question_image_GR4J9"
+    "video": "stickers/videos/sticker_question_image_GR4J9",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Real Estate and Climate Change",
@@ -2732,7 +2834,8 @@
     "sticker_id": "1a1b31f5-308f-4ded-8671-26f0c11983d5",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "9dc55c36-661c-4dc9-88c0-f935f72b4f72",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "What are we missing?",
@@ -2757,7 +2860,8 @@
     "sticker_id": "0df87ce5-9132-4ce3-9bbe-261ec7f25cc3",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": "stickers/videos/What_are_we_missing_Nick_Siepmann.mp4"
+    "video": "stickers/videos/What_are_we_missing_Nick_Siepmann.mp4",
+    "subtitle_file": "stickers/subtitle/What_are_we_missing_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "The limits of our planet",
@@ -2785,7 +2889,8 @@
     "sticker_id": "4c1baa08-f9c8-4399-bf38-c797e4d0e096",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/The_limits_of_our_planet_Mike_Hanson.mp4"
+    "video": "stickers/videos/The_limits_of_our_planet_Mike_Hanson.mp4",
+    "subtitle_file": "stickers/subtitle/The_limits_of_our_planet_Mike_Hanson.vtt"
   },
   {
     "sticker_name": "Benefits of being a sustainable business",
@@ -2811,7 +2916,35 @@
     "sticker_id": "3e547b39-b692-4cbc-9f6e-a2f7fd11e47e",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/Benefits_of_being_a_sustainable_business_Pendragon_Stuart_HX51FGP.mp4"
+    "video": "stickers/videos/Benefits_of_being_a_sustainable_business_Pendragon_Stuart_HX51FGP.mp4",
+    "subtitle_file": "stickers/subtitle/Benefits_of_being_a_sustainable_business_Pendragon_Stuart.vtt"
+  },
+  {
+    "sticker_name": "Benefits of being a sustainable business",
+    "description": "We’ve got to admit - sustainability isn’t always easy. Here’s why it’s not just a matter of doing the right thing - it’s the smart thing for your business!",
+    "end_description": "",
+    "active_image_url": "stickers/images/Benefits_of_being_a_sustainable_business_5QhG3Ks.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Role of Business",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "d1a6e475-40b1-4bb9-8248-5ea62bc50e63",
+    "sdgnumber": 12,
+    "sdgname": "Responsible Consumption & Production",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "3e547b39-b692-4cbc-9f6e-a2f7fd11e47e",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
+    "video": "stickers/videos/Benefits_of_being_a_sustainable_business_Pendragon_Stuart_HX51FGP.mp4",
+    "subtitle_file": "stickers/subtitle/Benefits_of_being_a_sustainable_business_Pendragon_Stuart_tTwhyzU.vtt"
   },
   {
     "sticker_name": "What is pollution and where does it occur?",
@@ -2837,7 +2970,35 @@
     "sticker_id": "fa414afe-82aa-431a-b8e8-c4d780d697ac",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4afa5cb5-1a9f-4d3f-94cb-15706d2e47d9",
-    "video": "stickers/videos/What_is_pollution_and_where_does_it_occur_Rida_Bilgrami_4vi6eTR.mp4"
+    "video": "stickers/videos/What_is_pollution_and_where_does_it_occur_Rida_Bilgrami_4vi6eTR.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_pollution_and_where_does_it_occur_Rida_Bilgrami.vtt"
+  },
+  {
+    "sticker_name": "What is pollution and where does it occur?",
+    "description": "It’s fair to say, nobody likes pollution. But there’s a lot more to it than just smog, litter and dirty water - watch this sticker to learn more!",
+    "end_description": "If you want to learn more, we have more stickers on waste and recycling, including one from Stickerbook cofounder Simon Kelly all about the complicated story of plastics!",
+    "active_image_url": "stickers/images/What_is_pollution_and_where_does_it_occur_wYEmmBp.jpg",
+    "tags": [
+      "SB_Sustainable Business Essentials",
+      "CORE_Planetary Boundaries",
+      "SB Core"
+    ],
+    "collectcount": "1",
+    "album": "Sustainability",
+    "chapter": "Key Topics",
+    "compstickerid": "c81e50aa-2315-4f07-8554-05738ae17092",
+    "sdgnumber": 6,
+    "sdgname": "Clean Water and Sanitation",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "16c1a988-24a2-471c-94b0-7d6d57c1d634",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "fa414afe-82aa-431a-b8e8-c4d780d697ac",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "4afa5cb5-1a9f-4d3f-94cb-15706d2e47d9",
+    "video": "stickers/videos/What_is_pollution_and_where_does_it_occur_Rida_Bilgrami_4vi6eTR.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_pollution_and_where_does_it_occur_Rida_Bilgrami_J2YUwUd.vtt"
   },
   {
     "sticker_name": "Welcome to Stickerbook!",
@@ -2861,7 +3022,8 @@
     "sticker_id": "da864fa3-7d90-4405-bc44-de7c3287df91",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": "stickers/videos/STANDARD_Welcome_to_Stickerbook_Nick_Siepmann.mp4"
+    "video": "stickers/videos/STANDARD_Welcome_to_Stickerbook_Nick_Siepmann.mp4",
+    "subtitle_file": "stickers/subtitle/STANDARD_Welcome_to_Stickerbook_Nick_Siepmann_STANDARD_Welcome_to_Stickerbook_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "Benefits of an inclusive workforce",
@@ -2888,7 +3050,8 @@
     "sticker_id": "e870a562-ce36-4017-8e36-81795f9fe4e9",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": "stickers/videos/Benefits_of_an_inclusive_workforce_Hemma_Varma.mp4"
+    "video": "stickers/videos/Benefits_of_an_inclusive_workforce_Hemma_Varma.mp4",
+    "subtitle_file": "stickers/subtitle/Benefits_of_an_inclusive_workforce_Hemma_Varma.vtt"
   },
   {
     "sticker_name": "Climate Transition Plans",
@@ -2914,7 +3077,8 @@
     "sticker_id": "768c0c5e-2abe-485c-a969-5697e1f1397f",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": ""
+    "video": "",
+    "subtitle_file": "stickers/subtitle/Climate_Transition_Plans_101_Kieran_Seal_lK3DZl4.vtt"
   },
   {
     "sticker_name": "Climate change in 60 seconds",
@@ -2941,7 +3105,8 @@
     "sticker_id": "5ad771dd-bab3-4eac-ae77-b015cb38060a",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Climate_Change_in_60_Seconds_Beth_Knight.mp4"
+    "video": "stickers/videos/Climate_Change_in_60_Seconds_Beth_Knight.mp4",
+    "subtitle_file": "stickers/subtitle/Climate_Change_in_60_Seconds_Beth_Knight.vtt"
   },
   {
     "sticker_name": "What is modern slavery?",
@@ -2967,7 +3132,8 @@
     "sticker_id": "365a0782-e34d-41a4-8b17-1b54024a8b36",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4000743a-440d-4873-a35a-65e66a893b3a",
-    "video": "stickers/videos/What_is_modern_slavery_Katie_Elder.mp4"
+    "video": "stickers/videos/What_is_modern_slavery_Katie_Elder.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_modern_slavery_Katie_Elder.vtt"
   },
   {
     "sticker_name": "Wellbeing and why it matters",
@@ -2993,7 +3159,8 @@
     "sticker_id": "7ed60167-4c0b-4698-95c2-b44c47668291",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8b743b51-f276-4c22-b93c-caba2c26a878",
-    "video": "stickers/videos/Wellbeing_and_why_it_matters_Dr_Beverley_Flint.mp4"
+    "video": "stickers/videos/Wellbeing_and_why_it_matters_Dr_Beverley_Flint.mp4",
+    "subtitle_file": "stickers/subtitle/Wellbeing_and_why_it_matters_Dr_Beverley_Flint.vtt"
   },
   {
     "sticker_name": "Why do we track emissions?",
@@ -3020,7 +3187,8 @@
     "sticker_id": "251c5d8c-1f8c-4bc6-98ae-5b980e6b6341",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Why_do_we_track_emissions_Wayne_Visser.mp4"
+    "video": "stickers/videos/Why_do_we_track_emissions_Wayne_Visser.mp4",
+    "subtitle_file": "stickers/subtitle/Why_do_we_track_emissions_Wayne_Visser.vtt"
   },
   {
     "sticker_name": "Group action and the Tragedy of the Commons",
@@ -3046,7 +3214,8 @@
     "sticker_id": "f1aa4126-cb40-49b4-b6a5-18523b16c5f3",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/Group_action_and_the_Tragedy_of_the_Commons_Debbie_Luffman.mp4"
+    "video": "stickers/videos/Group_action_and_the_Tragedy_of_the_Commons_Debbie_Luffman.mp4",
+    "subtitle_file": "stickers/subtitle/Group_action_and_the_Tragedy_of_the_Commons_Debbie_Luffman.vtt"
   },
   {
     "sticker_name": "The inequality of climate change",
@@ -3073,7 +3242,8 @@
     "sticker_id": "29b4c721-4d94-4b27-953c-b939ab3ffc32",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": "stickers/videos/Inequality_of_climate_change_Michael_Harvey.mp4"
+    "video": "stickers/videos/Inequality_of_climate_change_Michael_Harvey.mp4",
+    "subtitle_file": "stickers/subtitle/Inequality_of_climate_change_Michael_Harvey.vtt"
   },
   {
     "sticker_name": "How climate change affects us all",
@@ -3100,7 +3270,8 @@
     "sticker_id": "29fae1f1-f208-4852-98c0-39f52e10f3d1",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/How_climate_change_affects_us_all_Simona_Azzolini.mp4"
+    "video": "stickers/videos/How_climate_change_affects_us_all_Simona_Azzolini.mp4",
+    "subtitle_file": "stickers/subtitle/How_climate_change_affects_us_all_Simona_Azzolini.vtt"
   },
   {
     "sticker_name": "What is a sustainable business?",
@@ -3126,7 +3297,8 @@
     "sticker_id": "4d73790a-d1a1-4be1-b436-7aa2004b78ea",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/What_is_a_sustainable_business_or_product_Susan_Njoroge.mp4"
+    "video": "stickers/videos/What_is_a_sustainable_business_or_product_Susan_Njoroge.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_a_sustainable_business_Susan_Njoroge_K8By5z7.vtt"
   },
   {
     "sticker_name": "What does 'sustainability' even mean?",
@@ -3152,7 +3324,8 @@
     "sticker_id": "d32d6581-2f92-434a-add8-f8e071f5e151",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "f31e28bc-7dac-4b37-970f-c3bd99e06d83",
-    "video": "stickers/videos/What_does_sustainability_even_mean_Jacquie_Silvester_PE6jvjf.mp4"
+    "video": "stickers/videos/What_does_sustainability_even_mean_Jacquie_Silvester_PE6jvjf.mp4",
+    "subtitle_file": "stickers/subtitle/What_does_sustainability_even_mean_Jacquie_Silvester.vtt"
   },
   {
     "sticker_name": "Refer a friend",
@@ -3176,7 +3349,8 @@
     "sticker_id": "ff172108-f4bc-489f-93f6-7ac086dd3cbf",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Refer a colleague",
@@ -3200,7 +3374,8 @@
     "sticker_id": "ff0c8529-d353-430c-b2a1-7b993c57aaa2",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Sustainable Business Essentials - certified by CPD",
@@ -3224,7 +3399,8 @@
     "sticker_id": "9a69d207-7514-450b-b7e9-61178fce6010",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Summer 2024 Challenge - Bronze",
@@ -3248,7 +3424,8 @@
     "sticker_id": "4918ca92-426e-443f-9de8-c3d5105ed5a2",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Summer 2024 Challenge - Silver",
@@ -3272,7 +3449,8 @@
     "sticker_id": "e45790e6-d881-423e-b27f-bafb620d17c2",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Summer 2024 Challenge - Gold",
@@ -3296,7 +3474,8 @@
     "sticker_id": "800cd4f3-2dd6-4e55-bce6-0dc6b07a48b6",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   },
   {
     "sticker_name": "Financial Inclusion",
@@ -3322,7 +3501,8 @@
     "sticker_id": "5280f5fa-105f-4b6e-9003-a73046e89cea",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": "stickers/videos/Financial_Inclusion_Pendragon_Stuart.mp4"
+    "video": "stickers/videos/Financial_Inclusion_Pendragon_Stuart.mp4",
+    "subtitle_file": "stickers/subtitle/Financial_Inclusion_Pendragon_Stuart.vtt"
   },
   {
     "sticker_name": "What is sustainability reporting?",
@@ -3347,7 +3527,8 @@
     "sticker_id": "6525117e-9021-4828-a8e8-140e75ce8ca9",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/What_is_sustainability_reporting_Pendragon_Stuart.mp4"
+    "video": "stickers/videos/What_is_sustainability_reporting_Pendragon_Stuart.mp4",
+    "subtitle_file": "stickers/subtitle/What_is_sustainability_reporting_Pendragon_Stuart_VR9n4RM.vtt"
   },
   {
     "sticker_name": "What do you think of Stickerbook?",
@@ -3371,7 +3552,8 @@
     "sticker_id": "cd9cc463-27c0-4413-97c8-c11f3e2ea3e6",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": "stickers/videos/What_do_you_think_of_Stickerbook_Nick_Siepmann.mp4"
+    "video": "stickers/videos/What_do_you_think_of_Stickerbook_Nick_Siepmann.mp4",
+    "subtitle_file": "stickers/subtitle/What_do_you_think_of_Stickerbook_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "Welcome to Stickerbook: Back To School",
@@ -3395,7 +3577,8 @@
     "sticker_id": "c4b21ae3-7267-4459-a93f-8482165ae4db",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
-    "video": "stickers/videos/BTS_Welcome_to_Stickerbook_Nick_Siepmann_jeiNm0N.mp4"
+    "video": "stickers/videos/BTS_Welcome_to_Stickerbook_Nick_Siepmann_jeiNm0N.mp4",
+    "subtitle_file": "stickers/subtitle/BTS_Welcome_to_Stickerbook_Nick_Siepmann_BTS_Welcome_to_Stickerbook_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "Start making a change today",
@@ -3420,7 +3603,8 @@
     "sticker_id": "dd401998-6719-412a-866a-b7bb2b9442e0",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/Start_making_a_change_today_Rowan_Gard.mp4"
+    "video": "stickers/videos/Start_making_a_change_today_Rowan_Gard.mp4",
+    "subtitle_file": "stickers/subtitle/Start_making_a_change_today_Rowan_Gard_Start_making_a_change_today_Rowan_Gard.vtt"
   },
   {
     "sticker_name": "The Inaction Trap",
@@ -3445,7 +3629,8 @@
     "sticker_id": "e599eead-dd22-476a-afaa-b4c8d4d9193d",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": "stickers/videos/The_Inaction_Trap_Rowan_Gard.mp4"
+    "video": "stickers/videos/The_Inaction_Trap_Rowan_Gard.mp4",
+    "subtitle_file": "stickers/subtitle/The_Inaction_Trap_Rowan_Gard_The_Inaction_Trap_Rowan_Gard.vtt"
   },
   {
     "sticker_name": "The Hidden Costs of Business",
@@ -3470,7 +3655,8 @@
     "sticker_id": "ce31153e-fd4c-4a47-8728-3a6801818d13",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "7eb09602-ad39-47e2-a906-0bd7b9624223",
-    "video": "stickers/videos/The_Hidden_Costs_of_Business_Danielle_Azoulay.mp4"
+    "video": "stickers/videos/The_Hidden_Costs_of_Business_Danielle_Azoulay.mp4",
+    "subtitle_file": "stickers/subtitle/The_Hidden_Costs_of_Business_Danielle_Azoulay_The_Hidden_Costs_of_Business_Danielle_Azoulay.vtt"
   },
   {
     "sticker_name": "Digital financial inclusion",
@@ -3496,7 +3682,8 @@
     "sticker_id": "0b0d0c15-8161-4ad3-aefc-1181caf450cc",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
-    "video": "stickers/videos/Digital_Financial_Inclusion_Nick_Siepmann.mp4"
+    "video": "stickers/videos/Digital_Financial_Inclusion_Nick_Siepmann.mp4",
+    "subtitle_file": "stickers/subtitle/Digital_Financial_Inclusion_Nick_Siepmann_Digital_Financial_Inclusion_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "Sustainable Reporting Standards",
@@ -3521,7 +3708,8 @@
     "sticker_id": "2163a28e-24da-45ee-9439-306748e05d52",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Sustainable_Reporting_Standards_Myriam_Hofri.mp4"
+    "video": "stickers/videos/Sustainable_Reporting_Standards_Myriam_Hofri.mp4",
+    "subtitle_file": "stickers/subtitle/Sustainable_Reporting_Standards_Myriam_Hofri_Sustainable_Reporting_Standards_Myriam_Hofri.vtt"
   },
   {
     "sticker_name": "Sustainable finance",
@@ -3546,7 +3734,8 @@
     "sticker_id": "7f3bed80-bc46-4cea-89e6-b2b418cfbcab",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "4a25ab05-fcf4-4e96-805e-916ea79b3e26",
-    "video": "stickers/videos/Sustainable_Finance_Nick_Siepmann.mp4"
+    "video": "stickers/videos/Sustainable_Finance_Nick_Siepmann.mp4",
+    "subtitle_file": "stickers/subtitle/Sustainable_Finance_Nick_Siepmann_Sustainable_Finance_Nick_Siepmann.vtt"
   },
   {
     "sticker_name": "Carbon Confident",
@@ -3570,6 +3759,7 @@
     "sticker_id": "ab16ac03-da1f-496d-af8c-842e894f4928",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
-    "video": ""
+    "video": "",
+    "subtitle_file": null
   }
 ]

@@ -44,6 +44,9 @@ main{
     .libraryTableMod td:first-child{
       width: 3em;
     }
+    .libraryTable td:first-child{
+      width: 3em;
+    }
     .libraryTable tr:not(:first-child) td:not(:first-child){
       border-bottom: 1px solid lightgray;
       padding-left: 0.4em;
