@@ -304,7 +304,7 @@ function buildTable(table, library, tag, label, subtitle){
             if (pageVersion == "pickandmix"){
                 newRow.insertCell(-1).innerHTML = "<h4>" + s.sticker_name + "</h4>" + s.description;
             } else if (pageVersion == "scorm"){
-                newRow.insertCell(-1).innerHTML = "<h4>" + s.sticker_name + "</h4><div class=\"videoplayer\"><button class=\"open-modal\">Play Video</button><dialog class=\"video-modal\"><form method=\"dialog\"><button class=\"video-modal-close\">Close</button>  </form><video controls paused width=\"720\">    <source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/mp4\" /><source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/webm\" /><track src=\"https://assets.stickerbook.tech/media/" + s.subtitle_file + "\ kind=subtitles srclang=en label=English></video></dialog></div>";
+                newRow.insertCell(-1).innerHTML = "<h4>" + s.sticker_name + "</h4><div class=\"videoplayer\"><button class=\"open-modal\">Play Video</button><dialog class=\"video-modal\"><form method=\"dialog\"><button class=\"video-modal-close\">Close</button>  </form><video controls width=\"720\">    <source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/mp4\" /><source src=\"https://assets.stickerbook.tech/media/" + s.video + "\" type=\"video/webm\" /><track src=\"https://assets.stickerbook.tech/media/" + s.subtitle_file + "\ kind=subtitles srclang=en label=English></video></dialog></div>";
             }
             
             newRow.insertCell(-1).innerText = s.chapter;
