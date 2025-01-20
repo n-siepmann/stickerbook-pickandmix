@@ -106,6 +106,60 @@
     "subtitle_file": "stickers/subtitle/Tackling_the_Global_Water_Crisis_World_Economic_Forum.vtt"
   },
   {
+    "sticker_name": "Sensory impairments",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "295c675e-2f27-4d10-873e-d190ce942b20",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "698ecda6-a91e-4bc0-95c0-4da639b37255",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "What are pay gaps?",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "6eda086a-dd92-4518-b16b-c935a77b94e2",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "522171a7-6d3c-4f7b-8de2-237c8e5a5023",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
     "sticker_name": "Captain Planet",
     "description": "Congratulations - this sticker means you have been recognized for going over and above in sustainability by a colleague! Great job and why not 'pay it forward' yourself!?",
     "end_description": "",
@@ -141,7 +195,7 @@
       "CORE_Tools for Action",
       "SB_Carbon Confident"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "2463dcbc-96da-4a10-a447-700541750ca5",
@@ -225,7 +279,7 @@
       "SB_Sustainable Business Essentials",
       "CORE_Individual Action & Influence"
     ],
-    "collectcount": "1",
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "b0d89c4b-83df-47aa-8b7f-9bb0bacffcb0",
@@ -421,7 +475,7 @@
       "SB Core",
       "CORE_Individual Action & Influence"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "9e895037-7995-4d4d-89c1-2d60b3cb0c0e",
@@ -843,7 +897,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": "1",
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "047925e8-c4b2-4b1e-ba40-71b3315e41c5",
@@ -920,7 +974,7 @@
       "SB_SC_Achievements",
       "SB Core"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "c2158088-fad5-4d00-a542-6722610692df",
@@ -1182,7 +1236,7 @@
       "Sustainable Management Essentials",
       "SB_Carbon Confident"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Green Skills",
     "compstickerid": "65b77fe6-8139-49c3-a66b-ec9d9478ad6c",
@@ -1680,7 +1734,7 @@
       "CORE_Tools for Action",
       "SB_Carbon Confident"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Green Skills",
     "compstickerid": "66787056-c802-4f11-bc62-860688f45fdb",
@@ -1905,9 +1959,9 @@
   },
   {
     "sticker_name": "The story of plastics",
-    "description": "Environmental villain, or just misunderstood?\r\n\r\nThe theme for Earth Day 2024 is 'Planet vs plastics', and so here's the story of plastics, told by Stickerbook co-founder Simon Kelly.",
+    "description": "Environmental villain, or just misunderstood? Here's the story of plastics, told by Stickerbook co-founder Simon Kelly.",
     "end_description": "",
-    "active_image_url": "stickers/images/Story_of_Plastics.jpg",
+    "active_image_url": "stickers/images/Story_of_Plastics_undated.jpg",
     "tags": [
       "SB Core",
       "SB_Sustainable Business Essentials",
@@ -1944,7 +1998,7 @@
       "CBRE Hotels 1",
       "CORE_Global Action"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "2b3d7cd6-9da3-4247-ac2c-24b3e76ddbc2",
@@ -1976,7 +2030,7 @@
       "SEA Induction",
       "CORE_Climate Change"
     ],
-    "collectcount": null,
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "cd0c3335-392f-4e09-85f1-e567bc5f3e8d",
@@ -2093,7 +2147,7 @@
       "SB_SC_Key Topics",
       "CORE_Planetary Boundaries"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "53128805-c0b7-47da-a29f-8665bc9aedcd",
@@ -2121,7 +2175,7 @@
       "SB_SC_Key Topics",
       "CORE_Planetary Boundaries"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "dc2f24fd-19fa-4ea6-aa38-7f8cb0f2dc4e",
@@ -2151,7 +2205,7 @@
       "Green Week 22",
       "CORE_Planetary Boundaries"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "4026568d-6d47-414c-97d4-e04ab4539049",
@@ -2184,7 +2238,7 @@
       "CORE_Climate Change",
       "SB_Carbon Confident"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "4ace4b1c-1cfd-47fc-b136-1457bf06c1d1",
@@ -2212,7 +2266,7 @@
       "SB_SC_Key Topics",
       "CORE_Climate Change"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "90f9f475-50fb-4bf7-950d-d877cb21dff7",
@@ -2313,7 +2367,7 @@
     "subtitle_file": null
   },
   {
-    "sticker_name": "The Hidden Disabilities Sunflower",
+    "sticker_name": "Invisible disabilities",
     "description": "Sticker in development",
     "end_description": "",
     "active_image_url": "",
@@ -2370,7 +2424,7 @@
     "sticker_name": "What is Sustainable Development?",
     "description": "Here's a quick and fun explainer from the UN about the concept of Sustainable Development!",
     "end_description": "This video is based on ['What is sustainable development?'](https://www.youtube.com/watch?v=7V8oFI4GYMY) by FN-sambandet Norge, licensed under CC BY 3.0",
-    "active_image_url": "stickers/images/What_is_Sustainable_Development_B9EfJsq.jpg",
+    "active_image_url": "stickers/images/What_is_Sustainable_Development_u1zyvoo.jpg",
     "tags": [
       "SB Core",
       "CORE_Planetary Boundaries"
@@ -2532,7 +2586,7 @@
       "SB Core",
       "CORE_Climate Change"
     ],
-    "collectcount": null,
+    "collectcount": "1",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "129fe865-b60e-4588-8ec0-66615c229f19",
@@ -2630,7 +2684,7 @@
   },
   {
     "sticker_name": "Case Study: Patagonia",
-    "description": "In 1994, the Patagonia clothing company made a momentous decision - but how were they going to make it happen? Time to step into their shoes and find a solution…\r\n\r\nThis sticker is your chance to put your sustainability thinking to the test (as a team or on your own) in this real-world case study exercise!",
+    "description": "**Download the case study document [here](https://aae0ceba-002b-429b-a620-394c90ec262e.usrfiles.com/ugd/727353_b4603a7c05fa4f74971692cb50368a72.pdf).** \r\n\r\nIn 1994, the Patagonia clothing company made a momentous decision - but how were they going to make it happen? Time to step into their shoes and find a solution…\r\n\r\nThis sticker is your chance to put your sustainability thinking to the test (as a team or on your own) in this real-world case study exercise!",
     "end_description": "",
     "active_image_url": "stickers/images/Patagonia.jpg",
     "tags": [
@@ -2766,7 +2820,7 @@
     "active_image_url": "stickers/images/gresb_0wkQHQW.png",
     "tags": [
       "SB Core",
-      "REALESTATE_Wellbeing and social value"
+      "REALESTATE_Valuing sustainability"
     ],
     "collectcount": null,
     "album": "Sustainability",
@@ -3008,7 +3062,7 @@
     "tags": [
       "SB Core"
     ],
-    "collectcount": "8",
+    "collectcount": "11",
     "album": "Sustainability",
     "chapter": "Personal Actions",
     "compstickerid": "3014ce8e-3c3e-4c02-8bfa-039551b61b37",
@@ -3091,7 +3145,7 @@
       "SB Core",
       "SB_Carbon Confident"
     ],
-    "collectcount": "1",
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "079b0685-f194-40a7-8e2d-f126b2539869",
@@ -3256,7 +3310,7 @@
       "SB Core",
       "SB_Carbon Confident"
     ],
-    "collectcount": "1",
+    "collectcount": "3",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "74d5d28b-18c4-4a81-a2c6-46427861666b",
@@ -3310,7 +3364,7 @@
       "CORE_Tools for Action",
       "SB Core"
     ],
-    "collectcount": "1",
+    "collectcount": "3",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "7a21e940-ef89-4adc-8a21-8bee190b43f0",
@@ -3353,6 +3407,60 @@
     "subtitle_file": null
   },
   {
+    "sticker_name": "Physical disabilities",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "b54de035-f413-428e-8f93-18fe67c7597c",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "7e8dca5d-fe6e-4571-b0b8-abfc776a7992",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "Unconscious bias",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "667c21f4-4027-478e-acd0-d269a7ca3d96",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "517021d5-dca4-42fe-8652-07a56e5bee1a",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
     "sticker_name": "Refer a colleague",
     "description": "Boost your impact and stand out from the crowd by inviting a colleague to Stickerbook! You will earn a Referral achievement for every new user who joins the platform using your unique referral code. Please note that you can only refer colleagues from your organisation.",
     "end_description": "",
@@ -3374,6 +3482,59 @@
     "sticker_id": "ff0c8529-d353-430c-b2a1-7b993c57aaa2",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "Inclusion and exclusion",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "13df8c81-cc4d-4778-a0d2-64e0c2107746",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "0fbc127e-6805-4259-8821-57c365ac0df8",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "Wellbeing and equity",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "CORE_Health & Wellbeing",
+      "SB Core"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "1dce3379-2225-4939-a83a-724b95a41d3e",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "60170b9c-c866-4d1b-a95b-02297b090ed6",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
     "video": "",
     "subtitle_file": null
   },
@@ -3410,7 +3571,7 @@
     "tags": [
       null
     ],
-    "collectcount": "1",
+    "collectcount": "3",
     "album": "Sustainability",
     "chapter": "Achievements",
     "compstickerid": "c0c3e065-c38f-464e-a649-d5c4e9e1c2e3",
@@ -3474,6 +3635,60 @@
     "sticker_id": "800cd4f3-2dd6-4e55-bce6-0dc6b07a48b6",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": null,
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "How can I be a real ally",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "8b0b6913-240c-47b9-8670-512a556b7d7e",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "4186de77-8c0f-4315-bbbe-6b6ca13a834a",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "Having difficult conversations",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "5a6c5799-d6ec-49c7-b4d7-e64a7980849e",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "82fcaae9-deb8-43dd-8e72-4d6ebc6f763a",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
     "video": "",
     "subtitle_file": null
   },
@@ -3641,7 +3856,7 @@
       "SB Core",
       "CORE_Role of Business"
     ],
-    "collectcount": "1",
+    "collectcount": "2",
     "album": "Sustainability",
     "chapter": "Key Topics",
     "compstickerid": "ca80b0b9-d995-4cd0-a9f6-4d72f7dbba6a",
@@ -3759,6 +3974,60 @@
     "sticker_id": "ab16ac03-da1f-496d-af8c-842e894f4928",
     "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
     "sdg_id": "3ab795ea-fb6e-41dd-98d2-ae846db342f2",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "Inclusive language",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "edeb74c8-d203-488e-8da3-885a0d1e3a36",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "775b97f1-5777-4b34-9826-f3bcbb7e9d3e",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
+    "video": "",
+    "subtitle_file": null
+  },
+  {
+    "sticker_name": "Equity and equality",
+    "description": "in development",
+    "end_description": "",
+    "active_image_url": "",
+    "tags": [
+      "SB Placeholder",
+      "SB Core",
+      "CORE_Social Value & Inclusion"
+    ],
+    "collectcount": null,
+    "album": "Sustainability",
+    "chapter": "Social Sustainability",
+    "compstickerid": "d0487e27-1a01-4871-ba61-e09ab8fc339d",
+    "sdgnumber": 10,
+    "sdgname": "Reduced Inequalities",
+    "achievement_id": null,
+    "active": true,
+    "display": true,
+    "chapter_id": "47a8a3b1-0467-4f42-b765-80986d9b3cdc",
+    "company_id": "32aab30e-0b64-433b-a5db-545c74f889fb",
+    "sticker_id": "3c8fd0c8-b841-4edd-9443-bc2f86b8842b",
+    "album_id": "8486c2bd-14b5-452b-9925-87afadd23944",
+    "sdg_id": "8924e7c9-31b4-46ac-be40-c0245a7fb4db",
     "video": "",
     "subtitle_file": null
   }
